@@ -1,0 +1,484 @@
+# Kaynak: 6284 Sayılı Ailenin Korunması ve Kadına Karşı Şiddetin Önlenmesine Dair Kanuna İlişkin Uygulama Yönetmeliği
+# Konu: Kanunun Amacı ve Kapsamı
+
+## Soru: Bu yönetmeliğin amacı nedir?
+[cite_start]Cevap: Bu yönetmeliğin amacı, şiddete uğrayan veya şiddete uğrama tehlikesi bulunan kişilerin korunması, bu kişilere yönelik şiddetin önlenmesi ve şiddet uygulayanlar hakkında alınacak tedbirlere ilişkin usul ve esasları düzenlemektir[cite: 5].
+
+## Soru: 6284 sayılı kanun kimleri korur? Sadece kadınlar için mi?
+Cevap: Hayır, kanun sadece kadınları değil; [cite_start]şiddete uğrayan veya şiddete uğrama tehlikesi bulunan kadınları, çocukları, aile bireylerini ve tek taraflı ısrarlı takip mağduru olan kişileri korur[cite: 5].
+
+## Soru: Bu kanun şiddet uygulayanlar hakkında da bir düzenleme içeriyor mu?
+[cite_start]Cevap: Evet, kanun aynı zamanda şiddet uygulayan veya uygulama ihtimali olan kişiler hakkında şiddetin önlenmesine yönelik tedbirleri ve bu tedbirlerin nasıl alınacağını da kapsar[cite: 5].
+
+---
+
+# Konu: Temel Kavramlar ve Yasal Tanımlar
+
+## Soru: Yasal olarak "şiddet" tanımı neleri kapsar? Sadece fiziksel şiddet mi buna dahil?
+Cevap: Hayır, sadece fiziksel şiddet değildir. [cite_start]Şiddet; kişinin fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel her türlü tutum ve davranıştır[cite: 26]. [cite_start]Buna tehdit, baskı ve özgürlüğün keyfi engellenmesi de dahildir[cite: 26].
+
+## Soru: "Koruyucu tedbir" ile "önleyici tedbir" arasındaki fark nedir?
+[cite_start]Cevap: Koruyucu tedbir kararı, şiddet mağduru olan korunan kişi hakkında verilen kararlardır[cite: 24]. [cite_start]Önleyici tedbir kararı ise şiddet uygulayan veya uygulama tehlikesi bulunan kişi hakkında verilen kararlardır[cite: 30].
+
+## Soru: "Tek taraflı ısrarlı takip" veya "stalking" yasal olarak ne anlama geliyor?
+[cite_start]Cevap: Aralarında bir ilişki olup olmadığına bakılmaksızın, şiddet uygulayanın, şiddet mağduruna yönelik olarak güvenliğinden endişe ettirecek şekilde fiziki veya psikolojik korku ve çaresizlik duygularına sebep olacak her türlü fiili, sözlü, yazılı veya iletişim araçlarıyla baskı kuran tutum ve davranışlarıdır[cite: 33].
+
+## Soru: Yönetmelikte geçen "ŞÖNİM" neyin kısaltmasıdır ve ne işe yarar?
+[cite_start]Cevap: ŞÖNİM, Şiddet Önleme ve İzleme Merkezi'nin kısaltmasıdır[cite: 28]. [cite_start]Şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin uygulanmasına yönelik danışmanlık, rehberlik, yönlendirme ve izleme hizmetlerinin verildiği, 7/24 esasına göre çalışan merkezlerdir[cite: 28].
+
+## Soru: "Konukevi", "sığınmaevi" veya "kadın sığınağı" nedir?
+[cite_start]Cevap: Fiziksel, duygusal, cinsel, ekonomik veya sözlü istismara veya şiddete uğrayanların, şiddetten korunması, sorunlarının çözülmesi, güçlendirilmesi ve bu dönemde çocuklarıyla birlikte geçici süreyle kalabilecekleri yatılı sosyal hizmet kuruluşlarıdır[cite: 22].
+
+## Soru: "Korunan kişi" kimdir?
+[cite_start]Cevap: Tedbir kararı kapsamında korunan şiddet mağdurunu ve varsa beraberindeki çocukları, aile bireylerini ve tek taraflı ısrarlı takip mağdurunu ifade eder[cite: 23].
+
+## Soru: Şikayette bulunabileceğim yerler (şikayet mercileri) nereleridir?
+Cevap: Şikayet mercileri; [cite_start]Kolluk (polis, jandarma), mülki amir, Cumhuriyet başsavcılığı, hâkim ve Bakanlığın ilgili birimleridir[cite: 31].
+
+## Soru: "İhbar" ve "şikâyet" arasındaki fark nedir?
+[cite_start]Cevap: İhbar, üçüncü kişiler (komşu, akraba vb.) tarafından olayın bildirilmesidir[cite: 17]. [cite_start]Şikâyet ise şiddet mağdurunun kendisinin ilgili makamlara müracaat etmesidir[cite: 18].
+
+## Soru: "Hayati tehlike" yasal olarak ne anlama geliyor?
+[cite_start]Cevap: Bir kimsenin ölümle sonuçlanabilecek bir şiddet olayına maruz kalması ya da kalma ihtimalinin bulunması halidir[cite: 16].
+
+## Soru: "Geçici koruma" nedir?
+[cite_start]Cevap: Hayati tehlikesi bulunan şiddet mağdurunun, kolluk tarafından 7/24 esasına göre kesintisiz olarak, şiddet uygulayandan gelebilecek tehlikelerden korunması amacıyla yerine getirilen tedbirdir[cite: 13].
+
+## Soru: "Aydınlatılmış rıza" ne demektir?
+[cite_start]Cevap: Korunan kişinin, kendisi hakkında verilebilecek tedbir kararının sebeplerini, aşamalarını ve sonuçlarını anlayabileceği bir dilde bilgilendirilmesi ve tüm bunları anlayıp kabul ettiğine dair yazılı beyanının alınmasıdır[cite: 10].
+
+---
+
+# Konu: İhbar ve Şikayet Süreci
+
+## Soru: Şiddete tanık olursam ne yapabilirim? Başkası adına ihbarda bulunabilir miyim?
+[cite_start]Cevap: Evet, bir kişinin şiddete uğradığını veya şiddete uğrama tehlikesi altında olduğunu görmeniz halinde durumu yazılı, sözlü veya başka bir yolla ilgili makam ve mercilere ihbar edebilirsiniz. [cite: 544]
+
+## Soru: Kamu görevlileri (öğretmen, doktor vb.) şiddeti bildirmek zorunda mıdır?
+[cite_start]Cevap: Evet, şiddet veya şiddete uğrama tehlikesinden haberdar olan kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları, durumu derhal şikâyet mercilerine bildirmek zorundadır. [cite: 545]
+
+## Soru: Şiddete uğruyorsam şikayetimi nasıl yapabilirim? Yazılı mı olmalı?
+[cite_start]Cevap: Durumunuzu şikâyet mercilerine yazılı, sözlü veya başka bir şekilde bildirebilirsiniz. [cite: 546] [cite_start]Sözlü olarak yaptığınız şikâyetler ve ihbarlar derhal tutanağa geçirilir. [cite: 550]
+
+## Soru: ŞÖNİM'e şikayette bulunsam ne olur?
+[cite_start]Cevap: Müdürlük veya ŞÖNİM'e yapılan şikâyet ve ihbarlar, olayın özelliğine göre kolluğa, mülki amire, Cumhuriyet başsavcılığına veya hâkime gecikmeksizin bildirilir. [cite: 548]
+
+## Soru: Polise veya jandarmaya (kolluk) şikayette bulununca süreç nasıl işler?
+[cite_start]Cevap: Kolluk, şikayet üzerine gerekli işlemleri yapar. [cite: 551] [cite_start]Gecikmesinde sakınca bulunan bir hal varsa, kendisi koruyucu veya önleyici tedbir alıp bunu onay için mülki amire veya hâkime sunar. [cite: 552] [cite_start]Ayrıca kolluk, kendisine ulaşan her olay hakkında gecikmeksizin ŞÖNİM'e bilgi verir. [cite: 553]
+
+## Soru: Savcılığa şikayette bulununca süreç nasıl işler?
+[cite_start]Cevap: Cumhuriyet başsavcılığı, yapılan ihbar ve şikâyet üzerine evrakın bir örneğini, koruyucu veya önleyici tedbir kararı verilmesi için ivedilikle hâkime veya mülki amire gönderir. [cite: 554]
+
+## Soru: Mülki amire (vali, kaymakam) yapılan şikayet sonrası ne olur?
+[cite_start]Cevap: Mülki amire yapılan ihbar veya şikâyet üzerine, Kanun'da belirtilen koruyucu tedbirlerden birine veya birkaçına karar verilebilir. [cite: 555] [cite_start]Ayrıca mülki amir, durumu kolluğa veya Cumhuriyet başsavcılığına da bildirir. [cite: 556]
+
+## Soru: Alınan kararlar ŞÖNİM'e bildirilir mi?
+[cite_start]Cevap: Evet, hâkim veya mülki amir tarafından verilen kararlar ivedilikle ŞÖNİM'e bildirilir. [cite: 557] [cite_start]Ayrıca kolluk da kendisine intikal eden her olayı gecikmeksizin ŞÖNİM'e bildirmekle yükümlüdür. [cite: 553]
+
+---
+
+# Konu: Mülkî Amir Tarafından Verilebilecek Koruyucu Tedbirler
+
+## Soru: Mülki amir (vali, kaymakam) benim için hangi koruyucu tedbirlere karar verebilir?
+Cevap: Mülki amir, sizin talebiniz, Bakanlık veya kolluk görevlilerinin başvurusu üzerine ya da kendiliğinden (resen) aşağıdaki tedbirlerden birine veya birkaçına karar verebilir:
+- Size ve gerekiyorsa çocuklarınıza uygun bir barınma yeri (sığınak) sağlanması.
+- Geçici maddi yardım yapılması.
+- Psikolojik, mesleki, hukuki ve sosyal bakımdan rehberlik ve danışmanlık hizmeti verilmesi.
+- Hayati tehlikeniz bulunması halinde, geçici koruma altına alınmanız.
+- Çalışma yaşamına katılımınızı desteklemek amacıyla çocuklarınız için kreş imkânı sağlanması.
+
+## Soru: Bu tedbir kararlarının alınması için delil veya belge sunmam gerekir mi?
+Cevap: Hayır, mülki amir tarafından verilecek koruyucu tedbir kararları için şiddetin uygulandığı hususunda delil veya belge aranmaz.
+
+---
+
+# Konu: Barınma Yeri Sağlanması (Detaylar)
+
+## Soru: Hakkımda barınma kararı verilirse nerede kalırım?
+Cevap: Hakkınızda barınma yeri sağlanmasına karar verilirse, Bakanlığa ait veya Bakanlığın denetimi altındaki yerlerde (konukevi, ilk kabul birimi vb.) kalırsınız. Bu yerlerin yetersiz kaldığı durumlarda ise kamu kurum ve kuruluşlarına ait sosyal tesis, yurt veya benzeri yerlerde geçici olarak barındırılırsınız.
+
+## Soru: Barınma ve yemek masraflarını kim öder?
+Cevap: Barınma ve iaşe (yemek) giderleri, ŞÖNİM tarafından ödenir.
+
+## Soru: Sığınağa nasıl giderim? Ulaşım sağlanıyor mu?
+Cevap: Evet, ŞÖNİM tarafından il içi ve il dışı nakillerde ulaşım için araç tahsis edilir. Ayrıca ulaşım giderleriniz ile diğer zorunlu giderleriniz de karşılanır. Hayati tehlikenizin bulunması halinde ise yerleştirileceğiniz yere kolluk (polis/jandarma) refakat eder.
+
+## Soru: Acil bir durumda polis beni doğrudan bir barınma yerine yerleştirebilir mi?
+Cevap: Evet, mülki amirin veya kolluk amirinin kararı ile kamu kurumlarına ait barınma yerlerine getirilmeniz halinde, başka bir karar veya onay aranmaksızın derhal kabul edilirsiniz.
+
+## Soru: Hakkımda barınma kararı olmasına rağmen sığınakta kalmak istemezsem ne olur?
+Cevap: Sizin isteğinizle (aydınlatılmış rızanız alınarak) kalmak istediğiniz güvenli başka bir yere ŞÖNİM tarafından ulaştırılırsınız. Eğer hayati tehlikeniz bulunuyorsa, bu ulaştırma işlemi sırasında polisten refakat talep edilir.
+
+---
+
+# Konu: Geçici Maddi Yardım (Detaylar)
+
+## Soru: Geçici maddi yardım alabilir miyim?
+Cevap: Evet, Kanun kapsamında sizin için geçici maddi yardım yapılmasına karar verilebilir. Bu karar size tebliğ edilir ve yerine getirilmesi için ŞÖNİM'e gönderilir.
+
+## Soru: Bu maddi yardımın miktarı ne kadardır?
+Cevap: 16 yaşından büyükler için, o yıl belirlenen aylık net asgari ücretin otuzda birine kadar günlük ödeme yapılır.
+
+## Soru: Yanımda çocuklarım varsa yardım miktarı artar mı?
+Cevap: Evet, korunan kişinin birden fazla olması halinde (çocuklarınız dahil), ilave her bir kişi için bu günlük tutarın yüzde yirmisi (%20) oranında ayrıca ödeme yapılır. Ancak toplam ödenecek tutar, belirlenen günlük ödeme tutarının bir buçuk katını geçemez.
+
+## Soru: Eğer bir sığınakta (barınma yeri) kalıyorsam maddi yardım kesilir mi veya azalır mı?
+Cevap: Kesilmez, ancak azalır. Korunan kişilere barınma yeri sağlanması halinde, belirlenen günlük yardım tutarları yüzde elli (%50) oranında azaltılarak uygulanır.
+
+## Soru: Maddi yardımı nasıl alacağım? Elden para veriliyor mu?
+Cevap: Hayır, korunan kişiye elden ödeme yapılmaz. Geçici maddi yardım, sizin bildireceğiniz bir banka hesap numarasına, ŞÖNİM tarafından hazırlanan bordrolar ile her ayın on beşinde ve otuzunda yatırılır.
+
+## Soru: Başka bir kurumdan (örn: sosyal yardım) para yardımı alıyor olmam, bu yardımı almama engel mi?
+Cevap: Hayır, diğer kanunlara göre yapılan yardımlar, bu kanun kapsamında geçici maddi yardım yapılmasına karar verilmesine engel olmaz.
+
+## Soru: Bu maddi yardımdan vergi kesilir mi?
+Cevap: Hayır, bu kapsamda yapılan ödemeler gelir vergisi ile veraset ve intikal vergisinden muaftır.
+
+---
+
+# Konu: Rehberlik ve Danışmanlık Hizmetleri
+
+## Soru: Psikolojik destek alabilir miyim?
+Cevap: Evet, size psikolojik destek sağlamak üzere ilgili kamu kurum ve kuruluşları ile işbirliği içerisinde gerekli hizmetler verilir.
+
+## Soru: Hukuki haklarım konusunda danışmanlık veya avukat desteği alabilir miyim?
+Cevap: Evet, hukuki rehberliğe ihtiyacınız olması halinde, davalara müdahil olmayı da içeren gerekli destek ve danışmanlık hizmeti verilir.
+
+## Soru: İş bulmam, meslek kurslarına katılmam gibi konularda da yardımcı olunuyor mu?
+Cevap: Evet, size iş bulma, meslek edindirme kurslarına katılma gibi konularda gelişmeniz ve uyum sağlamanız için gerekli bilgi ve becerileri kazandırmak amacıyla rehberlik ve danışmanlık hizmetleri verilir.
+
+## Soru: Tüm bu danışmanlık hizmetlerini (psikolojik, hukuki, mesleki) kim organize ediyor?
+Cevap: Bu hizmetlerin yerine getirilmesinde koordinasyon ŞÖNİM tarafından sağlanır.
+
+---
+
+# Konu: Geçici Koruma Altına Alınma (Hayati Tehlike Durumu)
+
+## Soru: Hayati tehlikem varsa ne olur? Devlet beni korur mu?
+[cite_start]Cevap: Evet, hayati tehlikenizin bulunması halinde, sizin talebiniz üzerine veya resen (doğrudan) mülki amir veya gecikmesinde sakınca bulunan hallerde kolluk amiri tarafından geçici koruma altına alınmanıza karar verilebilir[cite: 602].
+
+## Soru: Geçici koruma kararı ne anlama geliyor ve kim tarafından uygulanır?
+[cite_start]Cevap: Geçici koruma, kolluk (polis/jandarma) tarafından yirmidört saat esasına göre kesintisiz olarak, şiddet uygulayandan gelebilecek tehlikelerden korunmanızdır[cite: 519]. [cite_start]Bu kararın yerine getirilmesinden, bulunduğunuz yerdeki kolluk görevli ve yetkilidir[cite: 603].
+
+## Soru: Koruma altındayken başka bir şehre veya yere gitmem gerekirse ne yapmalıyım?
+[cite_start]Cevap: Acil durumlarda hemen, diğer hallerde ise yirmidört saat öncesinden gideceğiniz yer hakkında görevli kolluğa bilgi vermeniz gerekir[cite: 604]. [cite_start]Gideceğiniz yerdeki kolluk birimi haberdar edilir ve koruma tedbiri orada da uygulanmaya devam olunur[cite: 605].
+
+## Soru: Geçici koruma kararı verildiğinde hangi konularda bilgilendirilirim?
+[cite_start]Cevap: Kolluk tarafından size; koruma kararının kapsamı, tehlike anında arayabileceğiniz telefon numaraları, kolluğun sorumlulukları, hangi durumlarda kolluğa bilgi vermeniz gerektiği ve hangi birimin korumadan sorumlu olduğu gibi hususlar açıklanır ve bir tutanakla size tebliğ edilir[cite: 607].
+
+---
+
+# Konu: Kreş İmkanı Sağlanması
+
+## Soru: Çalışabilmem için çocuklarıma kreş desteği sağlanır mı?
+[cite_start]Cevap: Evet, çalışma yaşamına katılımınızı desteklemek amacıyla çocuklarınız için kreş imkânı sağlanması tedbiri verilebilir[cite: 609].
+
+## Soru: Kreş desteği ne kadar süreyle verilir?
+[cite_start]Cevap: Eğer çalışmıyorsanız çalışma yaşamına katılmanız için dört ay, eğer çalışıyorsanız iki aylık süre ile sınırlı olmak kaydıyla kreş desteği verilir[cite: 609].
+
+## Soru: Kreş ücretinin ne kadarı karşılanır ve ödeme nasıl yapılır?
+[cite_start]Cevap: Aylık net asgari ücret tutarının yarısını geçmemek şartıyla, belgelediğiniz kreş ücreti Bakanlık bütçesinden karşılanır[cite: 609]. [cite_start]Ödemeler, sizin ibraz ettiğiniz belgeler üzerine Müdürlük tarafından doğrudan kreşe yapılır[cite: 615, 612].
+
+## Soru: Kreş desteğinden faydalanmak için ne yapmam gerekir?
+[cite_start]Cevap: Çocuğunuzu bir kreşe kaydettiğinize dair belge ve aylık kreş ücretini gösterir belgeyi Müdürlüğe ibraz etmeniz gerekir[cite: 610].
+
+---
+
+# Konu: Hâkim Tarafından Verilebilecek Ek Koruyucu Tedbirler
+
+## Soru: Mülki amirin kararlarına ek olarak, hâkim tarafından hangi koruyucu tedbirlere karar verilebilir?
+[cite_start]Cevap: Hâkim, sizin talebiniz, Bakanlık, kolluk veya savcının başvurusu üzerine veya resen, delil veya belge aramaksızın şu ek tedbirlere karar verebilir[cite: 618]:
+- [cite_start]İş yerinizin değiştirilmesi[cite: 619].
+- [cite_start]Evli olmanız halinde müşterek yerleşim yerinden ayrı bir yerleşim yeri belirlenmesi[cite: 620].
+- [cite_start]Oturduğunuz eve "aile konutu şerhi" konulması[cite: 621].
+- [cite_start]Hayati tehlikenizin çok yüksek olması ve diğer tedbirlerin yetersiz kalması halinde, kimlik ve diğer bilgilerinizin değiştirilmesi[cite: 622].
+
+## Soru: Kimliğimin ve diğer resmi belgelerimin değiştirilmesini hangi şartlarda isteyebilirim?
+[cite_start]Cevap: Bu tedbir, ancak hayati tehlikenizin bulunması, bu tehlikenin önlenmesi için diğer tedbirlerin yetersiz kalacağının anlaşılması ve sizin bu konuda aydınlatılmış rızanızın (onayınızın) olması halinde hâkim tarafından verilebilir[cite: 622].
+
+---
+
+# Konu: Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları
+
+## Soru: Can güvenliğim nedeniyle iş yerimin değiştirilmesini isteyebilir miyim?
+Cevap: Evet, talebiniz veya onayınız üzerine hâkim, iş yerinizin il içinde ya da il dışında değiştirilmesine karar verebilir.
+
+## Soru: İş yerimin değiştirilmesi kararı nasıl uygulanır?
+Cevap: Karar, sizin için en uygun koşullar göz önüne alınarak, yerine getirilmesi için hâkim tarafından doğrudan çalıştığınız iş yerine tebliğ edilir ve yetkili kurum tarafından uygulanır.
+
+## Soru: Evli isem, resmi olarak eşimden ayrı bir adreste yaşadığım belirtilebilir mi?
+Cevap: Evet, talebiniz üzerine hâkim, müşterek yerleşim yerinizden ayrı bir yerleşim yeri belirlenmesine karar verebilir. Bu karardan sonra nüfus müdürlüğü, talebinize uygun olarak adresle ilgili gerekli işlemleri yapar.
+
+## Soru: "Aile konutu şerhi" nedir ve ne işe yarar?
+Cevap: Aile konutu şerhi, oturduğunuz evin tapusuna işlenen ve eşinizin sizin rızanız olmadan evi satmasını, kiraya vermesini veya üzerinde herhangi bir işlem yapmasını engelleyen bir korumadır.
+
+## Soru: Evimize "aile konutu şerhi" konulmasını nasıl talep edebilirim?
+Cevap: Talebiniz üzerine ve Türk Medeni Kanunundaki şartların varlığı halinde, hâkim tapu kütüğüne aile konutu şerhi konulması kararı verebilir. Bu karar, hâkim tarafından ivedilikle ilgili tapu sicil müdürlüğüne gönderilerek uygulanır.
+
+## Soru: Hangi durumlarda kimliğimin ve diğer resmi belgelerimin değiştirilmesini isteyebilirim?
+[cite_start]Cevap: Bu, en ciddi tedbirlerden biridir. [cite: 634] [cite_start]Ancak hayati tehlikenizin bulunması, bu tehlikenin önlenmesi için diğer tedbirlerin yetersiz kalacağının anlaşılması ve sizin bu konuda aydınlatılmış rızanızın (onayınızın) olması halinde hâkim tarafından kimlik ve diğer bilgilerinizin değiştirilmesine karar verilebilir[cite: 634].
+
+## Soru: Kimlik değiştirme süreci nasıl işler?
+[cite_start]Cevap: Hâkimin verdiği karar, İçişleri Bakanlığı'nca gereğinin yapılması için Cumhuriyet başsavcılığına gönderilir[cite: 635]. [cite_start]Başsavcılık da kararı ivedilikle İçişleri Bakanlığı'na iletir[cite: 636].
+
+---
+
+# Konu: Şiddet Uygulayan Hakkında Hâkim Tarafından Verilebilecek Önleyici Tedbirler
+
+## Soru: Hâkim, şiddet uygulayan kişi hakkında ne gibi kararlar verebilir? Onu durdurmak için ne yapılabilir?
+[cite_start]Cevap: Hâkim, şiddet uygulayan kişi hakkında aşağıdaki önleyici tedbirlerden birine veya birkaçına karar verebilir[cite: 638]:
+- [cite_start]Size yönelik şiddet tehdidi, hakaret, aşağılama içeren söz ve davranışlarda bulunmaması[cite: 639].
+- [cite_start]Oturduğunuz ortak evden derhal uzaklaştırılması ve evin size tahsis edilmesi[cite: 640].
+- [cite_start]Size, evinize, okulunuza ve işyerinize yaklaşmaması[cite: 641].
+- [cite_start]Çocuklarla kişisel ilişkisinin bir refakatçi eşliğinde kurulması, sınırlandırılması ya da tümüyle kaldırılması[cite: 642].
+- [cite_start]Sizin yakınlarınıza, tanıklarınıza veya çocuklarınıza yaklaşmaması[cite: 643].
+- [cite_start]Kişisel ve ev eşyalarınıza zarar vermemesi[cite: 644].
+- [cite_start]Sizi iletişim araçlarıyla (telefon, internet vb.) rahatsız etmemesi[cite: 645].
+- [cite_start]Sahip olduğu silahları polise teslim etmesi[cite: 646].
+- [cite_start]Alkol veya uyuşturucu madde kullanmaması, bu maddelerin etkisindeyken size yaklaşmaması ve bağımlılığı varsa tedavi olması[cite: 648].
+- [cite_start]Bir sağlık kuruluşuna muayene veya tedavi için başvurması[cite: 649].
+
+## Soru: Şiddet uygulayan kişi evin geçimini sağlıyorsa, hâkim nafaka kararı verebilir mi?
+[cite_start]Cevap: Evet, eğer daha önce hükmedilmiş bir nafaka yoksa, hâkim sizin yaşam düzeyinizi göz önünde bulundurarak, siz talep etmeseniz bile tedbir nafakasına hükmedebilir[cite: 651].
+
+## Soru: Hâkim çocuklar hakkında velayet gibi başka kararlar da verebilir mi?
+[cite_start]Cevap: Evet, hâkim Çocuk Koruma Kanunu ve Medeni Kanun hükümlerine göre velayet, kayyım, nafaka ve çocuklarla kişisel ilişki kurulması gibi hususlarda da karar verebilir[cite: 650].
+
+---
+
+# Konu: Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)
+
+## Soru: Şiddet uygulayanın bana hakaret etmesi, tehdit etmesi veya beni küçük düşürmesi engellenebilir mi?
+[cite_start]Cevap: Evet, hâkim tarafından, şiddet uygulayanın size karşı tehdit, hakaret, aşağılama veya küçük düşürme gibi söz ve davranışlarda bulunmamasına ilişkin bir karar verilebilir[cite: 148, 149].
+
+## Soru: Şiddet uygulayanın evden uzaklaştırılması ve evin bana tahsis edilmesi mümkün mü?
+[cite_start]Cevap: Evet, hâkim, şiddet uygulayanın birlikte oturduğunuz ortak konuttan uzaklaştırılmasına ve bu konutun size tahsis edilmesine karar verebilir[cite: 151].
+
+## Soru: Evden uzaklaştırılırsa, kişisel eşyalarını alabilir mi?
+[cite_start]Cevap: Evet, talep edilmesi halinde, hem sizin hem de şiddet uygulayanın kişisel eşya ve belgelerinin polis eşliğinde (kolluk marifetiyle) teslim edilmesine karar verilebilir[cite: 152]. [cite_start]Hangi eşyaların teslim edileceği kararda belirtilir[cite: 153].
+
+## Soru: Evden uzaklaştırılan kişi evin kirasını ve faturalarını ödemeye devam etmek zorunda mı?
+[cite_start]Cevap: Evet, uzaklaştırma kararı, şiddet uygulayanın konutun kira, elektrik, su, telefon, doğalgaz gibi giderlerini karşılama yükümlülüğünü ortadan kaldırmaz[cite: 154]. [cite_start]Hâkim, bu yükümlülüklerin devamına da karar verebilir[cite: 155].
+
+## Soru: Uzaklaştırma kararı (yaklaşmama tedbiri) hangi yerleri kapsar?
+[cite_start]Cevap: Hâkim, şiddet uygulayanın size, oturduğunuz konuta, çocuklarınızın okuluna, sizin işyerinize ve bulunabileceğiniz diğer yerlere yaklaşmamasına karar verebilir[cite: 158].
+
+## Soru: Şiddet uygulayanın çocuklarımla görüşmesi engellenebilir mi veya kısıtlanabilir mi?
+[cite_start]Cevap: Evet, eğer daha önceden verilmiş bir kişisel ilişki kurma kararı varsa, hâkim bu ilişkinin bir refakatçi eşliğinde yapılmasına, sınırlandırılmasına ya da tamamen kaldırılmasına karar verebilir[cite: 160].
+
+## Soru: Şiddet uygulayanın aileme, arkadaşlarıma veya olayın tanıklarına yaklaşması engellenebilir mi?
+[cite_start]Cevap: Evet, hâkim gerekli görürse, şiddet uygulayanın, sizin yakınlarınıza, şiddetin tanıklarına ve çocuklarınıza yaklaşmamasına karar verebilir[cite: 162].
+
+## Soru: Şiddet uygulayanın eşyalarıma zarar vermesi nasıl engellenir?
+[cite_start]Cevap: Hâkim tarafından, şiddet uygulayanın, sizin şahsi eşyalarınıza ve ev eşyalarınıza zarar vermemesine yönelik bir karar verilebilir[cite: 164].
+
+## Soru: Beni telefonla aramasını, mesaj atmasını veya sosyal medyadan rahatsız etmesini engelleyebilir miyim?
+[cite_start]Cevap: Evet, hâkim, şiddet uygulayanın sizi görsel, işitsel, yazılı, internet gibi iletişim araçlarıyla ya da başka yollarla rahatsız etmemesine karar verebilir[cite: 166].
+
+## Soru: Şiddet uygulayanın silahı varsa, elinden alınması için karar çıkartılabilir mi?
+[cite_start]Cevap: Evet, hâkim, şiddet mağdurunun korunması amacıyla şiddet uygulayana ait silahların kolluğa teslim edilmesine ve tedbir süresinin sonuna kadar emanette tutulmasına karar verebilir[cite: 168, 169].
+
+---
+
+# Konu: Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)
+
+## Soru: Şiddet uygulayan kişi işi gereği (polis, asker, güvenlik görevlisi gibi) silah taşıyorsa, bu silah da elinden alınabilir mi?
+Cevap: Evet, hâkim, şiddet uygulayanın silah taşıması zorunlu olan bir kamu görevi ifa etse bile, bu görevi nedeniyle zimmetinde bulunan silahı kurumuna teslim etmesine yönelik karar verebilir.
+
+## Soru: Kurumuna teslim ettiği silahı istediği zaman geri alabilir mi?
+Cevap: Hayır, silahı teslim alan kurum amiri, tedbir kararının süresi bitene veya mahkeme tarafından yeni bir karar verilene kadar silahı hiçbir şekilde iade etmez.
+
+## Soru: Şiddet uygulayan kişinin alkol veya uyuşturucu kullanması engellenebilir mi?
+Cevap: Evet, hâkim, şiddet uygulayanın korunan kişilerin bulundukları yerlerde alkol ya da uyuşturucu madde kullanmamasına veya bu maddelerin etkisindeyken bu yerlere yaklaşmamasına karar verebilir.
+
+## Soru: Eğer şiddet uygulayanın bağımlılığı varsa, tedavi olması için bir karar alınabilir mi?
+Cevap: Evet, hâkim, kişinin bağımlılığının olması hâlinde, hastaneye yatmak dâhil, muayene ve tedavisinin sağlanmasına yönelik karar verebilir.
+
+## Soru: Tedavi sürecini kim takip eder ve kişi tedaviyi reddederse ne olur?
+Cevap: Tedavi sürecinin takibi ŞÖNİM tarafından ilgili kurumlarla koordinasyon içinde yapılır. Eğer kişi tedaviyi reddederse, bu durum bir tutanakla tespit edilerek derhal Cumhuriyet başsavcılığına ve ŞÖNİM’e bildirilir.
+
+## Soru: Şiddet eğilimini önlemek amacıyla, şiddet uygulayanın genel bir sağlık kontrolünden geçmesi veya tedavi olması sağlanabilir mi?
+Cevap: Evet, hâkim, şiddet uygulayanın şiddet eğilimine yol açan davranışlarını önlemek amacıyla bir sağlık kuruluşuna muayene veya tedavisi için başvurmasına karar verebilir. Tedavi süreci il halk sağlığı müdürlükleri veya toplum sağlığı merkezleri tarafından takip edilir ve sonuçlar ŞÖNİM'e bildirilir.
+
+## Soru: Acil bir durumda, hâkim veya vali/kaymakam kararı olmadan polis/jandarma benim için barınma veya koruma kararı alabilir mi?
+Cevap: Evet, gecikmesinde sakınca bulunan hallerde, barınma yeri sağlanması ve geçici koruma altına alınma gibi tedbirler ilgili kolluk amiri (polis amiri, jandarma komutanı) tarafından alınabilir.
+
+## Soru: Polisin/jandarmanın aldığı acil tedbir kararları kalıcı mıdır?
+Cevap: Hayır, kalıcı değildir. Kolluk amiri, aldığı kararı en geç bir sonraki iş günü içinde mülki amirin (barınma/koruma için) veya hâkimin (önleyici tedbirler için) onayına sunmak zorundadır. Mülki amir 48 saat, hâkim ise 24 saat içinde onaylamazsa, bu tedbirler kendiliğinden kalkar.
+
+---
+
+# Konu: Tedbir Kararlarının Verilmesi ve Süresi
+
+## Soru: Tedbir kararı verilmesini kimler talep edebilir?
+Cevap: Tedbir kararı, sizin talebiniz, müdürlük, ŞÖNİ- veya kolluk görevlileri ya da Cumhuriyet savcısının başvurusu üzerine verilir.
+
+## Soru: Tedbir kararını kim verir? Nereye başvurmalıyım?
+Cevap: Tedbir kararları, size en çabuk ve en kolay ulaşılabilecek yerdeki hâkimden, mülki amirden (vali/kaymakam) ya da kolluktan (polis/jandarma) talep edilebilir.
+
+## Soru: Tedbir kararı ne kadar süre için verilir?
+Cevap: Tedbir kararı ilk defasında en çok altı ay için verilebilir.
+
+## Soru: Altı ay sonunda tehlike devam ediyorsa koruma kararı uzatılabilir mi?
+Cevap: Evet, şiddet veya şiddet uygulanma tehlikesinin devam ettiğinin anlaşılması halinde, sizin veya ilgili kurumların talebi üzerine ya da resen (doğrudan), tedbirlerin süresinin veya şeklinin değiştirilmesine ya da aynen devam etmesine karar verilebilir.
+
+## Soru: Koruyucu tedbir kararı (barınma, maddi yardım vb.) alabilmem için delil veya belge sunmam şart mı?
+Cevap: Hayır, koruyucu tedbir kararı verilebilmesi için, şiddetin uygulandığı hususunda delil veya belge aranmaz.
+
+## Soru: Tehlike ortadan kalkarsa verilen tedbir kararı kaldırılabilir mi?
+Cevap: Evet, şiddet veya şiddet uygulama tehlikesinin ortadan kalktığının anlaşılması halinde, kararı veren merci tarafından verilen tedbirlerin kaldırılmasına karar verilebilir. Bu durumda karar size de tebliğ edilir.
+
+---
+
+# Konu: Tedbir Kararlarının Bildirilmesi (Tebliği)
+
+## Soru: Verilen tedbir kararı kimlere bildirilir?
+Cevap: Tedbir kararı, kararı veren merci tarafından hem size (korunan kişiye) hem de şiddet uygulayana tebliğ edilir. Ayrıca kararın uygulanması için görevli olan kuruma (kolluk, ŞÖNİ- vb.) gönderilir.
+
+## Soru: Tedbir talebim reddedilirse bu karar şiddet uygulayana da bildirilir mi?
+Cevap: Hayır, tedbir talebinin reddine ilişkin karar sadece size (korunan kişiye) tebliğ edilir.
+
+## Soru: Acil durumda polisin aldığı tedbir kararı daha sonra onaylanmazsa ne olur?
+Cevap: Polisin aldığı acil tedbir kararı yetkili merci (hâkim veya mülki amir) tarafından onaylanmazsa, kararın kalktığı size tebliğ edilir ve ilgili kolluğa bildirilir.
+
+## Soru: Şiddet uygulayana, karara uymazsa ne olacağı söylenir mi?
+Cevap: Evet, şiddet uygulayana, tedbir kararına aykırı davranması halinde hakkında zorlama hapsine tabi tutulacağına dair ihtar hem kararda belirtilir hem de kararın tebliği sırasında yapılır.
+
+---
+
+# Konu: Bilgilerin Gizliliği
+
+## Soru: Bu süreçte kimlik bilgilerimin ve adresimin gizli tutulmasını isteyebilir miyim?
+Cevap: Evet, gerekli bulunması halinde, sizin talebiniz üzerine veya resen (doğrudan), sizin ve diğer aile bireylerinizin kimlik bilgileri, adresiniz ve diğer önemli bilgileriniz tüm resmi kayıtlarda gizli tutulur.
+
+## Soru: Gizlilik kararı hangi kurumların kayıtlarını kapsar?
+Cevap: Gizlilik kararı; Milli Eğitim Bakanlığı, Nüfus İdaresi (MERNİS), Sosyal Güvenlik Kurumu (SGK), Ulusal Yargı Ağı (UYAP), kolluk, bankalar, sağlık kurumları gibi tüm resmi kayıtlardaki bilgilerinizi kapsar.
+
+## Soru: Adresim gizliyken bana resmi bir tebligat nasıl yapılır?
+Cevap: Korunan kişiye yapılacak tebligatlarda, sizin ev adresiniz yerine ŞÖNİM'e ait adres bilgileri kullanılır.
+
+## Soru: Adresim gizliyken resmi bir işlem yapmak istediğimde (örn: okul kaydı) ne olur?
+Cevap: Hakkında gizlilik kararı verilen kişilerin resmi başvuru, iş ve işlemlerinin yapılması sırasında adres beyanı istenilmez.
+
+## Soru: Gizlilik şerhi ne kadar süreyle geçerlidir?
+Cevap: Korunan kişinin nüfus kaydına işlenen gizlilik şerhi, tedbir kararının süresinin sona ermesini takip eden on beşinci gün MERNİS veri tabanından silinir.
+
+## Soru: Gizli bilgilerimi ifşa eden (açıklayan) kişiye ne olur?
+Cevap: Bu bilgileri hukuka aykırı olarak başkasına veren, ifşa eden veya açıklayan kişi hakkında Türk Ceza Kanununun ilgili hükümleri uygulanır.
+
+---
+
+# Konu: Tedbir Kararlarına İtiraz Süreci
+
+## Soru: Mülki amirin (vali, kaymakam) verdiği bir karara itiraz edebilir miyim?
+Cevap: Evet, mülki amir tarafından verilen koruyucu tedbir kararına karşı, kararın size tebliğ edilmesinden itibaren iki hafta içinde aile mahkemesine itiraz edebilirsiniz.
+
+## Soru: Hâkimin verdiği bir karara (koruyucu, önleyici veya zorlama hapsi) itiraz edebilir miyim?
+Cevap: Evet, hâkim tarafından verilen koruyucu, önleyici veya zorlama hapsi kararlarına karşı, kararın size tebliğ edilmesinden itibaren iki hafta içinde aile mahkemesine itiraz edebilirsiniz.
+
+## Soru: İtiraz süreci nasıl işler? Duruşma yapılır mı?
+Cevap: İtiraz hakkında genellikle duruşma yapılmaksızın karar verilir. Ancak, hâkim gerekli görürse tarafları dinleyebilir. Karar bir hafta içinde verilir ve itiraz üzerine verilen karar kesindir.
+
+## Soru: İtiraz edince mahkeme ne gibi kararlar verebilir?
+Cevap: İtirazı inceleyen mahkeme; itiraz talebini kabul veya reddedebilir, verilen tedbir kararını kaldırabilir, başka bir tedbirle değiştirebilir veya aynen devamına karar verebilir.
+
+---
+
+# Konu: Tedbir Kararlarının Uygulanması ve Takibi
+
+## Soru: Hakkımda verilen bir tedbir kararı hangi kurumlara iletilir?
+Cevap: Tedbir kararları, kararın niteliğine göre Cumhuriyet başsavcılığına, kolluğa (polis, jandarma) veya müdürlüğe gecikmeksizin en seri vasıtalarla bildirilir.
+
+## Soru: Başvurumun kabul veya reddedildiği ŞÖNİM'e bildirilir mi?
+Cevap: Evet, ilgili mercilere yaptığınız başvurular ile bu başvuruların kabul ya da reddine ilişkin kararlar, başvuru yapılan merci tarafından ŞÖNİM’e gecikmeksizin bildirilir.
+
+## Soru: Bu süreçte şiddet uygulayan ile aramda uzlaşma veya arabuluculuk teklif edilebilir mi?
+Cevap: Hayır, koruyucu veya önleyici tedbir kararlarının alınması ve yerine getirilmesi aşamasında şiddet mağduru ile şiddet uygulayan arasında uzlaşma ya da arabuluculuk önerilemez.
+
+## Soru: Koruma ve uzaklaştırma gibi kararların uygulanmasından kim sorumludur?
+Cevap: Korunan kişinin geçici koruma altına alınması, acil durumlarda barınma yeri sağlanması ve şiddet uygulayan hakkında verilen önleyici tedbir kararlarının yerine getirilmesinden, kişinin bulunduğu yerdeki kolluk (polis/jandarma) görevli ve yetkilidir.
+
+## Soru: Polis/jandarma (kolluk), uzaklaştırma kararını nasıl takip eder ve kontrol eder?
+Cevap: Kolluk, karar süresince önleyici tedbir kararının yerine getirilip getirilmediğini kontrol eder. Bu kontrol şu şekillerde yapılır:
+- Bulunduğunuz konut haftada en az bir kez ziyaret edilir.
+- İkinci derece dâhil olmak üzere yakınlarınız ile iletişim kurulur.
+- Komşularınızın bilgisine başvurulur.
+- Oturduğunuz yerin muhtarından bilgi alınır.
+- Bulunduğunuz konutun çevresinde araştırma yapılır.
+
+## Soru: Koruma altındayken veya hakkımda bir tedbir kararı varken başka bir yere gitmem gerekirse ne yapmalıyım?
+Cevap: Korunduğunuz yer dışında başka bir yere gitmeniz gerektiğinde, gideceğiniz yer hakkında kolluğa bilgi vermeniz gerekir. Bu durumda bile hakkınızda verilen kararın uygulanmasına devam edilir.
+
+## Soru: Karar henüz şiddet uygulayana tebliğ edilmediyse (bildirilmediyse), karar yine de uygulanır mı?
+Cevap: Evet, tedbir kararının ilgililere tebliğ edilmemiş olması, kararın uygulanmasına engel teşkil etmez.
+
+## Soru: Bu süreçte görev alan polis/jandarma (kolluk) özel bir eğitim alıyor mu?
+Cevap: Evet, bu görevleri yerine getiren personel, özellikle çocuk ve kadının insan hakları ile kadın erkek eşitliği konusunda eğitim almış olanlar arasından belirlenir.
+
+---
+
+# Konu: Teknik Takip ve Tedbire Aykırılık
+
+## Soru: Uzaklaştırma kararının takibi için elektronik kelepçe gibi teknik yöntemler kullanılabilir mi?
+[cite_start]Cevap: Evet, hâkim, tedbir kararlarının uygulanmasında teknik araç ve yöntemler kullanılmasına karar verebilir[cite: 770].
+
+## Soru: Teknik takip sırasında sesim veya görüntüm kaydedilir mi?
+[cite_start]Cevap: Hayır, teknik araçlar kullanılmak suretiyle, kişilerin ses ve görüntü kaydı alınamaz, kişiler dinlenemez ve izlenemez[cite: 771].
+
+## Soru: Şiddet uygulayan kişi, hakkındaki uzaklaştırma gibi bir tedbir kararına uymazsa ne olur?
+[cite_start]Cevap: Tedbir kararına aykırı hareket eden şiddet uygulayana, fiili bir suç oluştursa bile, ihlal edilen tedbirin niteliğine ve aykırılığın ağırlığına göre hâkim tarafından **üç günden on güne kadar zorlama hapsine** karar verilir[cite: 780].
+
+## Soru: Zorlama hapsi kararı için duruşma yapılır mı?
+[cite_start]Cevap: Hayır, zorlama hapsine ilişkin kararlar duruşma yapılmaksızın verilir[cite: 779]. [cite_start]Ancak, hâkim gerekli görürse ilgilileri dinleyebilir[cite: 779].
+
+## Soru: Kararı tekrar tekrar ihlal ederse hapis süresi artar mı?
+[cite_start]Cevap: Evet, tedbir kararının gereklerine aykırılığın her tekrarında, zorlama hapsinin süresi **on beş günden otuz güne kadardır**[cite: 781]. [cite_start]Ancak zorlama hapsinin toplam süresi altı ayı geçemez[cite: 782].
+
+## Soru: Zorlama hapsi, kişinin adli siciline (sabıka kaydına) işlenir mi?
+[cite_start]Cevap: Hayır, zorlama hapsi kararları adli sicil kayıtlarına işlenmez[cite: 783].
+
+---
+
+# Konu: Kurumsal Yapı ve Koordinasyon
+
+## Soru: ŞÖNİM'leri kim kurar ve temel amacı nedir?
+[cite_start]Cevap: ŞÖNİM'leri Bakanlık kurar[cite: 785]. [cite_start]Amacı, şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin bir biçimde uygulanmasına yönelik danışmanlık, rehberlik, yönlendirme ve izleme hizmetleri vermektir[cite: 785].
+
+## Soru: Bu süreçte hangi kurumlar birlikte çalışır?
+[cite_start]Cevap: Kanun hükümlerinin yerine getirilmesinde kurumlar arası (kamu kurumları, STK'lar vb.) koordinasyon Bakanlık tarafından gerçekleştirilir[cite: 787]. [cite_start]Kamu kurum ve kuruluşları, Kanunun uygulanmasıyla ilgili olarak işbirliği ve yardımda bulunmak ve alınan tedbir kararlarını ivedilikle yerine getirmekle yükümlüdür[cite: 788].
+
+## Soru: Toplumun bilinçlendirilmesi için çalışmalar yapılır mı?
+[cite_start]Cevap: Evet, Bakanlık tarafından bilgilendirme materyalleri hazırlanır ve bu materyallerin Türkiye Radyo ve Televizyon Kurumu (TRT) ile özel televizyon ve radyolar tarafından ayda en az doksan dakika yayınlanması sağlanır[cite: 790, 791].
+
+## Soru: Bu kanunla ilgili görev alan kamu personeli veya öğrenciler için eğitimler var mı?
+[cite_start]Cevap: Evet, ilgili personelin kadının insan hakları ve kadın erkek eşitliği konusunda eğitim programlarına katılması sağlanır[cite: 796]. [cite_start]Ayrıca, ilköğretim ve ortaöğretim müfredatına bu konularda dersler konulur[cite: 797].
+
+---
+
+# Konu: Mali Hükümler (Maddi Yardım, Nafaka, Giderler)
+
+## Soru: Devletin bana ödediği geçici maddi yardım, şiddet uygulayandan geri alınır mı?
+Cevap: Evet, geçici maddi yardımlar için yapılan ödemelerin tahsili için bu durum şiddet uygulayana tebliğ edilir. Ödemenin süresinde yapılmaması halinde bu tutar, ilgili vergi dairesi tarafından takip ve tahsil edilir.
+
+## Soru: Eğer maddi yardım almak için gerçeğe aykırı beyanda bulunduğum tespit edilirse ne olur?
+Cevap: Korunan kişinin gerçeğe aykırı beyanda bulunduğunun tespit edilmesi halinde, yapılan ödemeler kanun hükümlerine göre kendisinden geri tahsil edilir. Eğer bu para şiddet uygulayandan tahsil edilmişse, o kişiye iade edilir.
+
+## Soru: Hâkimin verdiği nafaka kararının uygulanması nasıl sağlanır?
+Cevap: Nafakaya karar verilmesi halinde, kararın bir örneği resen (otomatik olarak) icra müdürlüğüne gönderilir. Nafaka ödemekle yükümlü kişinin SGK ile bağlantısı varsa, sizin başvurunuza gerek kalmaksızın nafaka, ilgilinin aylık, maaş ya da ücretinden icra müdürlüğü tarafından tahsil edilir.
+
+## Soru: Nafaka tahsili için herhangi bir masraf ödemem gerekir mi?
+Cevap: Hayır, icra müdürlüklerinin nafakanın tahsili işlemlerine ilişkin posta giderleri Cumhuriyet başsavcılığı tarafından karşılanır. Ayrıca harç ve benzeri hiçbir ad altında masraf alınmaz.
+
+## Soru: Bu süreçte sağlık giderlerim karşılanır mı? Sigortam yoksa ne olur?
+Cevap: Evet, sağlık giderleriniz genel sağlık sigortası kapsamında karşılanır. Eğer genel sağlık sigortanız yoksa, prim borcunuz varsa veya başka bir sebeple sağlık hizmetinden yararlanamıyorsanız, bu durumun devamı süresince gelir testine tabi tutulmaksızın genel sağlık sigortalısı sayılırsınız.
+
+## Soru: Hakkımda gizlilik kararı varsa hastanede öncelik tanınır mı?
+Cevap: Evet, kimlik ve adres bilgilerinizin gizlenmesi kararı varsa, sağlık hizmetlerinden yararlanırken başvurunuzun gizli tutulması, sıra beklememeniz, öncelikli ve en kısa zamanda işlemlerinizin tamamlanması esastır.
+
+## Soru: Bu süreçte mahkeme masrafı, harç veya posta gideri gibi ücretler ödemem gerekir mi?
+Cevap: Hayır, kanun kapsamındaki başvurular ile verilen kararların icra ve infazı için yapılan işlemlerden yargılama giderleri, harç, posta gideri ve benzeri hiçbir ad altında masraf alınmaz.
+
+## Soru: Bakanlık, davama taraf olarak katılabilir mi?
+Cevap: Evet, Bakanlık (Aile ve Sosyal Politikalar Bakanlığı), gerekli görmesi halinde şiddet veya şiddet tehlikesi dolayısıyla açılan idari, cezai, hukuki her tür davaya müdahil olarak katılabilir.
+
+---

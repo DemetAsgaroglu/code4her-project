@@ -4,8 +4,7 @@ import re
 # Klasör yolu,
 # # Tüm txt dosyalarını bul
 
-folder_path = r"C:\Users\n0661\OneDrive\Документы\GitHub\code4her-project\develop\knowledge_base"
-
+folder_path = r"C:\Users\n0661\OneDrive\Документы\GitHub\code4her-project\develop\knowledgw_base"
 files = [f for f in os.listdir(folder_path) if f.endswith(".txt")]
 
 # Prompt için birleştirilecek string

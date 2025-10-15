@@ -22,7 +22,7 @@ chain = prompt | model
 # Örnek soru
 response = chain.invoke({
     "knowledge": knowledge_text,
-    "question": "6284 sayılı kanun kimleri korur?"
+    "question": "şönim nedir?"
 })
 
 print(response)

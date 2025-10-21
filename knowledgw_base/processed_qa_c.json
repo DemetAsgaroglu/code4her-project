@@ -1,0 +1,1622 @@
+[
+    {
+        "question": "Bu yönetmeliğin amacı nedir?",
+        "answer": "Bu yönetmeliğin amacı, şiddete uğrayan veya şiddete uğrama tehlikesi bulunan kişilerin korunması, bu kişilere yönelik şiddetin önlenmesi ve şiddet uygulayanlar hakkında alınacak tedbirlere ilişkin usul ve esasları düzenlemektir.",
+        "topic": "Kanunun Amacı ve Kapsamı",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "6284 sayılı kanun kimleri korur? Sadece kadınlar için mi?",
+        "answer": "Hayır, kanun sadece kadınları değil; şiddete uğrayan veya şiddete uğrama tehlikesi bulunan kadınları, çocukları, aile bireylerini ve tek taraflı ısrarlı takip mağduru olan kişileri korur.",
+        "topic": "Kanunun Amacı ve Kapsamı",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu kanun şiddet uygulayanlar hakkında da bir düzenleme içeriyor mu?",
+        "answer": "Evet, kanun aynı zamanda şiddet uygulayan veya uygulama ihtimali olan kişiler hakkında şiddetin önlenmesine yönelik tedbirleri ve bu tedbirlerin nasıl alınacağını da kapsar.",
+        "topic": "Kanunun Amacı ve Kapsamı",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Yasal olarak \"şiddet\" tanımı neleri kapsar? Sadece fiziksel şiddet mi buna dahil?",
+        "answer": "Hayır, sadece fiziksel şiddet değildir. Şiddet; kişinin fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel her türlü tutum ve davranıştır. Buna tehdit, baskı ve özgürlüğün keyfi engellenmesi de dahildir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Koruyucu tedbir\" ile \"önleyici tedbir\" arasındaki fark nedir?",
+        "answer": "Koruyucu tedbir kararı, şiddet mağduru olan korunan kişi hakkında verilen kararlardır. Önleyici tedbir kararı ise şiddet uygulayan veya uygulama tehlikesi bulunan kişi hakkında verilen kararlardır.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Tek taraflı ısrarlı takip\" veya \"stalking\" yasal olarak ne anlama geliyor?",
+        "answer": "Aralarında bir ilişki olup olmadığına bakılmaksızın, şiddet uygulayanın, şiddet mağduruna yönelik olarak güvenliğinden endişe ettirecek şekilde fiziki veya psikolojik korku ve çaresizlik duygularına sebep olacak her türlü fiili, sözlü, yazılı veya iletişim araçlarıyla baskı kuran tutum ve davranışlarıdır.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Yönetmelikte geçen \"ŞÖNİM\" neyin kısaltmasıdır ve ne işe yarar?",
+        "answer": "ŞÖNİM, Şiddet Önleme ve İzleme Merkezi'nin kısaltmasıdır. Şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin uygulanmasına yönelik danışmanlık, rehberlik, yönlendirme ve izleme hizmetlerinin verildiği, 7/24 esasına göre çalışan merkezlerdir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Konukevi\", \"sığınmaevi\" veya \"kadın sığınağı\" nedir?",
+        "answer": "Fiziksel, duygusal, cinsel, ekonomik veya sözlü istismara veya şiddete uğrayanların, şiddetten korunması, sorunlarının çözülmesi, güçlendirilmesi ve bu dönemde çocuklarıyla birlikte geçici süreyle kalabilecekleri yatılı sosyal hizmet kuruluşlarıdır.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Korunan kişi\" kimdir?",
+        "answer": "Tedbir kararı kapsamında korunan şiddet mağdurunu ve varsa beraberindeki çocukları, aile bireylerini ve tek taraflı ısrarlı takip mağdurunu ifade eder.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şikayette bulunabileceğim yerler (şikayet mercileri) nereleridir?",
+        "answer": "Şikayet mercileri; Kolluk (polis, jandarma), mülki amir, Cumhuriyet başsavcılığı, hâkim ve Bakanlığın ilgili birimleridir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"İhbar\" ve \"şikâyet\" arasındaki fark nedir?",
+        "answer": "İhbar, üçüncü kişiler (komşu, akraba vb.) tarafından olayın bildirilmesidir. Şikâyet ise şiddet mağdurunun kendisinin ilgili makamlara müracaat etmesidir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Hayati tehlike\" yasal olarak ne anlama geliyor?",
+        "answer": "Bir kimsenin ölümle sonuçlanabilecek bir şiddet olayına maruz kalması ya da kalma ihtimalinin bulunması halidir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Geçici koruma\" nedir?",
+        "answer": "Hayati tehlikesi bulunan şiddet mağdurunun, kolluk tarafından 7/24 esasına göre kesintisiz olarak, şiddet uygulayandan gelebilecek tehlikelerden korunması amacıyla yerine getirilen tedbirdir.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Aydınlatılmış rıza\" ne demektir?",
+        "answer": "Korunan kişinin, kendisi hakkında verilebilecek tedbir kararının sebeplerini, aşamalarını ve sonuçlarını anlayabileceği bir dilde bilgilendirilmesi ve tüm bunları anlayıp kabul ettiğine dair yazılı beyanının alınmasıdır.",
+        "topic": "Temel Kavramlar ve Yasal Tanımlar",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddete tanık olursam ne yapabilirim? Başkası adına ihbarda bulunabilir miyim?",
+        "answer": "Evet, bir kişinin şiddete uğradığını veya şiddete uğrama tehlikesi altında olduğunu görmeniz halinde durumu yazılı, sözlü veya başka bir yolla ilgili makam ve mercilere ihbar edebilirsiniz.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kamu görevlileri (öğretmen, doktor vb.) şiddeti bildirmek zorunda mıdır?",
+        "answer": "Evet, şiddet veya şiddete uğrama tehlikesinden haberdar olan kamu kurum ve kuruluşları ile kamu kurumu niteliğindeki meslek kuruluşları, durumu derhal şikâyet mercilerine bildirmek zorundadır.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddete uğruyorsam şikayetimi nasıl yapabilirim? Yazılı mı olmalı?",
+        "answer": "Durumunuzu şikâyet mercilerine yazılı, sözlü veya başka bir şekilde bildirebilirsiniz.  Sözlü olarak yaptığınız şikâyetler ve ihbarlar derhal tutanağa geçirilir.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "ŞÖNİM'e şikayette bulunsam ne olur?",
+        "answer": "Müdürlük veya ŞÖNİM'e yapılan şikâyet ve ihbarlar, olayın özelliğine göre kolluğa, mülki amire, Cumhuriyet başsavcılığına veya hâkime gecikmeksizin bildirilir.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Polise veya jandarmaya (kolluk) şikayette bulununca süreç nasıl işler?",
+        "answer": "Kolluk, şikayet üzerine gerekli işlemleri yapar.  Gecikmesinde sakınca bulunan bir hal varsa, kendisi koruyucu veya önleyici tedbir alıp bunu onay için mülki amire veya hâkime sunar.  Ayrıca kolluk, kendisine ulaşan her olay hakkında gecikmeksizin ŞÖNİM'e bilgi verir.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Savcılığa şikayette bulununca süreç nasıl işler?",
+        "answer": "Cumhuriyet başsavcılığı, yapılan ihbar ve şikâyet üzerine evrakın bir örneğini, koruyucu veya önleyici tedbir kararı verilmesi için ivedilikle hâkime veya mülki amire gönderir.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Mülki amire (vali, kaymakam) yapılan şikayet sonrası ne olur?",
+        "answer": "Mülki amire yapılan ihbar veya şikâyet üzerine, Kanun'da belirtilen koruyucu tedbirlerden birine veya birkaçına karar verilebilir.  Ayrıca mülki amir, durumu kolluğa veya Cumhuriyet başsavcılığına da bildirir.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Alınan kararlar ŞÖNİM'e bildirilir mi?",
+        "answer": "Evet, hâkim veya mülki amir tarafından verilen kararlar ivedilikle ŞÖNİM'e bildirilir.  Ayrıca kolluk da kendisine intikal eden her olayı gecikmeksizin ŞÖNİM'e bildirmekle yükümlüdür.",
+        "topic": "İhbar ve Şikayet Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Mülki amir (vali, kaymakam) benim için hangi koruyucu tedbirlere karar verebilir?",
+        "answer": "Mülki amir, sizin talebiniz, Bakanlık veya kolluk görevlilerinin başvurusu üzerine ya da kendiliğinden (resen) aşağıdaki tedbirlerden birine veya birkaçına karar verebilir:\n- Size ve gerekiyorsa çocuklarınıza uygun bir barınma yeri (sığınak) sağlanması.\n- Geçici maddi yardım yapılması.\n- Psikolojik, mesleki, hukuki ve sosyal bakımdan rehberlik ve danışmanlık hizmeti verilmesi.\n- Hayati tehlikeniz bulunması halinde, geçici koruma altına alınmanız.\n- Çalışma yaşamına katılımınızı desteklemek amacıyla çocuklarınız için kreş imkânı sağlanması.",
+        "topic": "Mülkî Amir Tarafından Verilebilecek Koruyucu Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu tedbir kararlarının alınması için delil veya belge sunmam gerekir mi?",
+        "answer": "Hayır, mülki amir tarafından verilecek koruyucu tedbir kararları için şiddetin uygulandığı hususunda delil veya belge aranmaz.",
+        "topic": "Mülkî Amir Tarafından Verilebilecek Koruyucu Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hakkımda barınma kararı verilirse nerede kalırım?",
+        "answer": "Hakkınızda barınma yeri sağlanmasına karar verilirse, Bakanlığa ait veya Bakanlığın denetimi altındaki yerlerde (konukevi, ilk kabul birimi vb.) kalırsınız. Bu yerlerin yetersiz kaldığı durumlarda ise kamu kurum ve kuruluşlarına ait sosyal tesis, yurt veya benzeri yerlerde geçici olarak barındırılırsınız.",
+        "topic": "Barınma Yeri Sağlanması (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Barınma ve yemek masraflarını kim öder?",
+        "answer": "Barınma ve iaşe (yemek) giderleri, ŞÖNİM tarafından ödenir.",
+        "topic": "Barınma Yeri Sağlanması (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Sığınağa nasıl giderim? Ulaşım sağlanıyor mu?",
+        "answer": "Evet, ŞÖNİM tarafından il içi ve il dışı nakillerde ulaşım için araç tahsis edilir. Ayrıca ulaşım giderleriniz ile diğer zorunlu giderleriniz de karşılanır. Hayati tehlikenizin bulunması halinde ise yerleştirileceğiniz yere kolluk (polis/jandarma) refakat eder.",
+        "topic": "Barınma Yeri Sağlanması (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Acil bir durumda polis beni doğrudan bir barınma yerine yerleştirebilir mi?",
+        "answer": "Evet, mülki amirin veya kolluk amirinin kararı ile kamu kurumlarına ait barınma yerlerine getirilmeniz halinde, başka bir karar veya onay aranmaksızın derhal kabul edilirsiniz.",
+        "topic": "Barınma Yeri Sağlanması (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hakkımda barınma kararı olmasına rağmen sığınakta kalmak istemezsem ne olur?",
+        "answer": "Sizin isteğinizle (aydınlatılmış rızanız alınarak) kalmak istediğiniz güvenli başka bir yere ŞÖNİM tarafından ulaştırılırsınız. Eğer hayati tehlikeniz bulunuyorsa, bu ulaştırma işlemi sırasında polisten refakat talep edilir.",
+        "topic": "Barınma Yeri Sağlanması (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Geçici maddi yardım alabilir miyim?",
+        "answer": "Evet, Kanun kapsamında sizin için geçici maddi yardım yapılmasına karar verilebilir. Bu karar size tebliğ edilir ve yerine getirilmesi için ŞÖNİM'e gönderilir.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu maddi yardımın miktarı ne kadardır?",
+        "answer": "16 yaşından büyükler için, o yıl belirlenen aylık net asgari ücretin otuzda birine kadar günlük ödeme yapılır.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Yanımda çocuklarım varsa yardım miktarı artar mı?",
+        "answer": "Evet, korunan kişinin birden fazla olması halinde (çocuklarınız dahil), ilave her bir kişi için bu günlük tutarın yüzde yirmisi (%20) oranında ayrıca ödeme yapılır. Ancak toplam ödenecek tutar, belirlenen günlük ödeme tutarının bir buçuk katını geçemez.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Eğer bir sığınakta (barınma yeri) kalıyorsam maddi yardım kesilir mi veya azalır mı?",
+        "answer": "Kesilmez, ancak azalır. Korunan kişilere barınma yeri sağlanması halinde, belirlenen günlük yardım tutarları yüzde elli (%50) oranında azaltılarak uygulanır.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Maddi yardımı nasıl alacağım? Elden para veriliyor mu?",
+        "answer": "Hayır, korunan kişiye elden ödeme yapılmaz. Geçici maddi yardım, sizin bildireceğiniz bir banka hesap numarasına, ŞÖNİM tarafından hazırlanan bordrolar ile her ayın on beşinde ve otuzunda yatırılır.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Başka bir kurumdan (örn: sosyal yardım) para yardımı alıyor olmam, bu yardımı almama engel mi?",
+        "answer": "Hayır, diğer kanunlara göre yapılan yardımlar, bu kanun kapsamında geçici maddi yardım yapılmasına karar verilmesine engel olmaz.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu maddi yardımdan vergi kesilir mi?",
+        "answer": "Hayır, bu kapsamda yapılan ödemeler gelir vergisi ile veraset ve intikal vergisinden muaftır.",
+        "topic": "Geçici Maddi Yardım (Detaylar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Psikolojik destek alabilir miyim?",
+        "answer": "Evet, size psikolojik destek sağlamak üzere ilgili kamu kurum ve kuruluşları ile işbirliği içerisinde gerekli hizmetler verilir.",
+        "topic": "Rehberlik ve Danışmanlık Hizmetleri",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hukuki haklarım konusunda danışmanlık veya avukat desteği alabilir miyim?",
+        "answer": "Evet, hukuki rehberliğe ihtiyacınız olması halinde, davalara müdahil olmayı da içeren gerekli destek ve danışmanlık hizmeti verilir.",
+        "topic": "Rehberlik ve Danışmanlık Hizmetleri",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "İş bulmam, meslek kurslarına katılmam gibi konularda da yardımcı olunuyor mu?",
+        "answer": "Evet, size iş bulma, meslek edindirme kurslarına katılma gibi konularda gelişmeniz ve uyum sağlamanız için gerekli bilgi ve becerileri kazandırmak amacıyla rehberlik ve danışmanlık hizmetleri verilir.",
+        "topic": "Rehberlik ve Danışmanlık Hizmetleri",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tüm bu danışmanlık hizmetlerini (psikolojik, hukuki, mesleki) kim organize ediyor?",
+        "answer": "Bu hizmetlerin yerine getirilmesinde koordinasyon ŞÖNİM tarafından sağlanır.",
+        "topic": "Rehberlik ve Danışmanlık Hizmetleri",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hayati tehlikem varsa ne olur? Devlet beni korur mu?",
+        "answer": "Evet, hayati tehlikenizin bulunması halinde, sizin talebiniz üzerine veya resen (doğrudan) mülki amir veya gecikmesinde sakınca bulunan hallerde kolluk amiri tarafından geçici koruma altına alınmanıza karar verilebilir.",
+        "topic": "Geçici Koruma Altına Alınma (Hayati Tehlike Durumu)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Geçici koruma kararı ne anlama geliyor ve kim tarafından uygulanır?",
+        "answer": "Geçici koruma, kolluk (polis/jandarma) tarafından yirmidört saat esasına göre kesintisiz olarak, şiddet uygulayandan gelebilecek tehlikelerden korunmanızdır. Bu kararın yerine getirilmesinden, bulunduğunuz yerdeki kolluk görevli ve yetkilidir.",
+        "topic": "Geçici Koruma Altına Alınma (Hayati Tehlike Durumu)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Koruma altındayken başka bir şehre veya yere gitmem gerekirse ne yapmalıyım?",
+        "answer": "Acil durumlarda hemen, diğer hallerde ise yirmidört saat öncesinden gideceğiniz yer hakkında görevli kolluğa bilgi vermeniz gerekir. Gideceğiniz yerdeki kolluk birimi haberdar edilir ve koruma tedbiri orada da uygulanmaya devam olunur.",
+        "topic": "Geçici Koruma Altına Alınma (Hayati Tehlike Durumu)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Geçici koruma kararı verildiğinde hangi konularda bilgilendirilirim?",
+        "answer": "Kolluk tarafından size; koruma kararının kapsamı, tehlike anında arayabileceğiniz telefon numaraları, kolluğun sorumlulukları, hangi durumlarda kolluğa bilgi vermeniz gerektiği ve hangi birimin korumadan sorumlu olduğu gibi hususlar açıklanır ve bir tutanakla size tebliğ edilir.",
+        "topic": "Geçici Koruma Altına Alınma (Hayati Tehlike Durumu)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Çalışabilmem için çocuklarıma kreş desteği sağlanır mı?",
+        "answer": "Evet, çalışma yaşamına katılımınızı desteklemek amacıyla çocuklarınız için kreş imkânı sağlanması tedbiri verilebilir.",
+        "topic": "Kreş İmkanı Sağlanması",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kreş desteği ne kadar süreyle verilir?",
+        "answer": "Eğer çalışmıyorsanız çalışma yaşamına katılmanız için dört ay, eğer çalışıyorsanız iki aylık süre ile sınırlı olmak kaydıyla kreş desteği verilir.",
+        "topic": "Kreş İmkanı Sağlanması",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kreş ücretinin ne kadarı karşılanır ve ödeme nasıl yapılır?",
+        "answer": "Aylık net asgari ücret tutarının yarısını geçmemek şartıyla, belgelediğiniz kreş ücreti Bakanlık bütçesinden karşılanır. Ödemeler, sizin ibraz ettiğiniz belgeler üzerine Müdürlük tarafından doğrudan kreşe yapılır.",
+        "topic": "Kreş İmkanı Sağlanması",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kreş desteğinden faydalanmak için ne yapmam gerekir?",
+        "answer": "Çocuğunuzu bir kreşe kaydettiğinize dair belge ve aylık kreş ücretini gösterir belgeyi Müdürlüğe ibraz etmeniz gerekir.",
+        "topic": "Kreş İmkanı Sağlanması",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Mülki amirin kararlarına ek olarak, hâkim tarafından hangi koruyucu tedbirlere karar verilebilir?",
+        "answer": "Hâkim, sizin talebiniz, Bakanlık, kolluk veya savcının başvurusu üzerine veya resen, delil veya belge aramaksızın şu ek tedbirlere karar verebilir:\n- İş yerinizin değiştirilmesi.\n- Evli olmanız halinde müşterek yerleşim yerinden ayrı bir yerleşim yeri belirlenmesi.\n- Oturduğunuz eve \"aile konutu şerhi\" konulması.\n- Hayati tehlikenizin çok yüksek olması ve diğer tedbirlerin yetersiz kalması halinde, kimlik ve diğer bilgilerinizin değiştirilmesi.",
+        "topic": "Hâkim Tarafından Verilebilecek Ek Koruyucu Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kimliğimin ve diğer resmi belgelerimin değiştirilmesini hangi şartlarda isteyebilirim?",
+        "answer": "Bu tedbir, ancak hayati tehlikenizin bulunması, bu tehlikenin önlenmesi için diğer tedbirlerin yetersiz kalacağının anlaşılması ve sizin bu konuda aydınlatılmış rızanızın (onayınızın) olması halinde hâkim tarafından verilebilir.",
+        "topic": "Hâkim Tarafından Verilebilecek Ek Koruyucu Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Can güvenliğim nedeniyle iş yerimin değiştirilmesini isteyebilir miyim?",
+        "answer": "Evet, talebiniz veya onayınız üzerine hâkim, iş yerinizin il içinde ya da il dışında değiştirilmesine karar verebilir.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "İş yerimin değiştirilmesi kararı nasıl uygulanır?",
+        "answer": "Karar, sizin için en uygun koşullar göz önüne alınarak, yerine getirilmesi için hâkim tarafından doğrudan çalıştığınız iş yerine tebliğ edilir ve yetkili kurum tarafından uygulanır.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Evli isem, resmi olarak eşimden ayrı bir adreste yaşadığım belirtilebilir mi?",
+        "answer": "Evet, talebiniz üzerine hâkim, müşterek yerleşim yerinizden ayrı bir yerleşim yeri belirlenmesine karar verebilir. Bu karardan sonra nüfus müdürlüğü, talebinize uygun olarak adresle ilgili gerekli işlemleri yapar.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "\"Aile konutu şerhi\" nedir ve ne işe yarar?",
+        "answer": "Aile konutu şerhi, oturduğunuz evin tapusuna işlenen ve eşinizin sizin rızanız olmadan evi satmasını, kiraya vermesini veya üzerinde herhangi bir işlem yapmasını engelleyen bir korumadır.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Evimize \"aile konutu şerhi\" konulmasını nasıl talep edebilirim?",
+        "answer": "Talebiniz üzerine ve Türk Medeni Kanunundaki şartların varlığı halinde, hâkim tapu kütüğüne aile konutu şerhi konulması kararı verebilir. Bu karar, hâkim tarafından ivedilikle ilgili tapu sicil müdürlüğüne gönderilerek uygulanır.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hangi durumlarda kimliğimin ve diğer resmi belgelerimin değiştirilmesini isteyebilirim?",
+        "answer": "Bu, en ciddi tedbirlerden biridir.  Ancak hayati tehlikenizin bulunması, bu tehlikenin önlenmesi için diğer tedbirlerin yetersiz kalacağının anlaşılması ve sizin bu konuda aydınlatılmış rızanızın (onayınızın) olması halinde hâkim tarafından kimlik ve diğer bilgilerinizin değiştirilmesine karar verilebilir.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kimlik değiştirme süreci nasıl işler?",
+        "answer": "Hâkimin verdiği karar, İçişleri Bakanlığı'nca gereğinin yapılması için Cumhuriyet başsavcılığına gönderilir. Başsavcılık da kararı ivedilikle İçişleri Bakanlığı'na iletir.",
+        "topic": "Hâkim Tarafından Verilen Koruyucu Tedbirlerin Detayları",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hâkim, şiddet uygulayan kişi hakkında ne gibi kararlar verebilir? Onu durdurmak için ne yapılabilir?",
+        "answer": "Hâkim, şiddet uygulayan kişi hakkında aşağıdaki önleyici tedbirlerden birine veya birkaçına karar verebilir:\n- Size yönelik şiddet tehdidi, hakaret, aşağılama içeren söz ve davranışlarda bulunmaması.\n- Oturduğunuz ortak evden derhal uzaklaştırılması ve evin size tahsis edilmesi.\n- Size, evinize, okulunuza ve işyerinize yaklaşmaması.\n- Çocuklarla kişisel ilişkisinin bir refakatçi eşliğinde kurulması, sınırlandırılması ya da tümüyle kaldırılması.\n- Sizin yakınlarınıza, tanıklarınıza veya çocuklarınıza yaklaşmaması.\n- Kişisel ve ev eşyalarınıza zarar vermemesi.\n- Sizi iletişim araçlarıyla (telefon, internet vb.) rahatsız etmemesi.\n- Sahip olduğu silahları polise teslim etmesi.\n- Alkol veya uyuşturucu madde kullanmaması, bu maddelerin etkisindeyken size yaklaşmaması ve bağımlılığı varsa tedavi olması.\n- Bir sağlık kuruluşuna muayene veya tedavi için başvurması.",
+        "topic": "Şiddet Uygulayan Hakkında Hâkim Tarafından Verilebilecek Önleyici Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişi evin geçimini sağlıyorsa, hâkim nafaka kararı verebilir mi?",
+        "answer": "Evet, eğer daha önce hükmedilmiş bir nafaka yoksa, hâkim sizin yaşam düzeyinizi göz önünde bulundurarak, siz talep etmeseniz bile tedbir nafakasına hükmedebilir.",
+        "topic": "Şiddet Uygulayan Hakkında Hâkim Tarafından Verilebilecek Önleyici Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hâkim çocuklar hakkında velayet gibi başka kararlar da verebilir mi?",
+        "answer": "Evet, hâkim Çocuk Koruma Kanunu ve Medeni Kanun hükümlerine göre velayet, kayyım, nafaka ve çocuklarla kişisel ilişki kurulması gibi hususlarda da karar verebilir.",
+        "topic": "Şiddet Uygulayan Hakkında Hâkim Tarafından Verilebilecek Önleyici Tedbirler",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın bana hakaret etmesi, tehdit etmesi veya beni küçük düşürmesi engellenebilir mi?",
+        "answer": "Evet, hâkim tarafından, şiddet uygulayanın size karşı tehdit, hakaret, aşağılama veya küçük düşürme gibi söz ve davranışlarda bulunmamasına ilişkin bir karar verilebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın evden uzaklaştırılması ve evin bana tahsis edilmesi mümkün mü?",
+        "answer": "Evet, hâkim, şiddet uygulayanın birlikte oturduğunuz ortak konuttan uzaklaştırılmasına ve bu konutun size tahsis edilmesine karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Evden uzaklaştırılırsa, kişisel eşyalarını alabilir mi?",
+        "answer": "Evet, talep edilmesi halinde, hem sizin hem de şiddet uygulayanın kişisel eşya ve belgelerinin polis eşliğinde (kolluk marifetiyle) teslim edilmesine karar verilebilir. Hangi eşyaların teslim edileceği kararda belirtilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Evden uzaklaştırılan kişi evin kirasını ve faturalarını ödemeye devam etmek zorunda mı?",
+        "answer": "Evet, uzaklaştırma kararı, şiddet uygulayanın konutun kira, elektrik, su, telefon, doğalgaz gibi giderlerini karşılama yükümlülüğünü ortadan kaldırmaz. Hâkim, bu yükümlülüklerin devamına da karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Uzaklaştırma kararı (yaklaşmama tedbiri) hangi yerleri kapsar?",
+        "answer": "Hâkim, şiddet uygulayanın size, oturduğunuz konuta, çocuklarınızın okuluna, sizin işyerinize ve bulunabileceğiniz diğer yerlere yaklaşmamasına karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın çocuklarımla görüşmesi engellenebilir mi veya kısıtlanabilir mi?",
+        "answer": "Evet, eğer daha önceden verilmiş bir kişisel ilişki kurma kararı varsa, hâkim bu ilişkinin bir refakatçi eşliğinde yapılmasına, sınırlandırılmasına ya da tamamen kaldırılmasına karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın aileme, arkadaşlarıma veya olayın tanıklarına yaklaşması engellenebilir mi?",
+        "answer": "Evet, hâkim gerekli görürse, şiddet uygulayanın, sizin yakınlarınıza, şiddetin tanıklarına ve çocuklarınıza yaklaşmamasına karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın eşyalarıma zarar vermesi nasıl engellenir?",
+        "answer": "Hâkim tarafından, şiddet uygulayanın, sizin şahsi eşyalarınıza ve ev eşyalarınıza zarar vermemesine yönelik bir karar verilebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Beni telefonla aramasını, mesaj atmasını veya sosyal medyadan rahatsız etmesini engelleyebilir miyim?",
+        "answer": "Evet, hâkim, şiddet uygulayanın sizi görsel, işitsel, yazılı, internet gibi iletişim araçlarıyla ya da başka yollarla rahatsız etmemesine karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın silahı varsa, elinden alınması için karar çıkartılabilir mi?",
+        "answer": "Evet, hâkim, şiddet mağdurunun korunması amacıyla şiddet uygulayana ait silahların kolluğa teslim edilmesine ve tedbir süresinin sonuna kadar emanette tutulmasına karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Şiddet Uygulayana Yönelik)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişi işi gereği (polis, asker, güvenlik görevlisi gibi) silah taşıyorsa, bu silah da elinden alınabilir mi?",
+        "answer": "Evet, hâkim, şiddet uygulayanın silah taşıması zorunlu olan bir kamu görevi ifa etse bile, bu görevi nedeniyle zimmetinde bulunan silahı kurumuna teslim etmesine yönelik karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kurumuna teslim ettiği silahı istediği zaman geri alabilir mi?",
+        "answer": "Hayır, silahı teslim alan kurum amiri, tedbir kararının süresi bitene veya mahkeme tarafından yeni bir karar verilene kadar silahı hiçbir şekilde iade etmez.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişinin alkol veya uyuşturucu kullanması engellenebilir mi?",
+        "answer": "Evet, hâkim, şiddet uygulayanın korunan kişilerin bulundukları yerlerde alkol ya da uyuşturucu madde kullanmamasına veya bu maddelerin etkisindeyken bu yerlere yaklaşmamasına karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Eğer şiddet uygulayanın bağımlılığı varsa, tedavi olması için bir karar alınabilir mi?",
+        "answer": "Evet, hâkim, kişinin bağımlılığının olması hâlinde, hastaneye yatmak dâhil, muayene ve tedavisinin sağlanmasına yönelik karar verebilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tedavi sürecini kim takip eder ve kişi tedaviyi reddederse ne olur?",
+        "answer": "Tedavi sürecinin takibi ŞÖNİM tarafından ilgili kurumlarla koordinasyon içinde yapılır. Eğer kişi tedaviyi reddederse, bu durum bir tutanakla tespit edilerek derhal Cumhuriyet başsavcılığına ve ŞÖNİM’e bildirilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet eğilimini önlemek amacıyla, şiddet uygulayanın genel bir sağlık kontrolünden geçmesi veya tedavi olması sağlanabilir mi?",
+        "answer": "Evet, hâkim, şiddet uygulayanın şiddet eğilimine yol açan davranışlarını önlemek amacıyla bir sağlık kuruluşuna muayene veya tedavisi için başvurmasına karar verebilir. Tedavi süreci il halk sağlığı müdürlükleri veya toplum sağlığı merkezleri tarafından takip edilir ve sonuçlar ŞÖNİM'e bildirilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Acil bir durumda, hâkim veya vali/kaymakam kararı olmadan polis/jandarma benim için barınma veya koruma kararı alabilir mi?",
+        "answer": "Evet, gecikmesinde sakınca bulunan hallerde, barınma yeri sağlanması ve geçici koruma altına alınma gibi tedbirler ilgili kolluk amiri (polis amiri, jandarma komutanı) tarafından alınabilir.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Polisin/jandarmanın aldığı acil tedbir kararları kalıcı mıdır?",
+        "answer": "Hayır, kalıcı değildir. Kolluk amiri, aldığı kararı en geç bir sonraki iş günü içinde mülki amirin (barınma/koruma için) veya hâkimin (önleyici tedbirler için) onayına sunmak zorundadır. Mülki amir 48 saat, hâkim ise 24 saat içinde onaylamazsa, bu tedbirler kendiliğinden kalkar.",
+        "topic": "Önleyici Tedbirlerin Detayları (Silah, Tedavi ve Acil Durumlar)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tedbir kararı verilmesini kimler talep edebilir?",
+        "answer": "Tedbir kararı, sizin talebiniz, müdürlük, ŞÖNİ- veya kolluk görevlileri ya da Cumhuriyet savcısının başvurusu üzerine verilir.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tedbir kararını kim verir? Nereye başvurmalıyım?",
+        "answer": "Tedbir kararları, size en çabuk ve en kolay ulaşılabilecek yerdeki hâkimden, mülki amirden (vali/kaymakam) ya da kolluktan (polis/jandarma) talep edilebilir.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tedbir kararı ne kadar süre için verilir?",
+        "answer": "Tedbir kararı ilk defasında en çok altı ay için verilebilir.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Altı ay sonunda tehlike devam ediyorsa koruma kararı uzatılabilir mi?",
+        "answer": "Evet, şiddet veya şiddet uygulanma tehlikesinin devam ettiğinin anlaşılması halinde, sizin veya ilgili kurumların talebi üzerine ya da resen (doğrudan), tedbirlerin süresinin veya şeklinin değiştirilmesine ya da aynen devam etmesine karar verilebilir.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Koruyucu tedbir kararı (barınma, maddi yardım vb.) alabilmem için delil veya belge sunmam şart mı?",
+        "answer": "Hayır, koruyucu tedbir kararı verilebilmesi için, şiddetin uygulandığı hususunda delil veya belge aranmaz.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tehlike ortadan kalkarsa verilen tedbir kararı kaldırılabilir mi?",
+        "answer": "Evet, şiddet veya şiddet uygulama tehlikesinin ortadan kalktığının anlaşılması halinde, kararı veren merci tarafından verilen tedbirlerin kaldırılmasına karar verilebilir. Bu durumda karar size de tebliğ edilir.",
+        "topic": "Tedbir Kararlarının Verilmesi ve Süresi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Verilen tedbir kararı kimlere bildirilir?",
+        "answer": "Tedbir kararı, kararı veren merci tarafından hem size (korunan kişiye) hem de şiddet uygulayana tebliğ edilir. Ayrıca kararın uygulanması için görevli olan kuruma (kolluk, ŞÖNİ- vb.) gönderilir.",
+        "topic": "Tedbir Kararlarının Bildirilmesi (Tebliği)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Tedbir talebim reddedilirse bu karar şiddet uygulayana da bildirilir mi?",
+        "answer": "Hayır, tedbir talebinin reddine ilişkin karar sadece size (korunan kişiye) tebliğ edilir.",
+        "topic": "Tedbir Kararlarının Bildirilmesi (Tebliği)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Acil durumda polisin aldığı tedbir kararı daha sonra onaylanmazsa ne olur?",
+        "answer": "Polisin aldığı acil tedbir kararı yetkili merci (hâkim veya mülki amir) tarafından onaylanmazsa, kararın kalktığı size tebliğ edilir ve ilgili kolluğa bildirilir.",
+        "topic": "Tedbir Kararlarının Bildirilmesi (Tebliği)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayana, karara uymazsa ne olacağı söylenir mi?",
+        "answer": "Evet, şiddet uygulayana, tedbir kararına aykırı davranması halinde hakkında zorlama hapsine tabi tutulacağına dair ihtar hem kararda belirtilir hem de kararın tebliği sırasında yapılır.",
+        "topic": "Tedbir Kararlarının Bildirilmesi (Tebliği)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte kimlik bilgilerimin ve adresimin gizli tutulmasını isteyebilir miyim?",
+        "answer": "Evet, gerekli bulunması halinde, sizin talebiniz üzerine veya resen (doğrudan), sizin ve diğer aile bireylerinizin kimlik bilgileri, adresiniz ve diğer önemli bilgileriniz tüm resmi kayıtlarda gizli tutulur.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Gizlilik kararı hangi kurumların kayıtlarını kapsar?",
+        "answer": "Gizlilik kararı; Milli Eğitim Bakanlığı, Nüfus İdaresi (MERNİS), Sosyal Güvenlik Kurumu (SGK), Ulusal Yargı Ağı (UYAP), kolluk, bankalar, sağlık kurumları gibi tüm resmi kayıtlardaki bilgilerinizi kapsar.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Adresim gizliyken bana resmi bir tebligat nasıl yapılır?",
+        "answer": "Korunan kişiye yapılacak tebligatlarda, sizin ev adresiniz yerine ŞÖNİM'e ait adres bilgileri kullanılır.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Adresim gizliyken resmi bir işlem yapmak istediğimde (örn: okul kaydı) ne olur?",
+        "answer": "Hakkında gizlilik kararı verilen kişilerin resmi başvuru, iş ve işlemlerinin yapılması sırasında adres beyanı istenilmez.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Gizlilik şerhi ne kadar süreyle geçerlidir?",
+        "answer": "Korunan kişinin nüfus kaydına işlenen gizlilik şerhi, tedbir kararının süresinin sona ermesini takip eden on beşinci gün MERNİS veri tabanından silinir.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Gizli bilgilerimi ifşa eden (açıklayan) kişiye ne olur?",
+        "answer": "Bu bilgileri hukuka aykırı olarak başkasına veren, ifşa eden veya açıklayan kişi hakkında Türk Ceza Kanununun ilgili hükümleri uygulanır.",
+        "topic": "Bilgilerin Gizliliği",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Mülki amirin (vali, kaymakam) verdiği bir karara itiraz edebilir miyim?",
+        "answer": "Evet, mülki amir tarafından verilen koruyucu tedbir kararına karşı, kararın size tebliğ edilmesinden itibaren iki hafta içinde aile mahkemesine itiraz edebilirsiniz.",
+        "topic": "Tedbir Kararlarına İtiraz Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hâkimin verdiği bir karara (koruyucu, önleyici veya zorlama hapsi) itiraz edebilir miyim?",
+        "answer": "Evet, hâkim tarafından verilen koruyucu, önleyici veya zorlama hapsi kararlarına karşı, kararın size tebliğ edilmesinden itibaren iki hafta içinde aile mahkemesine itiraz edebilirsiniz.",
+        "topic": "Tedbir Kararlarına İtiraz Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "İtiraz süreci nasıl işler? Duruşma yapılır mı?",
+        "answer": "İtiraz hakkında genellikle duruşma yapılmaksızın karar verilir. Ancak, hâkim gerekli görürse tarafları dinleyebilir. Karar bir hafta içinde verilir ve itiraz üzerine verilen karar kesindir.",
+        "topic": "Tedbir Kararlarına İtiraz Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "İtiraz edince mahkeme ne gibi kararlar verebilir?",
+        "answer": "İtirazı inceleyen mahkeme; itiraz talebini kabul veya reddedebilir, verilen tedbir kararını kaldırabilir, başka bir tedbirle değiştirebilir veya aynen devamına karar verebilir.",
+        "topic": "Tedbir Kararlarına İtiraz Süreci",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hakkımda verilen bir tedbir kararı hangi kurumlara iletilir?",
+        "answer": "Tedbir kararları, kararın niteliğine göre Cumhuriyet başsavcılığına, kolluğa (polis, jandarma) veya müdürlüğe gecikmeksizin en seri vasıtalarla bildirilir.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Başvurumun kabul veya reddedildiği ŞÖNİM'e bildirilir mi?",
+        "answer": "Evet, ilgili mercilere yaptığınız başvurular ile bu başvuruların kabul ya da reddine ilişkin kararlar, başvuru yapılan merci tarafından ŞÖNİM’e gecikmeksizin bildirilir.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte şiddet uygulayan ile aramda uzlaşma veya arabuluculuk teklif edilebilir mi?",
+        "answer": "Hayır, koruyucu veya önleyici tedbir kararlarının alınması ve yerine getirilmesi aşamasında şiddet mağduru ile şiddet uygulayan arasında uzlaşma ya da arabuluculuk önerilemez.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Koruma ve uzaklaştırma gibi kararların uygulanmasından kim sorumludur?",
+        "answer": "Korunan kişinin geçici koruma altına alınması, acil durumlarda barınma yeri sağlanması ve şiddet uygulayan hakkında verilen önleyici tedbir kararlarının yerine getirilmesinden, kişinin bulunduğu yerdeki kolluk (polis/jandarma) görevli ve yetkilidir.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Polis/jandarma (kolluk), uzaklaştırma kararını nasıl takip eder ve kontrol eder?",
+        "answer": "Kolluk, karar süresince önleyici tedbir kararının yerine getirilip getirilmediğini kontrol eder. Bu kontrol şu şekillerde yapılır:\n- Bulunduğunuz konut haftada en az bir kez ziyaret edilir.\n- İkinci derece dâhil olmak üzere yakınlarınız ile iletişim kurulur.\n- Komşularınızın bilgisine başvurulur.\n- Oturduğunuz yerin muhtarından bilgi alınır.\n- Bulunduğunuz konutun çevresinde araştırma yapılır.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Koruma altındayken veya hakkımda bir tedbir kararı varken başka bir yere gitmem gerekirse ne yapmalıyım?",
+        "answer": "Korunduğunuz yer dışında başka bir yere gitmeniz gerektiğinde, gideceğiniz yer hakkında kolluğa bilgi vermeniz gerekir. Bu durumda bile hakkınızda verilen kararın uygulanmasına devam edilir.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Karar henüz şiddet uygulayana tebliğ edilmediyse (bildirilmediyse), karar yine de uygulanır mı?",
+        "answer": "Evet, tedbir kararının ilgililere tebliğ edilmemiş olması, kararın uygulanmasına engel teşkil etmez.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte görev alan polis/jandarma (kolluk) özel bir eğitim alıyor mu?",
+        "answer": "Evet, bu görevleri yerine getiren personel, özellikle çocuk ve kadının insan hakları ile kadın erkek eşitliği konusunda eğitim almış olanlar arasından belirlenir.",
+        "topic": "Tedbir Kararlarının Uygulanması ve Takibi",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Uzaklaştırma kararının takibi için elektronik kelepçe gibi teknik yöntemler kullanılabilir mi?",
+        "answer": "Evet, hâkim, tedbir kararlarının uygulanmasında teknik araç ve yöntemler kullanılmasına karar verebilir.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Teknik takip sırasında sesim veya görüntüm kaydedilir mi?",
+        "answer": "Hayır, teknik araçlar kullanılmak suretiyle, kişilerin ses ve görüntü kaydı alınamaz, kişiler dinlenemez ve izlenemez.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişi, hakkındaki uzaklaştırma gibi bir tedbir kararına uymazsa ne olur?",
+        "answer": "Tedbir kararına aykırı hareket eden şiddet uygulayana, fiili bir suç oluştursa bile, ihlal edilen tedbirin niteliğine ve aykırılığın ağırlığına göre hâkim tarafından **üç günden on güne kadar zorlama hapsine** karar verilir.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Zorlama hapsi kararı için duruşma yapılır mı?",
+        "answer": "Hayır, zorlama hapsine ilişkin kararlar duruşma yapılmaksızın verilir. Ancak, hâkim gerekli görürse ilgilileri dinleyebilir.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Kararı tekrar tekrar ihlal ederse hapis süresi artar mı?",
+        "answer": "Evet, tedbir kararının gereklerine aykırılığın her tekrarında, zorlama hapsinin süresi **on beş günden otuz güne kadardır**. Ancak zorlama hapsinin toplam süresi altı ayı geçemez.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Zorlama hapsi, kişinin adli siciline (sabıka kaydına) işlenir mi?",
+        "answer": "Hayır, zorlama hapsi kararları adli sicil kayıtlarına işlenmez.",
+        "topic": "Teknik Takip ve Tedbire Aykırılık",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "ŞÖNİM'leri kim kurar ve temel amacı nedir?",
+        "answer": "ŞÖNİM'leri Bakanlık kurar. Amacı, şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin bir biçimde uygulanmasına yönelik danışmanlık, rehberlik, yönlendirme ve izleme hizmetleri vermektir.",
+        "topic": "Kurumsal Yapı ve Koordinasyon",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte hangi kurumlar birlikte çalışır?",
+        "answer": "Kanun hükümlerinin yerine getirilmesinde kurumlar arası (kamu kurumları, STK'lar vb.) koordinasyon Bakanlık tarafından gerçekleştirilir. Kamu kurum ve kuruluşları, Kanunun uygulanmasıyla ilgili olarak işbirliği ve yardımda bulunmak ve alınan tedbir kararlarını ivedilikle yerine getirmekle yükümlüdür.",
+        "topic": "Kurumsal Yapı ve Koordinasyon",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Toplumun bilinçlendirilmesi için çalışmalar yapılır mı?",
+        "answer": "Evet, Bakanlık tarafından bilgilendirme materyalleri hazırlanır ve bu materyallerin Türkiye Radyo ve Televizyon Kurumu (TRT) ile özel televizyon ve radyolar tarafından ayda en az doksan dakika yayınlanması sağlanır.",
+        "topic": "Kurumsal Yapı ve Koordinasyon",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu kanunla ilgili görev alan kamu personeli veya öğrenciler için eğitimler var mı?",
+        "answer": "Evet, ilgili personelin kadının insan hakları ve kadın erkek eşitliği konusunda eğitim programlarına katılması sağlanır. Ayrıca, ilköğretim ve ortaöğretim müfredatına bu konularda dersler konulur.",
+        "topic": "Kurumsal Yapı ve Koordinasyon",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Devletin bana ödediği geçici maddi yardım, şiddet uygulayandan geri alınır mı?",
+        "answer": "Evet, geçici maddi yardımlar için yapılan ödemelerin tahsili için bu durum şiddet uygulayana tebliğ edilir. Ödemenin süresinde yapılmaması halinde bu tutar, ilgili vergi dairesi tarafından takip ve tahsil edilir.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Eğer maddi yardım almak için gerçeğe aykırı beyanda bulunduğum tespit edilirse ne olur?",
+        "answer": "Korunan kişinin gerçeğe aykırı beyanda bulunduğunun tespit edilmesi halinde, yapılan ödemeler kanun hükümlerine göre kendisinden geri tahsil edilir. Eğer bu para şiddet uygulayandan tahsil edilmişse, o kişiye iade edilir.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hâkimin verdiği nafaka kararının uygulanması nasıl sağlanır?",
+        "answer": "Nafakaya karar verilmesi halinde, kararın bir örneği resen (otomatik olarak) icra müdürlüğüne gönderilir. Nafaka ödemekle yükümlü kişinin SGK ile bağlantısı varsa, sizin başvurunuza gerek kalmaksızın nafaka, ilgilinin aylık, maaş ya da ücretinden icra müdürlüğü tarafından tahsil edilir.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Nafaka tahsili için herhangi bir masraf ödemem gerekir mi?",
+        "answer": "Hayır, icra müdürlüklerinin nafakanın tahsili işlemlerine ilişkin posta giderleri Cumhuriyet başsavcılığı tarafından karşılanır. Ayrıca harç ve benzeri hiçbir ad altında masraf alınmaz.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte sağlık giderlerim karşılanır mı? Sigortam yoksa ne olur?",
+        "answer": "Evet, sağlık giderleriniz genel sağlık sigortası kapsamında karşılanır. Eğer genel sağlık sigortanız yoksa, prim borcunuz varsa veya başka bir sebeple sağlık hizmetinden yararlanamıyorsanız, bu durumun devamı süresince gelir testine tabi tutulmaksızın genel sağlık sigortalısı sayılırsınız.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Hakkımda gizlilik kararı varsa hastanede öncelik tanınır mı?",
+        "answer": "Evet, kimlik ve adres bilgilerinizin gizlenmesi kararı varsa, sağlık hizmetlerinden yararlanırken başvurunuzun gizli tutulması, sıra beklememeniz, öncelikli ve en kısa zamanda işlemlerinizin tamamlanması esastır.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bu süreçte mahkeme masrafı, harç veya posta gideri gibi ücretler ödemem gerekir mi?",
+        "answer": "Hayır, kanun kapsamındaki başvurular ile verilen kararların icra ve infazı için yapılan işlemlerden yargılama giderleri, harç, posta gideri ve benzeri hiçbir ad altında masraf alınmaz.",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Bakanlık, davama taraf olarak katılabilir mi?",
+        "answer": "Evet, Bakanlık (Aile ve Sosyal Politikalar Bakanlığı), gerekli görmesi halinde şiddet veya şiddet tehlikesi dolayısıyla açılan idari, cezai, hukuki her tür davaya müdahil olarak katılabilir.\n\n---",
+        "topic": "Mali Hükümler (Maddi Yardım, Nafaka, Giderler)",
+        "source": "6284_sayili_kanun.txt"
+    },
+    {
+        "question": "Şiddet nedir?",
+        "answer": "Şiddet, kişinin fiziksel, cinsel, psikolojik veya ekonomik açıdan zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemal hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfi engellenmesini de içeren, toplumsal, kamusal veya özel alanda meydana gelen her türlü tutum ve davranıştır.",
+        "topic": "Şiddetin Tanımı",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadına yönelik şiddet nedir?",
+        "answer": "Kadına yönelik şiddet, cinsiyet temeline dayanan ve kadına sistematik olarak ev içinden veya dışından uygulanan bir davranış şeklidir. Kadının esas haklarının ve varlığının hiç sayıldığı; sosyal ve ekonomik imkân ve fırsatlara erişiminin engellendiği, onuruna yaraşır bir yaşam sürme hakkının zedelendiği bir şiddet biçimidir.",
+        "topic": "Şiddetin Tanımı",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Fiziksel şiddet nedir?",
+        "answer": "Fiziksel şiddet, kişinin vücut dokunulmazlığını ihlal eden, bütünlüğünü hedef alan ve ona acı çektiren her türlü saldırıdır. Kişinin bedensel olarak zarar görmesine neden olan her türlü eylem ve ihmali kapsar.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Fiziksel şiddete hangi davranışlar örnek verilebilir?",
+        "answer": "Fiziksel şiddet eylemlerine şunlar örnek verilebilir:\n- İtip kakmak, tartaklamak, tokatlamak, tekmelemek.\n- Kesici, delici aletlerle ya da sert cisimlerle bedene zarar vermek.\n- Sağlıksız ve kötü koşullarda yaşamaya mecbur bırakmak.\n- Sağlık hizmetlerinden yararlanmasına engel olmak.\n- Erken yaşta ve/veya zorla evlendirmek.\n- Töre ve namus gerekçeleriyle kasten öldürmek.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Psikolojik şiddet nedir?",
+        "answer": "Birine karşı sistemli şekilde psikolojik baskı uygulamak, duygusal olarak sömürmek, aşağılamak, kontrol etmek veya cezalandırmak amacıyla toplumdan soyutlamak (izole etmek) için uygulanan her türlü harekettir.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Psikolojik şiddet örnekleri nelerdir?",
+        "answer": "Psikolojik şiddet kapsamındaki eylemlere şunlar örnek verilebilir:\n- Bağırmak, korkutmak, küfür etmek, tehdit etmek, hakaret etmek.\n- Eve kapatmak, küçük düşürmek, lakap takmak.\n- Nasıl giyineceğini, nereye gideceğini veya kimlerle görüşeceğini kontrol etmek.\n- Ev içi kararlara katılmasını engellemek.\n- Çocuklarını göstermemekle tehdit etmek veya öfkesini çocuklardan çıkarmak.\n- Silah göstermek.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Cinsel şiddet nedir?",
+        "answer": "Cinsel şiddet, kişinin cinsel dokunulmazlığını hedef alan eylemlerden oluşur. Dünya Sağlık Örgütü bunu \"cinsel eylem gerçekleştirmek amacıyla girişim, istenmeyen cinsel içerikli konuşmalar, birini cinsel amaçlı kullanmak veya kişinin cinselliğine yönelik zorlayıcı yaptırımlar\" olarak tarif etmiştir.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Cinsel şiddet olarak kabul edilen eylemler nelerdir?",
+        "answer": "Cinsel şiddet dendiğinde akla gelen başlıca eylemler şunlardır:\n- Cinsel saldırı ve cinsel istismar.\n- İş yerinde, okulda veya diğer yerlerde cinsel taciz ve sindirme.\n- Zorla evlendirme.\n- Kadın ticareti ve fuhşa zorlama.\n- Cinsel ilişkiyi bir tehdit, sindirme ve kontrol aracı olarak kullanmak.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Ekonomik şiddet nedir?",
+        "answer": "Genel olarak kadının bir işte çalışmasını (istihdamını) etkileyen ya da ekonomik olarak zarara uğramasına neden olan eylemlerdir. İstemediği işlerde zorla çalıştırılması da ekonomik şiddettir.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Ekonomik şiddete hangi davranışlar örnek verilebilir?",
+        "answer": "Ekonomik şiddetin en yaygın şekilleri şunlardır:\n- Kadının çalışmasına engel olmak.\n- Kazandığı gelire el koymak.\n- Para harcamasını kısıtlamak ya da nereye harcayacağına karışmak.\n- Ailenin ekonomik kararlarını tek başına almak.\n- İş yerinde olay yaratarak işten atılmasına neden olmak.\n- Evin ihtiyaçlarını karşılayacak paradan yoksun bırakmak.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Tek taraflı ısrarlı takip (stalking) nedir?",
+        "answer": "Güvenliğinizden endişe edecek şekilde fiziki veya psikolojik açıdan korku ve çaresizlik duygularına sebep olan; fiili, sözlü, yazılı olarak ya da her türlü iletişim aracını kullanarak baskı altında tutan her türlü tutum ve davranıştır.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Israrlı takibe hangi davranışlar örnek verilebilir?",
+        "answer": "Israrlı takip eylemlerine şunlar örnektir:\n- Sürekli telefonla arama, kısa mesaj veya e-posta gönderme.\n- Sosyal medya aracılığıyla takip etme.\n- Sürekli kişinin karşısına çıkma.\n- Kişinin çalıştığı ya da yaşadığı yere gelerek rahatsız etme.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Siber şiddet nedir?",
+        "answer": "İnternet, mobil telefonlar ve sosyal medya gibi araçlar kullanılarak, kişilerin fiziksel, cinsel, psikolojik ya da ekonomik zarara uğramasına neden olan eylemler ve sömürülmesidir.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadınlara yönelik siber şiddet ne gibi şekillerde görülmektedir?",
+        "answer": "Siber şiddet şu gibi çeşitli biçimlerde görülebilir:\n- Kişisel bilgileri ele geçirme.\n- Siber takip (cyberstalking).\n- İntikam amaçlı pornografi (revenge porn).\n- Cinsiyete dayalı hakaret ve saldırı.\n- Tecavüz ve ölüm tehdidi.",
+        "topic": "Şiddet Türleri ve Örnekleri",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadına yönelik şiddete karşı uluslararası sözleşmeler veya bildirgeler var mıdır?",
+        "answer": "Evet, kadına yönelik şiddetle mücadelede temel olan birçok uluslararası düzenleme vardır. Bunlardan bazıları BM İnsan Hakları Evrensel Beyannamesi (1948), BM Kadınlara Yönelik Şiddetin Ortadan Kaldırılmasına Dair Bildirge (1993), CEDAW (1979/1985) ve Pekin Deklarasyonu'dur (1995).",
+        "topic": "Uluslararası Mevzuat",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "CEDAW nedir ve neden önemlidir?",
+        "answer": "CEDAW (Kadına Karşı Her Türlü Ayrımcılığın Ortadan Kaldırılması Sözleşmesi), Birleşmiş Milletler'in temel insan hakları sözleşmeleri arasında yer alır ve kadın hakları konusunda uluslararası standartları belirleyen ilk sözleşmedir.",
+        "topic": "Uluslararası Mevzuat",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Anayasa'da kadın-erkek eşitliği hakkında ne yazar? Kanunlar önünde erkeklerle eşit haklara sahip miyim?",
+        "answer": "Evet, Anayasa'nın 10. Maddesine göre \"Herkes, dil, ırk, renk, cinsiyet... ve benzeri sebeplerle ayırım gözetilmeksizin kanun önünde eşittir.\" Ayrıca \"Kadınlar ve erkekler eşit haklara sahiptir. Devlet, bu eşitliğin yaşama geçmesini sağlamakla yükümlüdür.\" denilmektedir.",
+        "topic": "Ulusal Mevzuat - Anayasal Haklar",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Devletin, kadınları korumak için aldığı özel tedbirler eşitlik ilkesine aykırı mıdır?",
+        "answer": "Hayır. Anayasa'ya göre, kadın-erkek eşitliğini sağlamak amacıyla alınacak özel tedbirler, eşitlik ilkesine aykırı olarak yorumlanamaz.",
+        "topic": "Ulusal Mevzuat - Anayasal Haklar",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Anayasa'da ailenin korunması hakkında ne yazar?",
+        "answer": "Anayasa'nın 41. Maddesine göre \"Aile, Türk toplumunun temelidir ve eşler arasında eşitliğe dayanır.\" Ayrıca \"Devlet, ailenin huzur ve refahı ile özellikle ananın ve çocukların korunması... için gerekli tedbirleri alır, teşkilâtı kurar.\" ifadesi yer alır.",
+        "topic": "Ulusal Mevzuat - Anayasal Haklar",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Evlilik içinde eşimle eşit söz hakkım var mı? Oturacağımız evi tek başına seçebilir mi?",
+        "answer": "Evet, Türk Medeni Kanunu'na göre \"Aile birliğinin yönetiminde eşlerin eşit söz hakkı vardır.\" ve \"Eşler oturacakları evi birlikte seçerler.\"",
+        "topic": "Ulusal Mevzuat - Medeni Kanun Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Türkiye'de yasal evlilik yaşı kaçtır?",
+        "answer": "Türkiye'de genel evlilik yaşı 18'dir. Ancak 17 yaşını tamamlayanlar veli izniyle, 16 yaşını dolduranlar ise istisnai durumlarda hâkim izni ile evlenebilir.",
+        "topic": "Ulusal Mevzuat - Medeni Kanun Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Beni zorla evlendirmeye çalışıyorlar, bu yasal mı? Ne yapabilirim?",
+        "answer": "Hayır, yasal değildir. Türk Medeni Kanunu'na göre \"Hiç kimse zorla evlendirilemez.\" Zorla bir evlilik yapılmışsa, bu evliliğin iptali istenebilir.",
+        "topic": "Ulusal Mevzuat - Medeni Kanun Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Erken yaşta evlilik, Türk Ceza Kanunu'na göre bir suç mudur?",
+        "answer": "Erken yaşta evlilik, TCK'da doğrudan bir suç olarak tanımlanmamıştır. Ancak bu tür evlilikler, \"Çocuğun Cinsel İstismarı\" (Madde 103) ve \"Reşit Olmayanla Cinsel İlişki\" (Madde 104) suçları kapsamında cezalandırılmaktadır.",
+        "topic": "Ulusal Mevzuat - Medeni Kanun Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadına yönelik şiddet suçlarında cezaları artıran yeni yasalar (2022 değişikliği) var mı?",
+        "answer": "Evet, 27 Mayıs 2022 tarihinde Türk Ceza Kanunu'nda (TCK) kadına yönelik şiddet suçlarının cezalarını ağırlaştıran önemli değişiklikler yapılmıştır.",
+        "topic": "Ulusal Mevzuat - Ceza Kanunundaki Yeni Düzenlemeler (2022)",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Yeni yasalara göre kadını kasten öldürmenin cezası nedir?",
+        "answer": "Kadını kasten öldürme suçunun cezası \"ağırlaştırılmış müebbet hapis\" olarak belirlenmiştir.",
+        "topic": "Ulusal Mevzuat - Ceza Kanunundaki Yeni Düzenlemeler (2022)",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadını kasten yaralamanın cezası arttı mı?",
+        "answer": "Evet, basit tıbbi müdahale ile giderilebilecek kasten yaralama suçunun kadına karşı işlenmesi halinde cezanın alt sınırı 4 aydan 6 ay hapse yükseltilmiştir. Eziyet suçunun kadına karşı işlenmesi halinde ise cezanın alt sınırı iki yıl altı aydan az olamaz.",
+        "topic": "Ulusal Mevzuat - Ceza Kanunundaki Yeni Düzenlemeler (2022)",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Kadına karşı tehdit suçunun cezası nedir?",
+        "answer": "Bir kadını hayatına, vücut veya cinsel dokunulmazlığına yönelik bir saldırı gerçekleştireceğinden bahisle tehdit etme suçunun cezasının alt sınırı dokuz aydan az olamaz.",
+        "topic": "Ulusal Mevzuat - Ceza Kanunundaki Yeni Düzenlemeler (2022)",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "\"Kravat taktı, iyi hal gösterdi\" gibi indirimler (takdiri indirim) hala kolayca uygulanıyor mu?",
+        "answer": "Yeni düzenlemeye göre, failin sırf indirim almak için kılık ve kıyafetine özen göstermesi gibi durumlar, artık takdiri indirim nedeni olarak dikkate alınmayacaktır.",
+        "topic": "Ulusal Mevzuat - Ceza Kanunundaki Yeni Düzenlemeler (2022)",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "İş yerinde cinsiyetim nedeniyle ayrımcılığa uğrarsam haklarım nelerdir?",
+        "answer": "İş Kanunu'na göre, işe alınmada, çalışma koşullarında ve işten çıkarılmada cinsiyet dahil hiçbir nedenle ayrım yapılamaz. Aynı veya eşit değerde bir iş için cinsiyet nedeniyle daha düşük ücret verilemez.",
+        "topic": "Ulusal Mevzuat - İş Kanunu Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "İş yerinde cinsel tacize uğrarsam işten ayrılabilir miyim? Tazminat alabilir miyim?",
+        "answer": "Evet, İş Kanunu'na göre iş yerinde cinsel taciz, iş sözleşmesinin haklı nedenle feshi (işten ayrılma) nedenidir ve tazminat talep edebilirsiniz.",
+        "topic": "Ulusal Mevzuat - İş Kanunu Hakları",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "6284 sayılı kanun dışında şiddetle mücadele ile ilgili başka hangi yönetmelikler var?",
+        "answer": "Evet, \"Kadın Konukevleri Hakkında Yönetmelik\", \"Şiddet Önleme ve İzleme Merkezleri Hakkında Yönetmelik\" ve \"Teknik Yöntemlerle Takip Sistemlerinin Kullanılmasına Dair Yönetmelik\" gibi birçok tamamlayıcı yönetmelik bulunmaktadır.",
+        "topic": "Ulusal Mevzuat - Diğer Düzenlemeler",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "Göçmen bir kadınım, Türkiye'ye uyum sağlamam için destek programları var mı?",
+        "answer": "Evet, Yabancılar ve Uluslararası Koruma Kanunu kapsamında, İçişleri Bakanlığı'na bağlı İl Göç İdaresi Başkanlığı tarafından, yabancıların sosyal hayata bağımsız bir şekilde katılımını kolaylaştıracak bilgi ve beceriler kazandırmaya yönelik \"uyum\" çalışmaları yürütülmektedir.\n\n---\n\nKonu: 6284 Sayılı Kanun ve Koruma Tedbirleri\n\nSoru: 6284 Sayılı Kanun'un temel amacı nedir?\nCevap: Kanun'un amacı; şiddete uğrayan veya şiddete uğrama tehlikesi bulunan **kadınların**, **çocukların**, **aile bireylerinin** ve **tek taraflı ısrarlı takip mağduru olan kişilerin** korunması ve bu kişilere yönelik şiddetin önlenmesi amacıyla alınacak tedbirlere ilişkin usul ve esasları düzenlemektir.\n\nSoru: 6284 Sayılı Kanun'un korumasından kimler faydalanabilir?\nCevap: Kanun'un korumasından; **aile içi şiddete maruz kalan eş, çocuklar ve aynı çatı altında yaşayan diğer aile bireyleri** (akrabalar), **tek taraflı ısrarlı takip mağdurları**, mahkemece ayrılık kararı verilen veya fiilen ayrı yaşayan aile bireyleri ve şiddete uğrayan kişi faydalanabilir.\n\nSoru: Şiddet mağdurları tedbir talebi için hangi kurumlara başvurabilir?\nCevap: Başvuru yerleri; **Gümüşhane Valiliği/Kaymakamlık**, **Polis Merkezi/Jandarma Karakolu**, **ŞÖNİM**, Aile ve Sosyal Hizmetler Bakanlığı/İl Müdürlüğü-Kadın Hizmetleri Birimi, SHM Kadın İrtibat Noktaları, **Cumhuriyet Başsavcılığı** veya **Asliye Hukuk Mahkemesi** (Aile Mahkemesi Hâkimliği)'dir.\n\nSoru: Şiddet durumunda başvuru yaparken herhangi bir ücret ödenir mi?\nCevap: Hayır, adli yardımdan faydalanmak için talepte bulunulması halinde **6284 sayılı Kanun kapsamında yapılan işlemler için hiçbir masraf alınmamaktadır**.\n\n---\n\nKonu: Şiddet Mağduruna Yönelik Verilebilecek Tedbirler\n\nSoru: Hâkimin şiddet mağduru için verebileceği tedbir kararları nelerdir?\nCevap: Hâkim, **korunan kişinin işyerinin değiştirilmesine** ve evli olması hâlinde **müşterek yerleşim yerinden ayrı bir yerleşim yeri belirlenmesine** karar verebilir. Ayrıca hayatî tehlike bulunması hâlinde, şiddet mağduru **geçici koruma altına alınabilir**.\n\nSoru: Şiddet mağdurunun çalışma hayatına destek olmak amacıyla hangi tedbirler alınabilir?\nCevap: Vali ve Kaymakam, korunan kişinin çalışma yaşamına katılımını desteklemek amacıyla **çocukları için kreş imkânı** sağlayabilir.\n\nSoru: Şiddet mağduruna barınma ve maddi yardım konusunda hangi destekler sağlanır?\nCevap: Barınma talebi olması hâlinde, mülki amir veya gecikmesinde sakınca olan hallerde kolluk kuvvetleri şiddet mağduru ve çocuklarına **uygun barınma yeri** sağlar. Vali ve Kaymakam gerekli gördüğü hallerde şiddet mağduruna **geçici bir süre için maddi yardım** yapılmasına karar verebilir.\n\nSoru: Şiddet mağdurunun gizliliği ve konut güvenliği için hangi hukuki tedbirler uygulanabilir?\nCevap: Hâkim, şiddet mağdurunun aydınlatılmış rızasına dayanarak **kimlik ve ilgili diğer bilgi ve belgelerinin değiştirilmesine** hükmedebilir. Ayrıca, talep üzerine tapu kütüğüne **aile konutu şerhi** konulabilir.\n\n---\n\nKonu: Şiddet Uygulayan Kişi ile İlgili Verilebilecek Tedbirler\n\nSoru: Şiddet uygulayan kişinin mağdura yaklaşmaması ve iletişim kurmaması için hangi kararlar verilebilir?\nCevap: Hâkim, şiddet uygulayanın korunan kişiye karşı **şiddet tehdidi, hakaret, aşağılama veya küçük düşürmeyi içeren söz ve davranışlarda bulunmamasına** ve iletişim araçları ile **rahatsız etmemesine** karar verebilir.\n\nSoru: Şiddet uygulayan kişi, mağdurun bulunduğu yerlerden uzaklaştırılabilir mi?\nCevap: Evet, Hâkim şiddet uygulayanın; **ortak yaşam alanından uzaklaştırılmasına**, korunan kişilerin bulunduğu **konut, okul ve işyerine yaklaşmamasına** yönelik karar verebilir.\n\nSoru: Şiddet uygulayan kişinin çocuklarla kişisel ilişkisi kısıtlanabilir mi?\nCevap: Evet, Hâkim tarafından çocuklarla kişisel ilişki kurulmasına, **kişisel ilişkinin refakatçi eşliğinde yapılmasına**, **sınırlanmasına** ya da **tümüyle kaldırılmasına** yönelik karar verilebilir.\n\nSoru: Şiddet uygulayan kişinin silahına el konulabilir mi?\nCevap: Evet, Hâkim kararı doğrultusunda şiddet uygulayanın **silah veya benzeri araçlarını kolluk kuvvetlerine teslim etmesi** sağlanır. Kamu görevi ifa edenlerin zimmetindeki silahın kurumuna teslimine de karar verilebilir.\n\nSoru: Şiddet uygulayan kişi hakkında sağlık tedbirleri uygulanabilir mi?\nCevap: Mülki amir veya hâkim, şiddet uygulayanın bir sağlık kuruluşunda **muayene veya tedavisinin sağlanmasına** yönelik tedbirlere hükmedebilir.\n\nSoru: Şiddet uygulayan kişiye maddi bir yükümlülük getirilebilir mi?\nCevap: Sayılan tedbirlerin yanı sıra şiddet gören lehine **nafaka ödeme yükümlülüğü** getirilebilir.\n\n---\n\nKonu: Tedbir Kararının Uygulanması ve İzlenmesi\n\nSoru: Tedbir kararının süresi ne kadardır ve tekrar alınabilir mi?\nCevap: Tedbir kararı ilk defasında en fazla **altı ay** için verilebilir. Süre devam ederken veya bittikten sonra şiddet tekrar ederse, yeniden tedbir kararı alınması için başvuru yapmak mümkündür.\n\nSoru: Tedbir kararının uygulanması nasıl denetlenir ve hangi yöntemler kullanılır?\nCevap: Tedbir kararının uygulanması **kolluk kuvvetleri (polis veya jandarma) aracılığı ile izlenir**. Kolluk kuvvetleri evi ziyaret eder, yakınlar ve komşular ile iletişim kurar ve mahalle muhtarlığından bilgi alır. Hâkim kararı ile teknik araç ve yöntemler de kullanılabilir.\n\nSoru: Tedbir kararına uyulmaması halinde şiddet uygulayana hangi ceza verilir?\nCevap: Tedbir kararlarını ihlal eden kişi, hükmedilen ihlalin türüne göre **üç günden on güne kadar zorlama hapsi** ile cezalandırılabilir. İhlalin her tekrarında, zorlama hapsinin süresi on beş günden otuz güne kadardır. Bu ceza paraya çevrilemez veya ertelenemez.\n\nSoru: Evden uzaklaştırma kararı alındığında şiddet mağduru geçimini nasıl sağlar?\nCevap: Şiddet mağduru, kendisi ve çocuklarının geçimini sağlamak için **nafaka ödemesini** isteyebilir. Ayrıca, nafaka alınamaması durumunda **Sosyal Yardımlaşma ve Dayanışma Vakıflarına** başvurulması mümkündür.\n\n---\n\nKonu: ŞÖNİM ve Barınma Hizmetleri\n\nSoru: Şiddet Önleme ve İzleme Merkezleri (ŞÖNİM) hangi hizmetleri sunar?\nCevap: ŞÖNİM'ler, şiddetin önlenmesi ve tedbir kararlarının izlenmesine yönelik, şiddet mağduru ve şiddet uygulayan/uygulama ihtimali bulunan kişilere hizmetler yürütür. Şiddet mağdurlarına **psikolojik, meslekî, hukukî ve sosyal alanda rehberlik ve danışmanlık** hizmeti verilir ve bu merkezler **7 gün 24 saat** esasıyla çalışır.\n\nSoru: Şiddet mağdurları için güvenli barınma hizmeti var mıdır?\nCevap: Evet, **Kadın Konukevleri**, şiddete uğrayan veya risk altındaki kadınların varsa beraberlerindeki çocukları ile birlikte, **geçici süre ile barınma ihtiyacını** karşılamaktadır. Bu hizmeti Aile ve Sosyal Hizmetler Bakanlığı, belediyeler ve sivil toplum kuruluşları yürütmektedir.\n\n---\n\nKonu: Kadına Yönelik Şiddetle Mücadelede Erken Uyarı Sistemleri\n\nSoru: Kadın Destek Sistemi (KADES) nedir ve ne zaman hizmete girmiştir?\nCevap: KADES, şiddet mağduruna etkin ve hızlı müdahale sağlamak amacıyla geliştirilen **mobil bir uygulamadır**. 24 Mart 2018 tarihi itibariyle hizmete girmiştir.\n\nSoru: KADES uygulaması nasıl çalışır ve hangi desteği sağlar?\nCevap: KADES uygulaması, **\"Yardım İste\" butonu vasıtasıyla 7/24 kolluk birimlerine** (Polis/Jandarma) ulaşım sağlamaktadır. Ayrıca, ihtiyaç tespiti halinde mağdurların Aile ve Sosyal Hizmetler Bakanlığına bağlı Merkezlerden hizmet almaları için **yönlendirme** yapılmaktadır.\n\nSoru: Alo 183 Sosyal Destek Hattı hangi konularda hizmet verir ve iletişim özellikleri nelerdir?\nCevap: Alo 183, şiddete uğrayan ya da uğrama riski taşıyan kadın ve çocuklar için **danışma hattı** olarak çalışır; hakları konusunda ve başvuracakları yerler hakkında bilgi verir. **7/24 ücretsiz hizmet** veren bu hattın, Arapça ve Kürtçe dillerinde kısa mesaj ile iletişim özelliği ve işitme engelli bireyler için 3G özelliği de bulunmaktadır.\n\nSoru: Alo 183 hattı üzerinden acil şiddet ihbarları nasıl önceliklendirilir?\nCevap: Pandemi sürecinde, anlık şiddet, ihmal ve istismar ihbarları için doğrudan **sıfır rakamının tuşlanması** ile başvuruların önceliklendirilmesi sağlanmıştır.\n\nSoru: Yabancılar İletişim Merkezi (YİMER) nedir ve şiddetle mücadeledeki rolü nedir?\nCevap: YİMER (157), İçişleri Bakanlığı Göç İdaresi Genel Müdürlüğüne bağlı olarak çalışan ve Türkiye'de yaşayan **yabancıların vize, ikamet izni, uluslararası koruma, geçici koruma gibi konulardaki sorularına** cevap veren bir merkezdir. Aynı zamanda insan ticareti ve göçmen kaçakçılığı mağdurlarının tespitine yönelik ihbar ve yardım hattı olarak da kullanılabilir ve **7 gün 24 saat** hizmet verir.\n\nSoru: YİMER hangi dillerde hizmet vermektedir?\nCevap: YİMER, **157** nolu telefon numarası ile **Türkçe, İngilizce, Arapça, Rusça, Almanca ve Farsça** dillerinde hizmet vermektedir.\n\nSoru: Şiddetle mücadelede kullanılan teknik takip yöntemi (Elektronik Kelepçe) nedir?\nCevap: Teknik yöntemlerle takip sistemi (**elektronik kelepçe uygulaması**), Kadına Yönelik Şiddetle Mücadele Koordinasyon Planı kapsamında geliştirilmiş olup, 81 ilde uygulanabilmektedir. Bu sistem, **şiddet uygulayanı uzaktan takip etme** amacı taşır.\n\nSoru: Elektronik kelepçe uygulamasına dair usul ve esasları düzenleyen Yönetmelik ne zaman yürürlüğe girmiştir?\nCevap: Teknik yöntemlerle takibe ilişkin usul ve esasların düzenlendiği **\"6284 sayılı Kanun Kapsamında Teknik Yöntemlerle Takip Sistemlerinin Kullanılmasına Dair Yönetmelik\"** 4 Eylül 2021 tarihinde Resmi Gazetede yayımlanarak yürürlüğe girmiştir.\n\n---\n\nKonu: 6284 Sayılı Kanun'un Kapsamı ve Genel Özellikleri (Özet)\n\nSoru: 6284 Sayılı Kanun kimleri ve hangi tür şiddeti kapsar?\nCevap: Kanun, **tüm kadınları, aile bireylerini ve tek taraflı ısrarlı takip mağdurlarını** kapsar. Kapsadığı şiddet türleri **fiziksel, cinsel, psikolojik, sözel ve ekonomik** şiddettir.\n\nSoru: Kanun kapsamında kimler tedbir kararı verme yetkisine sahiptir?\nCevap: Kanun, **mülki amire de tedbir kararı verme yetkisi** tanır ve acil durumlarda kolluk kuvvetlerine (Polis/Jandarma) yetki verir.\n\nSoru: Kanunun getirdiği destek mekanizmaları ve cezai yaptırımlar nelerdir?\nCevap: Kanun; **şiddet mağduru ve uygulayana yönelik destek hizmetleri**, **Şiddet Önleme Merkezlerinin kurulması**, **teknik araç ve yöntemlerle takip** ve önleyici tedbir kararının ihlali halinde **zorlama hapsi** gibi cezai yaptırımlar getirir.\n\nSoru: 6284 Sayılı Kanun medyaya ve Bakanlığa hangi sorumlulukları yükler?\nCevap: Kanun, medyaya bilinçlendirme konusunda **sorumluluklar** yükler ve Bakanlığa gerekli gördüğü durumlarda davaya **müdahil olma** yetkisi verir.\n\n---\n\nKonu: ŞÖNİM'lerin Çalışma Konuları ve Kadın Konukevleri Hizmetleri\n\nSoru: Şiddet Önleme ve İzleme Merkezleri (ŞÖNİM) hangi ana çalışma konularına odaklanır?\nCevap: ŞÖNİM'ler üç ana alanda çalışır: **Şiddetin önlenmesi ve tedbir kararlarının izlenmesine yönelik hizmetler**, **şiddet mağduru kişilere yönelik hizmetler** ve **şiddet uygulayan/uygulama ihtimali bulunan kişilere yönelik hizmetlerdir**.\n\nSoru: Kadın Konukevlerinde verilen temel barınma desteğinin süresi ne kadardır?\nCevap: Kadın Konukevlerinde **6 ay süre ile barınma hizmeti** verilir.\n\nSoru: Barınma süresince Kadın Konukevlerinde hangi destek hizmetleri sunulur?\nCevap: Barınma süresince **Psiko-sosyal destek**, **Hukuki destek** (il avukatları ya da barolar tarafından), **Yönlendirme ve rehberlik** hizmetleri meslek elemanları tarafından verilir.\n\nSoru: Kadın Konukevlerinde çocuklara ve kadınlara yönelik istihdam destekleri var mıdır?\nCevap: Evet. **0-6 yaş grubu çocuklara kreş desteği** sağlanır. Ayrıca kadınlar için MEB, Meslek Edindirme Kursları ve İŞKUR tarafından **Mesleki Danışmanlık ve İstihdam desteği** sunulur.\n\nSoru: Kadın Konukevine başvuru nasıl yapılır?\nCevap: Konukevine kabulünü isteyen kadınlar **İl Müdürlüğü'ne**, **ŞÖNİM'e**, benzeri görevleri yapan kamu kurum ve kuruluşlarının ilgili yönlendirici birimlerine veya **kolluğa** başvurabilirler.\n\nSoru: Kadın Konukevine doğrudan veya üçüncü bir kişi aracılığıyla başvuru kabul edilir mi?\nCevap: **Kadınların konukevine doğrudan başvuruları kabul edilemez** ve bu tür başvurular ŞÖNİM’e yönlendirilir. Ancak, **şiddetten haberdar olan üçüncü kişilerin bildirimleri ihbar kabul edilir**.\n\nSoru: Kadın Konukevine kabulde hangi belgeler istenir ve kimlik belgesi olmayanlara destek sağlanır mı?\nCevap: Konukevine kabulde kadınlardan **herhangi bir belge istenmez**. Konukevi yönetimi, resmi kimlik belgesi olmayan kadınların **kimlik belgesi edinme işlemlerine destek** olur.\n\n---\n\nKonu: Kadınların Ekonomik ve Finansal Güçlenmesine Yönelik Projeler\n\nSoru: Kadın Konukevlerinden hizmet alan kadınlara yönelik hangi Finansal Okuryazarlık ve Bilişim Teknolojileri eğitimleri planlanmıştır?\nCevap: Habitat Derneği ve Kadının Statüsü Genel Müdürlüğü iş birliğinde, kadınların güçlenmesi amacıyla Finansal Okuryazarlık ve Bilişim Teknolojileri alanında eğitimler planlanmıştır. Bu eğitimler **Finansal Okuryazarlık, Ebeveyn ve Bilgi Güvenliği** ve **Ebeveynlik Becerisini Geliştirme Kurs Programı** başlıkları altında düzenlenmiştir.\n\nSoru: Kadınların ekonomik hayata katılımı için hangi kurumlar işbirliği yaparak eğitim verir?\nCevap: Kadınların ekonomik hayata katılımları, toplumsal ve ekonomik alanda güçlenmeleri amacıyla **İŞKUR** ve Kadının Statüsü Genel Müdürlüğü iş birliğiyle 81 ildeki kadın konukevlerinde **iş kulübü eğitimlerinin** düzenli olarak verilmesi sağlanmaktadır.\n\nSoru: Kadın kooperatiflerini güçlendirmeyi amaçlayan bir iş birliği protokolü var mıdır?\nCevap: Evet. Kadın kooperatiflerinin güçlendirilmesi, sürdürülebilirliğinin sağlanması ve kurumsal kapasitelerinin geliştirilmesi hedefine yönelik olarak **Tarım ve Orman Bakanlığı** ve **Ticaret Bakanlığı** ile iş birliğinde bir protokol imzalanmıştır (30 Ekim 2018). Bu protokol, 12.07.2021 tarihinde 2 yıl süre ile yenilenmiştir.\n\nSoru: Kadınlara yönelik Finansal Okuryazarlık Seminerleri hangi konularda farkındalık yaratmayı hedefler?\nCevap: \"Finansal Okuryazarlık ve Kadınların Ekonomik Güçlenmesi Seminerleri\", kadınların **para yönetimi, gelir, harcama, birikim, varlık, borç, tasarruf, yatırım, yatırım araçları** ve **bireysel emeklilik sistemi** gibi konularda farkındalıklarını artırmayı hedefler. Seminerler, ayrıca kadınların ekonomik güçlenmesine yönelik destek ve teşviklere ilişkin bilgi verilmesini de amaçlar.\n\n---\n\nKonu: Kadınların Güçlenmesine ve Adalete Erişimine Yönelik Projeler\n\nSoru: \"Türkiye’nin Mühendis Kızları Projesi\"nin amacı nedir ve kimler iş birliği yapmaktadır?\nCevap: Proje (2016-2021), mühendis olmak isteyen kız öğrencileri her alanda destekleyerek, onları mesleğinin örnekleri haline gelmeleri hedeflenmektedir. Bakanlık, Milli Eğitim Bakanlığı, Birleşmiş Milletler Kalkınma Programı (UNDP) ve Limak Vakfı iş birliğinde yürütülmektedir.\n\nSoru: \"Türkiye’de Kadın Erkek Eşitliğine Duyarlı Planlama ve Bütçelemenin Uygulanması Projesi\"nin hedefi nedir?\nCevap: Projenin (2020-2023) amacı, Türkiye’de **kadın erkek eşitliğine duyarlı planlama ve bütçelemenin sistematik ve sürdürülebilir bir şekilde geliştirilmesi** yoluyla kadınları ve kadın erkek eşitliğini daha da güçlendirmektir.\n\nSoru: \"Kadınların Kooperatifler Yoluyla Güçlendirilmesi Projesi\" ile ne amaçlanmaktadır?\nCevap: Projenin amacı, **kadın istihdamının artırılması** ve **kadın kooperatiflerinin kurulmasının teşvik edilmesi ve desteklenmesi** yoluyla kadınların ekonomik olarak güçlendirilmesidir.\n\nSoru: Adalet Bakanlığı tarafından yürütülen \"Kadınların Adalete Erişiminin Güçlendirilmesi Projesi\" hangi kurumlarla iş birliği yapmaktadır?\nCevap: Bu proje, **Kadınların adalete erişimlerinin güçlendirilmesini** amaçlamaktadır. Birleşmiş Milletler Kadın Birimi (UN Women) iş birliğinde ve İsveç Ulusal Kalkınma Ajansı (SIDA) desteğiyle yürütülmektedir.\n\nSoru: Bu projelerin genel olarak kadınların sosyal konumuna katkısı nedir?\nCevap: Bu projeler, kız öğrencileri mühendislik gibi alanlarda destekleyerek mesleki çeşitliliği artırmayı, ekonomik katılımı (kooperatifler) ve finansal okuryazarlığı güçlendirmeyi, aynı zamanda adalete erişimi kolaylaştırarak **kadınların toplumsal hayatta daha güçlü ve eşit konuma gelmelerini** desteklemektedir.\n\n---\n\nKonu: Adalet Bakanlığı Hizmetleri ve Kadına Yönelik Şiddetle Mücadele Politikaları\n\nSoru: Adli Destek ve Mağdur Hizmetleri Başkanlığı Kadın Destek Hizmetleri Şube Müdürlüğü'nün temel görevleri nelerdir?\nCevap: Temel görevleri; kadın mağdurlara yönelik **psiko-sosyal müdahale programları geliştirmek**, hakları ve kamu hizmetleri konusunda **bilgilendirme çalışmaları** yapmak, ulusal ve uluslararası gelişmeleri takip etmek, şiddet hizmetlerinin etkinliğini artırmaya yönelik **araştırma ve projeler geliştirmek** ve ilgili kurum/STK'lar ile **koordineli çalışmalar yürütmektir**.\n\nSoru: Kadına Yönelik Şiddetle Mücadele Ulusal Eylem Planları'nın hazırlanması hangi politika ile başlamıştır?\nCevap: Eylem planlarının hazırlanması, **2006/17 sayılı Başbakanlık Genelgesi’nin 11. maddesi** ile başlamış ve bütün kamu kurum ve kuruluşları, üniversiteleri, STK'ları, özel sektörü ve yerel yönetimleri kapsayacak bir eylem planı hazırlanması faaliyetine yer verilmiştir.\n\nSoru: Türkiye'de ilk Ulusal Eylem Planı ne zaman hazırlanmıştır?\nCevap: İlk Eylem Planı **2007 yılında** hazırlanmıştır. O günden bu yana, kadına yönelik şiddetle mücadele eylem planları bir **devlet politikası** olarak benimsenmiştir.\n\nSoru: Yerel düzeyde (illerde) eylem planları ne amaçla ve ne zaman uygulanmaya başlamıştır?\nCevap: Ulusal Eylem Planlarının yerelde uygulanmasını sağlamak amacıyla, **2016 yılından bu yana il eylem planları hazırlanmaktadır**. Amaç, yerele özgü sorunların tespiti ve çözüm önerileri geliştirilmesidir.\n\n---\n\nKonu: Şiddet Döngüsü ve Aile Destek Uygulaması\n\nSoru: Şiddet Döngüsü (Cycle of Violence) nasıl işler?\nCevap: Şiddet Döngüsü genellikle şu aşamalardan oluşur: İlk aşamada **gerginlik artar**, iletişim bozulur, mağdur korkar ve şiddet uygulayanı sakinleştirmeye çalışır. İkinci aşamada, bir takım mazeretler ileri sürülerek şiddet uygulayan kişi gerginlik çıkarır, mağduru suçlar ve baskı oluşturur. Üçüncü aşamada, faail üzgün olduğunu söyler, pozitif bir hal göstererek mağdurun **'gönlünü almaya' çalışır** (balayı aşaması), mağdur da bu hale duyarsız kalamaz.\n\nSoru: Aile Destek Uygulaması nedir ve hangi hizmeti sunar?\nCevap: Aile Destek Uygulaması, Aile ve Sosyal Hizmetler Bakanlığı'nın hizmetlerini, duyuru ve haberlerini paylaştığı **mobil telefon uygulamasıdır**. Bu uygulama, kullanıcıların Bakanlık hizmetleri ile ilgili bilgilere **bir tıkla ulaşabilme** fırsatı sunmaktadır.\n\n---\n\nKonu: Kadına Yönelik Şiddetle Mücadelede Kurumsal Rol ve Sorumluluklar\n\nSoru: Kadına yönelik şiddetle mücadelede rol ve sorumluluğu bulunan temel bakanlıklar hangileridir?\nCevap: Başta **Aile ve Sosyal Hizmetler Bakanlığı**, **Adalet Bakanlığı**, **İçişleri Bakanlığı**, **Sağlık Bakanlığı** ve **Millî Eğitim Bakanlığı** olmak üzere pek çok kurum ve kuruluş kurumsal hizmet sunumu gerçekleştirmektedir.\n\nSoru: Aile ve Sosyal Hizmetler Bakanlığı (ASHB) şiddet mağduruna yönelik hangi hizmetleri sunar?\nCevap: ASHB, şiddet mağdurunun akut şiddetten korunması ve desteklenmesi için **yatılı ve gündüzlü kurumsal hizmetler** sunmaktadır. Bu hizmetler arasında **barınma**, **rehberlik ve danışmanlık**, hayati tehlike halinde **geçici koruma altına alınma** gibi hizmetler bulunur.\n\nSoru: ASHB'nin Şiddet Önleme ve İzleme Merkezleri (ŞÖNİM) hangi hizmeti sunar?\nCevap: ŞÖNİM'ler, **81 ilde** 6284 sayılı Kanun kapsamında **tedbir kararlarının etkin uygulanmasına yönelik takip süreci** hizmetini sunmaktadır.\n\nSoru: Kadın Konukevlerinin temel amacı ve sunduğu hizmetler nelerdir?\nCevap: Kadın konukevleri, şiddete uğrayan kadınların **korunması**, **psiko-sosyal ve ekonomik sorunlarının çözülmesi**, **güçlendirilmesi** ve bu dönemde kadınların varsa çocukları ile birlikte ihtiyaçlarının karşılanması suretiyle **geçici süreyle kalınabilen yatılı sosyal hizmet kuruluşları** olarak hizmet sunmaktadır.\n\nSoru: ASH İl Müdürlükleri ve Sosyal Hizmet Merkezleri (SHM) şiddetle mücadele kapsamında hangi birimleri oluşturmuştur?\nCevap: ASH İl Müdürlükleri ve SHM'ler, şiddet ve istismarın önlenmesine yönelik çalışmalar yürütür. İlçelerde şiddet mağdurlarına yönelik danışma ve destek hizmetlerinin hızlı ve etkin sunulabilmesi amacıyla SHM bünyesinde **\"Şiddetle Mücadele İrtibat Noktaları\"** belirlenmiştir.\n\nSoru: İçişleri Bakanlığı'na bağlı mülki amirlerin (Vali/Kaymakam) 6284 sayılı Kanun kapsamındaki yetkileri nelerdir?\nCevap: Mülki amirler, 6284 sayılı Kanun kapsamında düzenlenen **koruyucu tedbir kararlarını alabilmekte** ve gecikmesinde sakınca bulunan hallerde **kolluk tarafından alınan tedbir kararlarını onaylamaktadır**. Ayrıca il düzeyinde politika oluşturulması ve hizmet sunum süreçlerinde takip ve koordinasyon görevini yürütmektedir.\n\nSoru: Kolluk kuvvetlerinin (Polis/Jandarma) şiddet mağdurlarının korunmasındaki temel rolü nedir?\nCevap: Kolluk birimleri, şiddete maruz kalan kadınların **ilk başvurdukları kurumlar** arasındadır ve şiddet mağdurlarının korunması ve can güvenliğinin sağlanması noktasındaki **sorumluluğu birincildir**. 6284 sayılı Kanun kapsamında gecikmesinde sakınca bulunan hal kapsamında **tedbir kararlarını alma yetkisi** ve sonrasında **takip görevi** bulunmaktadır.\n\nSoru: Emniyet Genel Müdürlüğü (EGM) ve Jandarma Genel Komutanlığı (JGK) bünyesindeki uzmanlaşmış birimler nelerdir?\nCevap: EGM merkezde **Asayiş Daire Başkanlığına bağlı Aile İçi Şiddetle Mücadele Şube Müdürlüğü** görev yapar. Taşrada ise **Aile İçi ve Kadına Karşı Şiddetle Mücadele Büro Amirlikleri** (uzmanlaşmış birimler) tüm işlemlerin il/ilçe düzeyinde takibini sağlar. Jandarma sorumluluk bölgesinde ise merkezde **JGK Aile İçi Şiddetle Mücadele ve Çocuk Şube Müdürlüğü** ve taşrada **İl Jandarma Komutanlığı bünyesinde Aile İçi Şiddetle Mücadele ve Çocuk Şube Müdürlüğü/Kısım Amirliği** hizmet vermektedir.\n\nSoru: Sağlık Bakanlığı bünyesinde şiddet mağdurlarına hizmet veren kritik birimler nelerdir?\nCevap: Merkez teşkilatlanmasında ilgili birimler; Sağlık Hizmetleri Genel Müdürlüğü, Halk Sağlığı Genel Müdürlüğü, Kamu Hastaneleri Genel Müdürlüğü ve Acil Sağlık Hizmetleri Genel Müdürlüğü’dür. Taşrada ise hastanelerde özellikle **Acil Servis** ve **Tıbbi Sosyal Hizmet Birimi** önemlidir. Ayrıca acil sağlık müdahalesi gerektiren durumlarda, **112 Acil telefon hattı 7 gün 24 saat ücretsiz** olarak hizmet vermektedir.",
+        "topic": "Ulusal Mevzuat - Diğer Düzenlemeler",
+        "source": "gumushane_el_kitabi.txt"
+    },
+    {
+        "question": "KADES uygulamasını nasıl kurup kullanabilirim?",
+        "answer": "KADES'i kullanmak için aşağıdaki adımları izleyebilirsiniz:\n- **Uygulamayı İndirin:** KADES uygulaması, App Store ve Google Play Store üzerinden ücretsiz olarak indirilebilir.\n- **Kimlik Bilgileri ile Kayıt Olun:** Uygulama, TC kimlik numarası ve telefon numarası ile kayıt olmayı gerektirir.\n- **Acil Durumda Yardım Butonuna Dokunun:** Kayıt işlemi tamamlandıktan sonra uygulama açıldığında ekranda \"Acil Çağrı Butonu\" yer alır. Bu butona basıldığında, sistem otomatik olarak kullanıcı konumunu güvenlik güçlerine iletir ve en yakın polis ekibi olay yerine gönderilir.\n- **Konum Servisini Açık Tutun:** Uygulamanın konumunuzu doğru bir şekilde iletebilmesi için telefonunuzun konum servislerinin (GPS) açık olması önemlidir.",
+        "topic": "KADES Uygulamasının Kullanımı ve Amacı",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "Hangi durumlarda KADES uygulamasını kullanabilirim?",
+        "answer": "Kadına yönelik şiddetin veya herhangi bir tehdit durumunun var olduğu tüm acil durumlarda KADES'i kullanabilirsiniz. Kendinizi tehlikede hissettiğiniz herhangi bir durumda yardım talep edebilirsiniz. Başlıca durumlar şunlardır:\n- **Fiziksel Şiddet:** Aile içi veya diğer ortamlarda fiziksel şiddete maruz kalmanız durumunda.\n- **Tehdit ve Taciz:** Psikolojik olarak tehdit edilme, zorla bir yere götürülme ya da sözlü taciz gibi durumlarda.\n- **Takip Edilme Durumu:** Sizi takip eden bir kişi olduğunu hissetmeniz veya güvenliğinizden endişe duymanız durumunda.\n- **Acil Güvenlik İhtiyacı:** Herhangi bir tehdit altında olduğunuzu hissettiğiniz veya ani bir tehlike sezdiğiniz her durumda.",
+        "topic": "KADES Uygulamasının Kullanımı ve Amacı",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES uygulamasını nasıl aktif ederim?",
+        "answer": "KADES uygulamasını kullanabilmek için aşağıdaki adımları takip etmek gereklidir:\n1. **Uygulamayı İndirme:** KADES uygulaması, Google Play Store ve Apple App Store üzerinden ücretsiz olarak indirilebilir.\n2. **Kimlik Doğrulama:** Uygulama açıldıktan sonra, kullanıcıdan Türkiye Cumhuriyeti kimlik numarasını girmesi istenir.\n3. **Aktivasyon Kodu:** Kimlik doğrulandıktan sonra Emniyet Genel Müdürlüğü’nün sunucularından gelen aktivasyon kodu ile uygulama aktif hale getirilir.",
+        "topic": "KADES Uygulamasının Aktivasyonu ve İşleyişi",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES butonuna bastıktan sonra polis ne kadar sürede gelir?",
+        "answer": "İhbarların alınmasından itibaren güvenlik güçlerinin olay yerine ulaşma süresi, ortalama 4-5 dakikadır. Bu hızlı yanıt süresi, tehdit altındaki kadınlara hızlı bir güvenlik ağı sunar.",
+        "topic": "KADES Uygulamasının Aktivasyonu ve İşleyişi",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES uygulaması çalışmıyorsa ne yapmalıyım?",
+        "answer": "KADES’in doğru şekilde çalışabilmesi için kimlik bilgilerinizin güncel olması önemlidir. Örneğin, evlenip soyadı değişikliği yaptıysanız, uygulamada yeni soy isminizi güncellemeniz gerekir. Eğer soyadı güncellenmezse veya kimlik bilgilerinde uyumsuzluk varsa, uygulama doğru çalışmayabilir.",
+        "topic": "KADES Uygulaması Pratik Bilgiler",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES'i kimler indirebilir ve kullanabilir?",
+        "answer": "KADES uygulaması, Türkiye’de yaşayan ve tehdit altında olduğunu hisseden veya şiddet görme ihtimali olan tüm kadınlar için kullanıma sunulmuştur. Eşinden, aile üyelerinden veya herhangi bir kişiden şiddet gören ya da tehdit altında olan kadınlar bu uygulamayı kullanabilir. Uygulama, sadece kadın kullanıcılar için geliştirilmiştir.",
+        "topic": "KADES Uygulaması Pratik Bilgiler",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES tuşuna basınca tam olarak ne olur?",
+        "answer": "Acil yardım butonuna basıldığında, sistem bunu bir acil ihbar olarak kaydeder ve durum en yakın güvenlik birimine iletilir. Bu sayede, güvenlik güçleri hızla harekete geçerek bulunduğunuz konuma yönlendirilir.",
+        "topic": "KADES Uygulaması Pratik Bilgiler",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES'e yanlışlıkla bastım, ne yapmalıyım? İhbarı iptal edebilir miyim?",
+        "answer": "Evet, eğer KADES butonuna yanlışlıkla bastıysanız, uygulamada yer alan \"HAYIR\" seçeneğini seçerek ihbarı iptal edebilirsiniz. Yanlış bir ihbar yapıldığında, güvenlik güçlerini meşgul etmemek için en kısa sürede iptal işlemi yapılmalıdır.",
+        "topic": "KADES Uygulaması Pratik Bilgiler",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES uygulaması, ben butona basmasam bile sürekli konumumu takip ediyor mu?",
+        "answer": "Hayır, KADES uygulaması konumunuzu sürekli olarak takip etmez. Konum bilginiz, sadece acil durum butonuna bastığınız anda 112 Acil Çağrı Merkezi ile paylaşılır. Bu, gizliliğinizin korunması için önemlidir.",
+        "topic": "Kullanıcı Endişeleri ve Teknik Detaylar",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "İnternetim yoksa veya sinyalim çok azsa KADES yine de çalışır mı?",
+        "answer": "KADES uygulamasının ihbar gönderebilmesi için internet bağlantısına ihtiyacı vardır. Ancak, internetinizin olmadığı veya çok zayıf olduğu durumlarda, doğrudan 112'yi aramak her zaman en güvenli acil durum yöntemidir.",
+        "topic": "Kullanıcı Endişeleri ve Teknik Detaylar",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "Yanlışlıkla basarsam ve zamanında iptal edemezsem ne olur? Başım belaya girer mi?",
+        "answer": "Hayır, başınız belaya girmez. Polis ekipleri ihbar üzerine bulunduğunuz konuma gelecektir. Durumun bir yanlışlık olduğunu sakince anlattığınızda anlayışla karşılayacaklardır. Amaç, gerçekten ihtiyacı olan birinin yardım çağrısını kaçırmamak olduğu için, yanlışlıkla da olsa her ihbar ciddiye alınır. Önemli olan, durumu ekiplere doğru bir şekilde açıklamaktır.",
+        "topic": "Kullanıcı Endişeleri ve Teknik Detaylar",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "KADES uygulamasını kullanmak veya yardım çağırmak ücretli mi?",
+        "answer": "Hayır, KADES uygulamasını indirmek de, acil durum ihbarında bulunmak da tamamen ücretsizdir.",
+        "topic": "Kullanıcı Endişeleri ve Teknik Detaylar",
+        "source": "KADES_bilgilendirme.txt"
+    },
+    {
+        "question": "Kadına yönelik şiddet nedir?",
+        "answer": "Kadına yönelik şiddet, kadınlara fiziksel, cinsel, psikolojik veya ekonomik zarar veya acı veren ya da verebilecek her türlü eylemdir. Zarara uğratılmakla tehdit edilmek, bir şeyleri yapmaya zorlanmak ya da yapmak istenilen bir şeyi yapmaya engel olmak da şiddettir. Bu şiddet, sadece kadın olunduğu için uygulanır.",
+        "topic": "Şiddetin Tanımı ve Temel Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Ev içi şiddet nedir?",
+        "answer": "Aynı evde yaşasak da yaşamasak da aile bireylerinden, eski ya da şimdiki eşten, partnerden veya sevgiliden gelen her türlü psikolojik, fiziksel, cinsel veya ekonomik şiddet \"ev içi şiddet\" olarak tanımlanır.",
+        "topic": "Şiddetin Tanımı ve Temel Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Şiddete karşı beni koruyan temel kanunlar hangileridir?",
+        "answer": "Şiddetle mücadelede üç temel kanun öne çıkar:\n- **6284 sayılı Kanun:** Acil durumlarda korunma ve şiddeti durdurma imkanları tanır.\n- **Türk Ceza Kanunu (TCK):** Hakaret, tehdit, yaralama, taciz gibi suç teşkil eden şiddet türlerinde faillerin cezalandırılmasını sağlar.\n- **Türk Medeni Kanunu (TMK):** Evlenme, boşanma, velayet gibi alanlarda yaşanan şiddete ve özellikle ekonomik şiddete karşı haklar sunar.",
+        "topic": "Şiddetin Tanımı ve Temel Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Psikolojik şiddet nedir? Örnekleri nelerdir?",
+        "answer": "Duygusal şiddet olarak da adlandırılan psikolojik şiddet, ruh ve beden sağlığında derin izler bırakabilir. Başlıca örnekleri şunlardır:\n- Bağırmak, hakaret etmek, küfretmek, aşağılamak, küçümsemek.\n- Sizi, çocuklarınızı veya yakınlarınızı öldürmekle, zarar vermekle veya kaçırmakla tehdit etmek.\n- Şantaj yapmak.\n- Başka kadınlarla kıyaslamak.\n- Nasıl giyineceğinize, nereye gideceğinize, kimlerle görüşeceğinize karışmak.\n- Kıskançlık bahanesiyle sürekli kontrol altında tutmak, nerede olduğunuzu kontrol etmek.\n- Arkadaşlarınızla veya ailenizle görüşmenizi kısıtlamak (izole etmek).\n- Yaşadığınız şiddetin sorumlusu olarak sizi suçlamak.\n- Evden çıkmayı yasaklamak, kilit altında tutmak.",
+        "topic": "Psikolojik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Psikolojik şiddete uğradığımda 6284 sayılı Kanun kapsamında ne yapabilirim?",
+        "answer": "Aile Mahkemesi'ne başvurarak, şiddet uygulayan kişinin; şiddeti durdurması, tehdit, hakaret gibi davranışlarda bulunmaması, iletişim araçlarıyla rahatsız etmemesi gibi önleyici tedbir kararları aldırabilirsiniz. Ayrıca kendiniz ve çocuklarınız için barınma yeri (sığınak) gibi koruyucu tedbirler de isteyebilirsiniz. Acil durumlarda en yakın polis veya jandarma karakoluna da başvurabilirsiniz.",
+        "topic": "Psikolojik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Psikolojik şiddet suç sayılır mı? Hangi eylemler için şikayetçi olabilirim?",
+        "answer": "Evet, psikolojik şiddetin bazı türleri Ceza Kanunu'na göre suçtur. Hakaret, tehdit, şantaj, kişiyi hürriyetinden yoksun kılma (eve kilitlemek gibi), özel hayatın gizliliğini ihlal gibi suçlara maruz kaldığınızda polis, jandarma veya savcılığa şikayette bulunarak failin cezalandırılmasını isteyebilirsiniz. Bazı suçlarda 6 aylık şikayet süresi olduğunu unutmayın.",
+        "topic": "Psikolojik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Fiziksel şiddet nedir? Örnekleri nelerdir?",
+        "answer": "Bedeninize yönelik her türlü saldırıyı içeren şiddet türüdür. Başlıca örnekleri şunlardır:\n- İtip kakmak, tokatlamak, tekmelemek, yumruklamak, saç çekmek.\n- Kesici/vurucu aletlerle ya da yakıcı maddelerle (kaynar su, sigara vb.) zarar vermek.\n- Sağlık hizmetlerinden yararlanmanıza engel olmak.\n- Sağlıksız koşullarda yaşamaya mecbur bırakmak.\n- Bir yere kilitlemek, sıkıştırmak.",
+        "topic": "Fiziksel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Fiziksel şiddete uğradığımda 6284 sayılı Kanun'a göre ne gibi tedbirler aldırabilirim?",
+        "answer": "Aile Mahkemesi'ne başvurarak şiddet uygulayanın evden uzaklaştırılması, size, işyerinize veya okulunuza yaklaşmaması, silahını teslim etmesi gibi önleyici tedbirler aldırabilirsiniz. Ayrıca kendiniz için sığınak, maddi yardım, kimlik bilgilerinizin değiştirilmesi gibi koruyucu tedbirler de talep edebilirsiniz.",
+        "topic": "Fiziksel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Fiziksel şiddet suçları ve cezaları nelerdir?",
+        "answer": "Fiziksel şiddetin çoğu Ceza Kanunu'na göre suçtur. Başlıcaları şunlardır:\n- **Kasten Öldürme:** Cezası müebbet hapistir. Eşe karşı işlenmesi gibi durumlarda ağırlaştırılmış müebbet hapis cezası verilir.\n- **Kasten Yaralama:** Başkasının vücuduna acı veren veya sağlığını bozan kişi, bir yıldan üç yıla kadar hapis cezası alır.\n- **Eziyet:** Şiddetin sistematik ve sürekli hale gelmesi durumudur ve cezası daha ağırdır (iki yıldan beş yıla kadar hapis).",
+        "topic": "Fiziksel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Cinsel şiddet nedir? Hangi davranışlar cinsel şiddettir?",
+        "answer": "Rızanız olmaksızın size karşı yapılan her türlü cinsel içerikli eylemdir. Başlıca örnekleri şunlardır:\n- İstemediğiniz cinsel ilişkiye zorlamak (tecavüz).\n- Sözle veya fiziksel yolla taciz etmek (laf atma, cinsel içerikli şakalar, elleme, sarkıntılık).\n- Fuhşa zorlamak.\n- Çocuk doğurmaya veya kürtaja zorlamak.\n- Erken yaşta ve/veya zorla evlendirmek.\n- İstenmeyen öpme, dokunma.",
+        "topic": "Cinsel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Cinsel şiddete maruz kaldığımda yasal olarak ne yapabilirim?",
+        "answer": "6284 sayılı Kanun kapsamında Aile Mahkemesi'ne başvurarak failin uzaklaştırılması, rahatsız etmemesi gibi önleyici tedbirler ve sığınak, kimlik bilgilerinin gizlenmesi gibi koruyucu tedbirler talep edebilirsiniz. Ayrıca Ceza Kanunu kapsamında polis veya savcılığa şikayette bulunarak failin cezalandırılmasını isteyebilirsiniz.",
+        "topic": "Cinsel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Evlilik içi tecavüz suç mudur?",
+        "answer": "Evet, evli olmak eşinize sizinle istediği zaman cinsel ilişkiye girme hakkı vermez. Rızanız dışında eşiniz sizinle zorla cinsel ilişkiye girdiğinde bu evlilik içi tecavüzdür ve suçtur. Soruşturma açılabilmesi için 6 ay içinde şikayetçi olmanız gerekir.",
+        "topic": "Cinsel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Cinsel şiddet suçları (taciz, tecavüz vb.) nelerdir?",
+        "answer": "Başlıca cinsel şiddet suçları şunlardır:\n- **Cinsel Taciz:** Fiziksel temas olmadan gerçekleştirilen cinsel amaçlı rahatsız etmedir (laf atma, mesaj atma vb.).\n- **Cinsel Saldırı:** Vücut dokunulmazlığının cinsel davranışlarla ihlal edilmesidir (elleme, dokunma vb.).\n- **Nitelikli Cinsel Saldırı (Tecavüz):** Vücuda organ veya sair bir cisim sokulması suretiyle gerçekleştirilir ve cezası en ağır olanıdır (on iki yıldan az olmamak üzere hapis).",
+        "topic": "Cinsel Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Ekonomik şiddet nedir? Örnekleri nelerdir?",
+        "answer": "Ekonomik olanaklardan mahrum bırakılmanız ve paranın üzerinizde bir kontrol aracı olarak kullanılmasıdır. Başlıca örnekleri şunlardır:\n- Çalışmanıza izin vermemek veya engel olmak.\n- Kazancınıza el koymak.\n- Para vermemek veya çok kısıtlı para vermek.\n- Ailenin ekonomik durumu hakkında size bilgi vermemek.\n- Zorla borçlandırmak, kredi çektirmek, kefil yapmak.",
+        "topic": "Ekonomik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Ekonomik şiddete karşı boşanma davası açmadan neler yapabilirim?",
+        "answer": "Eşinizden ayrı yaşıyorsanız veya aynı evde yaşasanız bile ailenin geçimine katkıda bulunmuyorsa, boşanma davası açmadan da Aile Mahkemesi'ne başvurarak kendiniz ve çocuklarınız için nafaka isteyebilirsiniz. Ayrıca oturduğunuz evin tapusuna \"aile konutu şerhi\" koydurarak eşinizin sizden habersiz evi satmasını engelleyebilirsiniz.",
+        "topic": "Ekonomik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Boşanma davası ile birlikte hangi ekonomik haklarımı talep edebilirim?",
+        "answer": "Boşanma davası ile birlikte veya sonrasında şunları talep edebilirsiniz:\n- **Tedbir Nafakası:** Dava süresince geçinmeniz için.\n- **Yoksulluk Nafakası:** Boşanma yüzünden yoksulluğa düşecekseniz.\n- **İştirak Nafakası:** Çocukların velayeti sizdeyse onların bakım ve eğitim giderleri için.\n- **Maddi ve Manevi Tazminat:** Boşanma nedeniyle uğradığınız zararlar için.\n- **Ziynet Eşyaları ve Çeyiz:** Size ait olan eşyaların iadesini veya bedelini.\n- **Mal Rejiminden Kaynaklanan Alacak:** Evlilik birliği içinde edinilen malların yarısı üzerindeki hakkınızı.",
+        "topic": "Ekonomik Şiddet ve Yasal Haklar",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Tek taraflı ısrarlı takip (stalking) nedir ve ne yapabilirim?",
+        "answer": "Sizi fiziksel veya psikolojik açıdan korkmuş hissettiren, güvenliğinizden endişe duymanıza neden olan her türlü takip etme, gözetleme, istenmeyen ve ısrarlı aramalar, mesajlar gönderme gibi davranışlardır. Bu durumda polis, savcılık veya Aile Mahkemesi'ne başvurarak 6284 sayılı Kanun kapsamında her türlü koruyucu ve önleyici tedbirin alınmasını isteyebilirsiniz.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "İşyerinde mobbinge (yıldırma) uğrarsam ne yapabilirim?",
+        "answer": "Mobbing, işyerinde sistematik olarak uygulanan her tür kötü muamele, tehdit ve aşağılamadır. Mobbing haklı nedenle iş sözleşmesini fesih nedenidir. İş Mahkemesi'nde dava açarak ayrımcılık ve kötü niyet tazminatı isteyebilirsiniz. Mobbing uygulanmadığını ispat etme yükümlülüğü işverene aittir.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Flört şiddeti nedir ve ne yapabilirim?",
+        "answer": "Sevgiliniz veya partneriniz tarafından uygulanan fiziksel, cinsel, psikolojik, sosyal ve dijital şiddet içeren davranışlardır. Bu durumda da polis, savcılık veya Aile Mahkemesi'ne başvurarak 6284 sayılı Kanun kapsamında koruyucu ve önleyici tedbirlerin alınmasını isteyebilirsiniz.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Dijital şiddet nedir ve ne yapabilirim?",
+        "answer": "İnternet, cep telefonları gibi dijital araçlarla ısrarlı takip edilmeniz, küçük düşürücü mesajlar almanız, özel bilgilerinizin veya görüntülerinizin rızanız olmadan paylaşılması gibi saldırılardır. Bu durumda da 6284 sayılı Kanun kapsamında \"iletişim araçlarıyla rahatsız etmeme\" gibi tedbirler aldırabilir ve ayrıca Ceza Kanunu'ndaki \"Haberleşmenin gizliliğini ihlal\", \"Özel hayatın gizliliğini ihlal\" gibi suçlar için şikayette bulunabilirsiniz.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Karakola veya Savcılığa başvururken nelere dikkat etmeliyim?",
+        "answer": "Başvurunuzu mutlaka belgelendirin. İmzaladığınız her belgenin (ifade tutanağı, dilekçe vb.) bir örneğini mutlaka alın ve saklayın. İfade tutanağını imzalamadan önce dikkatlice okuyun, anlattıklarınızın doğru yazıldığından emin olun. Vücudunuzda izler varsa, bunlar kaybolmadan darp raporu almak için hastaneye sevk edilmeyi talep edin.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "Ücretsiz avukat (adli yardım) desteği alabilir miyim?",
+        "answer": "Evet, maddi durumunuz uygun değilse, yaşadığınız şehirdeki Baronun adli yardım bürosuna başvurarak hukuk davaları (boşanma, nafaka, tedbir talebi vb.) için ücretsiz avukat atanmasını isteyebilirsiniz. Cinsel saldırı gibi ağır ceza davalarında ise Baroların CMK servislerinden ücretsiz avukat talep edebilirsiniz.",
+        "topic": "Diğer Şiddet Türleri ve Pratik Bilgiler",
+        "source": "kadin_dayanisma_vakfi_rehber.txt"
+    },
+    {
+        "question": "ŞÖNİM Yönetmeliği'nin amacı nedir?",
+        "answer": "Bu Yönetmeliğin amacı; Şiddet Önleme ve İzleme Merkezleri (ŞÖNİM)'nin kuruluşunu, işleyişini ve yürüteceği işlemlere ilişkin usul ve esasları belirlemektir. Ayrıca ŞÖNİM'de çalışacak personelin görev, yetki ve sorumluluklarını da tanımlar.",
+        "topic": "Yönetmeliğin Amacı",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Alo 183\" nedir?",
+        "answer": "Alo 183, Aile, Kadın, Çocuk, Engelli ve Yaşlılar için Sosyal Hizmet Danışma Hattı'dır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Yönetmelikte geçen \"Kolluk\" kimleri kapsar?",
+        "answer": "Kolluk; polis, jandarma ve sahil güvenlik birimlerini kapsar.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Konukevi\", \"sığınmaevi\" veya \"kadın sığınağı\" nedir?",
+        "answer": "Fiziksel, duygusal, cinsel, ekonomik veya sözlü istismara veya şiddete uğrayan kadınların, şiddetten korunması, psiko-sosyal ve ekonomik sorunlarının çözülmesi ve güçlendirilmesi amacıyla, varsa çocukları ile birlikte geçici süreyle kalabilecekleri yatılı sosyal hizmet kuruluşlarıdır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de görüşeceğim \"meslek elemanı\" kimdir, hangi bölümlerden mezundur?",
+        "answer": "Meslek elemanı; üniversitelerin sosyal hizmet, psikoloji, çocuk gelişimi, psikolojik danışmanlık ve rehberlik ile sosyoloji bölümlerinden mezun olan meslek mensuplarıdır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Müdahale planı\" ne demektir?",
+        "answer": "Şiddet mağdurlarının karşılaştığı sorunların çözümü konusunda izlenecek aşamaların belirlenmesi amacıyla; sorunu ve kişiyi tanıma, veri toplama, durum saptama, değerlendirme ve sonuçlandırma aşamalarını içeren plandır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Sosyal inceleme raporu\" nedir ve ne içerir?",
+        "answer": "Şiddet mağduru, çocukları veya şiddet uygulayanla yapılacak görüşme sonrası hazırlanan bir rapordur. Sorunun geçmişi, kişilerin sosyal, ekonomik ve sağlık durumları, psikolojik özellikleri ve çevrelerinin değerlendirildiği, sunulacak sosyal hizmet ile çözüm yönteminin belirlendiği bir rapordur.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Yasal olarak \"şiddet\" tanımı neleri kapsar?",
+        "answer": "Şiddet; kişinin fiziksel, cinsel, ekonomik veya psikolojik zarar görmesiyle veya acı çekmesiyle sonuçlanan veya sonuçlanması muhtemel hareketleri, buna yönelik tehdit ve baskıyı ya da özgürlüğün keyfi engellenmesini de içeren her türlü tutum ve davranıştır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Şiddet mağduru\" kimdir?",
+        "answer": "Kanunda şiddet olarak tanımlanan tutum ve davranışlara doğrudan ya da dolaylı olarak maruz kalan veya kalma tehlikesi bulunan kişi ve şiddetten etkilenen veya etkilenme tehlikesi bulunan kişidir.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Şiddet Önleme ve İzleme Merkezi (ŞÖNİM)\" tam olarak nedir?",
+        "answer": "ŞÖNİM, şiddetin önlenmesi ile koruyucu ve önleyici tedbirlerin etkin bir biçimde uygulanmasına yönelik güçlendirici ve destekleyici danışmanlık, rehberlik, yönlendirme ve izleme hizmetlerinin verildiği, 7/24 esasına göre çalışan merkezlerdir.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Tedbir kararı\" nedir?",
+        "answer": "Kanun kapsamında, şiddet mağduru ve şiddet uygulayan hakkında hâkim, mülki amir veya kolluk tarafından, talep veya ihbar üzerine ya da resen (doğrudan) verilecek karardır.",
+        "topic": "Tanımlar ve Kısaltmalar",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'in hizmet anlayışı nasıldır?",
+        "answer": "ŞÖNİM, temel insan haklarına dayalı, kadın erkek eşitliğine duyarlı ve sosyal devlet ilkesine uygun bir hizmet anlayışını esas alır.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'in ana odak noktası nedir?",
+        "answer": "Şiddetsiz yaşam hakkının korunması ve şiddetin önlenmesi odaklı bir yaklaşım esastır.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hizmet alırken kendimi güvende hissedecek miyim?",
+        "answer": "Evet, şiddet mağdurunun ve beraberindeki çocukların kendilerini güvende hissetmesini sağlayacak biçimde hizmet sunumuna özen gösterilir.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'in bana ve çocuklarıma yönelik öncelikli amacı nedir?",
+        "answer": "Öncelikli amaç, sizin ve çocuklarınızın güvenliklerinin sağlanmasıdır. Bununla birlikte ekonomik, hukuki, sosyal ve psikolojik açıdan desteklenmeniz ve güçlendirilmeniz de esastır.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Çocuklarımla ilgili işlemlerde neye dikkat edilir?",
+        "answer": "Çocuğa ilişkin yapılacak işlemlerde çocuğun yüksek yararı ve esenliği gözetilir.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hizmet alırken herhangi bir ayrımcılığa (dil, din, ırk vb.) maruz kalır mıyım?",
+        "answer": "Hayır, hizmetlerin sunumunda kişiler arasında ayrımcılık yapılamaz.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bu süreçte şiddet uygulayan kişiyle uzlaşmam veya arabuluculuk yapmam istenir mi?",
+        "answer": "Hayır, koruyucu veya önleyici tedbir kararlarının alınması ve yerine getirilmesi aşamasında şiddet mağduru ile şiddet uygulayan arasında uzlaşma ya da arabuluculuk önerilemez.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Kişisel bilgilerim güvende mi? Gizli tutulur mu?",
+        "answer": "Evet, kanuni hükümler saklı kalmak kaydıyla, sizin, çocuklarınızın ve şiddet uygulayanın kişisel bilgileri gizli tutulur.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hakkımda yapılacak işlemlerle ilgili bana bilgi verilecek mi?",
+        "answer": "Evet, başvuranların, haklarında yapılacak işlemler konusunda bilgilendirilmeleri esastır.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Anlattıklarımın doğruluğunu kanıtlamam gerekir mi? Bana inanırlar mı?",
+        "answer": "Evet, yapılacak işlemler hakkında başvuranın beyanı esas alınır.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bana ve şiddet uygulayan kişiye aynı yerde mi hizmet verilir?",
+        "answer": "Hayır, şiddet mağduru ile şiddet uygulayana yönelik hizmetler farklı birimlerde ŞÖNİM koordinasyonunda yürütülür.",
+        "topic": "Temel İlkeler ve Çalışma Esasları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM binalarında ne gibi bölümler veya odalar bulunur?",
+        "answer": "ŞÖNİM'lerde fiziki koşulların uygun olması halinde; yönetim, bireysel görüşme odaları, polis irtibat noktası, sağlık odası, çocuk oyun alanı, hukuki destek, psiko-sosyal destek, eğitim, iş-meslek danışmanlığı ve güvenlik gibi bölümler oluşturulur.",
+        "topic": "ŞÖNİM'in Fiziki Özellikleri ve Sunulan Hizmetler",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM binaları engelli veya hareket kısıtlılığı olan kişilerin erişimine uygun mudur?",
+        "answer": "Evet, binaların kapalı ve açık alanlarında engelliler ve hareket kısıtlılığı olanlar için standartlara uygun erişilebilirlik düzenlemeleri yapılır.",
+        "topic": "ŞÖNİM'in Fiziki Özellikleri ve Sunulan Hizmetler",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de tam olarak hangi hizmetler sunulur?",
+        "answer": "ŞÖNİM'de sunulan başlıca hizmetler şunlardır:\n- **Koordinasyon hizmeti:** Başvuruların alınması, bilgilerin sisteme işlenmesi ve kurumlar arası iş birliğinin sağlanması.\n- **Psiko-sosyal destek hizmeti:** Sizinle ve çocuklarınızla görüşmeler yapılması, raporlar hazırlanması ve rehberlik hizmetleri sunulması.\n- **Hukuki destek hizmeti:** Kanun kapsamında gerekli hukuki desteğin sağlanması, baroların ilgili birimlerine yönlendirme yapılması ve davaların takibi.\n- **Eğitim ve mesleki destek hizmeti:** Meslek edinmeniz için rehberlik yapılması ve ilgili kurumlara yönlendirilmeniz.\n- **Sağlık destek hizmeti:** Basit sağlık müdahalelerine ihtiyaç duyanların ihtiyaçlarının karşılanması ve gerekli yönlendirmenin yapılması.\n- **Ekonomik destek hizmeti:** Maddi yardım ödemelerinin yapılması, iş bulma konusunda desteklenmeniz ve çocuklarınıza kreş hizmeti sunulması.\n- **Müdahale ve yönlendirme hizmeti:** Çağrı hatlarından (Alo 183 vb.) gelen başvuruların alınması ve ilgili kurumlara yönlendirilmesi.\n- **Önleyici hizmet:** Şiddetin önlenmesine yönelik toplumsal bilinçlendirme ve farkındalık çalışmaları yapılması.",
+        "topic": "ŞÖNİM'in Fiziki Özellikleri ve Sunulan Hizmetler",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "İlimdeki şiddetle mücadele çalışmaları nasıl koordine ediliyor? Üst düzey bir denetim var mı?",
+        "answer": "Evet, her ilde, valinin veya bir vali yardımcısının başkanlığında \"Kadına Yönelik Şiddetle Mücadele İl Koordinasyon, İzleme ve Değerlendirme Komisyonu\" oluşturulur. Bu komisyon, şiddetle mücadele hizmetlerinin etkin bir şekilde yürütülmesini ve uygulamadaki sorunların giderilmesini sağlar. Komisyonun sekretarya işleri ŞÖNİM tarafından yürütülür.",
+        "topic": "İl Düzeyinde Şiddetle Mücadele Koordinasyonu",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bu koordinasyon komisyonunda kimler yer alıyor?",
+        "answer": "Komisyon, vali veya vali yardımcısının başkanlığında, ilin en üst düzey yöneticilerinden oluşur. Üyeler arasında belediye başkanı, İl Jandarma Komutanı, İl Emniyet Müdürü, Aile ve Sosyal Politikalar İl Müdürü, İl Milli Eğitim Müdürü, İl Sağlık Müdürü, ŞÖNİM ve Konukevi Müdürleri gibi yetkililer bulunur. Komisyon, ayrıca ihtiyaca göre Cumhuriyet Başsavcılığı, üniversite ve STK temsilcilerini de davet edebilir.",
+        "topic": "İl Düzeyinde Şiddetle Mücadele Koordinasyonu",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bu komisyonun temel görevleri nelerdir?",
+        "answer": "Komisyonun başlıca görevleri şunlardır:\n- ŞÖNİM ve diğer kurumlar tarafından verilen hizmetlerin koordinasyonunu sağlamak.\n- İldeki şiddet verilerini değerlendirerek şiddetin önlenmesine yönelik çalışmalar yapmak.\n- Uygulamadan kaynaklanan sorunların giderilmesi için önerilerde bulunmak.\n- Alınan kararları izlemek ve takibini yapmak.\nKomisyon toplantılarının sonuçları raporlanarak ŞÖNİM tarafından ilgili yerlere gönderilir.",
+        "topic": "İl Düzeyinde Şiddetle Mücadele Koordinasyonu",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM hizmetlerinden kimler yararlanabilir?",
+        "answer": "ŞÖNİM hizmetlerinden ev içi şiddete uğrayan veya şiddete uğrama tehlikesi bulunan kadınlar, çocuklar, aile bireyleri ve tek taraflı ısrarlı takip mağduru olan kişiler yararlanır.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Ağır ruhsal veya zihinsel sorunları olan, engelli veya 60 yaşından büyük şiddet mağdurlarına nasıl bir hizmet verilir?",
+        "answer": "Bu durumda olan şiddet mağdurları, Engelli ve Yaşlı Hizmetleri Genel Müdürlüğüne bağlı kuruluşlara yönlendirilir. Ancak haklarında alınan tedbir kararlarının takibi yine ŞÖNİM tarafından yapılır.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "18 yaşından küçük şiddet mağdurlarına veya hamile kız çocuklarına nasıl yardım edilir?",
+        "answer": "18 yaşından küçük şiddet mağdurları, hamile veya doğum yapmış kız çocukları, Çocuk Hizmetleri Genel Müdürlüğüne bağlı kuruluşlara yönlendirilir. Bu kişilerin de haklarındaki tedbir kararlarının takibi ŞÖNİM tarafından yapılmaya devam eder.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'e başvuru nasıl yapılır? Hangi yollarla ŞÖNİM'e ulaşılabilir?",
+        "answer": "ŞÖNİM'e başvuru şu yöntemlerle gerçekleşebilir:\n- Yetkili bir makam (hâkim, mülki amir, kolluk) tarafından verilmiş bir tedbir kararı ile.\n- Kişinin bizzat kendisinin başvurusu veya şikâyeti ile.\n- Üçüncü kişilerin (komşu, akraba vb.) ihbarı üzerine ulaşılan kişinin şikâyeti ile.\n- Cumhuriyet savcılığı, kamu kurumları veya STK'ların bildirimi ile.\n- Alo 183 Sosyal Hizmet Danışma Hattı'na yapılan başvurular ile.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'e başvurduğumda ilk olarak ne yapılır? Süreç nasıl başlar?",
+        "answer": "Başvurduğunuzda ilk olarak sizinle bir görüşme gerçekleştirilir ve \"ilk görüşme formu\" doldurulur. Sizin için bir dosya açılır ve bilgileriniz sisteme kaydedilir. İhtiyaçlarınız ve talepleriniz doğrultusunda, durumunuza en uygun tedbir kararının alınması için ŞÖNİM tarafından ilgili kurumlara başvuruda bulunulur.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Gerekli durumlarda sağlık kontrolü veya rapor istenir mi?",
+        "answer": "Evet, gerekli hallerde tıbbi müdahale yapılması sağlanır. Hakkında barınma kararı verilen kişilerden ise bulaşıcı bir hastalığı, ruh sağlığı sorunu veya alkol/madde bağımlılığı olmadığına dair bir sağlık raporu alınır. Hayati tehlikeniz varsa, işlemler sırasında size polis (kolluk) refakat eder.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Cinsel şiddete maruz kaldıysam, süreç boyunca bana birisi eşlik eder mi?",
+        "answer": "Evet, cinsel şiddet mağduruna, tıbbi müdahale sürecinde hemşire ya da sağlık memuru; polis (kolluk) ve adliyedeki işlemlerde ise kadın bir meslek elemanı refakat eder.",
+        "topic": "Hizmetlerden Yararlanacak Kişiler ve Başvuru Süreci",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Tedbir kararını nasıl talep edebilirim?",
+        "answer": "Tedbir kararlarını, ŞÖNİM tarafından bilgilendirildikten sonra bireysel olarak talep edebilirsiniz. Gerekli hallerde bu talep resen (doğrudan kurumlar tarafından) de yapılabilir.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Tedbir kararını kimden talep etmeliyim?",
+        "answer": "Tedbir kararını, size en çabuk ve en kolay ulaşılabilecek hâkimden, mülki amirden veya acil durumlarda (gecikmesinde sakınca bulunan hallerde) kolluktan (polis/jandarma) talep edebilirsiniz.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Mevcut bir tedbir kararının süresini uzatabilir veya şeklini değiştirebilir miyim?",
+        "answer": "Evet, şiddet tehlikesinin devam ettiğinin anlaşılması halinde, tedbir kararının süresinin veya şeklinin değiştirilmesi ya da aynen devam etmesi talep edilebilir.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Tehlike geçtiyse tedbir kararının kaldırılmasını isteyebilir miyim?",
+        "answer": "Evet, şiddet veya şiddet uygulanma tehlikesinin ortadan kalkması halinde, kararı veren kurumdan kararın kaldırılmasını talep edebilirsiniz.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hakkımda verilen bir karar ne zaman uygulanmaya başlar ve ne kadar sürer?",
+        "answer": "Tedbir kararı uyarınca yürütülecek hizmetlere, kararın size tebliğ edilmesinden itibaren başlanır. Hizmet, tedbir kararının süresi boyunca veya karar kaldırılana kadar devam eder.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Karara uyulmazsa ne olur?",
+        "answer": "Tedbir kararlarına aykırılık (uyulmaması) halinde, zorlama hapsine ilişkin hükümlerin uygulanması için durum ŞÖNİM tarafından ilgili kolluğa bildirilir.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Acil durumda polisin aldığı bir karar sonradan onaylanmazsa ne olur?",
+        "answer": "Kolluk amiri tarafından alınan acil tedbir kararı, yetkili makam (hâkim veya mülki amir) tarafından onaylanmazsa karar kendiliğinden kalkar. Ancak kararın geçerli olduğu süre boyunca yapılan yemek ve barınma gibi masraflar yine de ŞÖNİM tarafından ödenir.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM veya konukevinden kendi isteğimle ayrılırsam bu durum bir yerlere bildirilir mi?",
+        "answer": "Evet, ŞÖNİ- veya kadın konukevinden ayrılmanız durumunda, ŞÖNİ- tarafından kolluğa ve mahkemeye bilgi verilir.",
+        "topic": "Tedbir Kararlarının Talep Edilmesi ve Uygulanması",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Verilen koruyucu ve önleyici tedbir kararlarının uygulanmasını kim takip eder?",
+        "answer": "Kararların uygulanmasının izlenmesi, kararın ŞÖNİM’e ve ilgili kurumlara bildirilmesiyle başlar. İzleme, ilgili kurumlarla yazışmalar yapılarak gerçekleştirilir.",
+        "topic": "Tedbir Kararlarının İzlenmesi ve Kaydı",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Konukevinden ayrıldıktan sonra da durumum takip edilir mi?",
+        "answer": "Evet, konukevinden ayrılan kadınların durumu, vakanın özelliğine göre kişiyle görüşülerek veya bilgi alınarak takip edilir (\"konukevi sonrası izleme çalışmaları\").",
+        "topic": "Tedbir Kararlarının İzlenmesi ve Kaydı",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bu süreçle ilgili bilgilerim bir sisteme kaydediliyor mu?",
+        "answer": "Evet, kanun kapsamında verilen tedbir kararları, zorlama hapsi kararları ve ŞÖNİ- tarafından yürütülen iş ve işlemlerle ilgili tüm veriler bir elektronik sisteme kaydedilir.",
+        "topic": "Tedbir Kararlarının İzlenmesi ve Kaydı",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'e başvurduğumda benim için özel bir plan hazırlanır mı?",
+        "answer": "Evet, hayati tehlikesi ve barınma ihtiyacı bulunmayan ve ŞÖNİM'e başvuran şiddet mağdurları için, ihtiyaçları göz önünde bulundurularak bir meslek elemanı tarafından \"müdahale planı\" belirlenir.",
+        "topic": "Tedbir Kararlarının İzlenmesi ve Kaydı",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de bana ne gibi destek hizmetleri verilir?",
+        "answer": "Tedbir kararı doğrultusunda size şu hizmetler verilir:\n- Haklarınız, alabileceğiniz hukuki, psiko-sosyal, ekonomik ve sağlık destek hizmetleri hakkında bilgilendirme.\n- Meslek edinme, iş bulma gibi konularda rehberlik ve danışmanlık.\n- Gerekli görülürse, diğer kanunlar uyarınca maddi destek sağlanması konusunda rehberlik.\n- Şiddete tanıklık eden çocuklarınıza da psiko-sosyal destek ve rehberlik.",
+        "topic": "Şiddet Mağduruna Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hakkımda alınan tedbir kararını kaldırmak istersem ne olur?",
+        "answer": "Tedbir kararını kaldırma talebinizin olası sonuçları ve riskleri konusunda bilgilendirilirsiniz. Bu sonuçları anladığınıza ve kabul ettiğinize dair sizden yazılı bir beyan alınır.",
+        "topic": "Şiddet Mağduruna Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hakkımda verilen tedbir kararında maddi yardımın süresi ve tutarı belirtilmemişse ne olur?",
+        "answer": "Bu durumda, ŞÖNİM tarafından ivedilikle hazırlanacak bir sosyal inceleme raporu ile yardımın tutarı ve süresi belirlenir ve kararı veren kurumun onayına sunularak ödeme yapılır.",
+        "topic": "Şiddet Mağduruna Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Çocuğumu kreşe göndermezsem veya kreş hizmetini kötüye kullanırsam ne olur?",
+        "answer": "Çocuğun mazeretsiz olarak kreşe gitmemesi gibi durumlar tespit edilirse, tedbir kararının değiştirilmesi veya kaldırılması istenebilir ve kreşe sadece fiilen yararlanılan süre kadar ödeme yapılır.",
+        "topic": "Şiddet Mağduruna Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Polis (kolluk) tarafından hayati tehlikemin olduğu tespit edilirse süreç nasıl işler?",
+        "answer": "Hayati tehlikenizin bulunduğu tespit edilirse, işlemleriniz tamamlandıktan sonra \"Aile İçi ve Kadına Karşı Olay Kayıt Formu\" ile birlikte ŞÖNİM’e getirilirsiniz. Varsa sağlık raporunuzun bir kopyası da ŞÖNİM'e verilir.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Doğrudan ŞÖNİM'e başvurduğumda hayati tehlikem olduğu anlaşılırsa ve hakkımda bir karar yoksa ne yapılır?",
+        "answer": "Bu durumda, koruyucu veya önleyici tedbir kararlarının alınması amacıyla ŞÖNİM tarafından en çabuk ulaşılabilecek hâkime, mülki amire ya da kolluk birimine başvurulur. İşlemler sırasında size polis refakat eder.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Koruma altındayken kimseye haber vermeden adresten ayrılırsam ne olur?",
+        "answer": "Durumun öğrenilmesi halinde, kolluk ve ŞÖNİM birbirine haber verir. Tedbir kararınız yeni adresinizde de uygulanmaya devam eder.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hukuki destek ve adli yardım nasıl sağlanır?",
+        "answer": "Size ve çocuklarınıza hukuki danışmanlık, adli yardım ve diğer hukuki destek hizmetleri yürütülür. Bakanlıkça sunulamayan hizmetler için barolar ile iş birliği yapılır.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Bakanlık davama taraf olarak katılabilir mi?",
+        "answer": "Evet, Bakanlık, gerekli görmesi halinde şiddet veya şiddet tehlikesi nedeniyle açılan her tür davaya müdahil olarak katılma talebinde bulunabilir.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Hakkımda gizlilik kararı verilirse ne olur?",
+        "answer": "Talep üzerine veya resen, sizin ve diğer aile bireylerinizin kimlik bilgileri ve adresleri gizli tutulabilir. Yazışmalarda isminiz yerine kodlama kullanılır ve kayıtlar sadece elektronik ortamda tutulur. Resmi tebligatlarda ise ŞÖNİM'in adresi kullanılır.",
+        "topic": "Özel Durumlar (Hayati Tehlike ve Gizlilik)",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişiye yönelik de herhangi bir hizmet (eğitim, rehabilitasyon vb.) sunuluyor mu?",
+        "answer": "Evet, önleyici tedbir kararları kapsamında, ŞÖNİM koordinasyonunda şiddet uygulayana yönelik aşağıdaki hizmetler sunulur:\n- Öfke kontrolü, stresle başa çıkma ve şiddeti önlemeye yönelik eğitim ve rehabilitasyon programlarına yönlendirme ve takip.\n- Alkol, uyuşturucu veya ruhsal bozukluğu olanlara tedavi olmaları için danışmanlık ve yönlendirme.\n- Meslek edindirme kurslarına katılması için İŞKUR veya halk eğitim merkezlerine yönlendirme.",
+        "topic": "Şiddet Uygulayana Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın tedaviye veya programlara uyup uymadığı takip ediliyor mu?",
+        "answer": "Evet, şiddet uygulayanın tedaviyi veya programları reddetmesi veya yarıda bırakması halinde, bu durum ilgili kurum tarafından Cumhuriyet Başsavcılığına ve ŞÖNİM’e bildirilir.",
+        "topic": "Şiddet Uygulayana Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Şiddet uygulayan kişi bu hizmetleri kendi isteğiyle de alabilir mi?",
+        "answer": "Evet, bu hizmetler herhangi bir tedbir kararı olmaksızın, şiddet uygulayanın kendi talebi üzerine de verilebilir.",
+        "topic": "Şiddet Uygulayana Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Şiddet uygulayanın rehabilitasyon ve tedavi masraflarını kim karşılıyor?",
+        "answer": "Genel sağlık sigortası kapsamında karşılanamayan rehabilitasyon ve diğer sağlık hizmetlerinin giderleri Bakanlık bütçesinden karşılanır.",
+        "topic": "Şiddet Uygulayana Yönelik Destek Hizmetleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Konukevlerinde veya sığınaklarda yer kalmazsa barınma nasıl sağlanır?",
+        "answer": "Gerektiğinde, şiddet mağduru ve çocuklarının geçici olarak barındırılması için ilde bulunan kamu kurum ve kuruluşlarına ait sosyal tesis, yurt ve benzeri yerler kullanılır. Bu aşamadaki barınma ve zorunlu giderler ŞÖNİM tarafından karşılanır.",
+        "topic": "Diğer Hizmetler ve İşleyiş",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'ler 7/24 hizmet veriyor mu?",
+        "answer": "Evet, hizmetin niteliği ve sürekliliği göz önüne alınarak, iş planlaması yedi gün yirmi dört saat esasına göre düzenlenir.",
+        "topic": "Diğer Hizmetler ve İşleyiş",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de kimler çalışır? Bana kimler yardımcı olacak?",
+        "answer": "ŞÖNİM'lerde, üniversitelerin psikoloji, psikolojik danışmanlık ve rehberlik, sosyoloji ve sosyal hizmet bölümlerinden mezun olan meslek elemanları ile avukat, hemşire/sağlık memuru, memur, güvenlik görevlisi ve şoför gibi personel istihdam edilir. Ayrıca, İl Emniyet Müdürlüğü'nden polis irtibat görevlisi ve İŞKUR'dan iş ve meslek danışmanı da görevlendirilir.",
+        "topic": "Personel ve Görevleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM çalışanları bu konuda özel bir eğitim alıyor mu?",
+        "answer": "Evet, çalışanlara, çalışma alanları ile ilgili ve mesleki becerilerini geliştirmeye yönelik gerekli konularda eğitimler düzenlenir. Ayrıca çalışanların yaşayabileceği zorluklara karşı onlara da düzenli rehberlik, danışmanlık ve psikolojik destek verilir.",
+        "topic": "Personel ve Görevleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "\"Meslek elemanı\"nın (sosyal çalışmacı, psikolog vb.) temel görevleri nelerdir?",
+        "answer": "Meslek elemanının temel görevleri şunlardır:\n- Sizin desteğe ihtiyacınız olan yönleri belirleyerek barınma, psiko-sosyal, sağlık, ekonomik ve hukuki sorunlarınızın çözümüne yönelik danışmanlık ve yönlendirme yapmak.\n- Gerekli durumlarda barınma yerine yerleştirilmenizi sağlamak.\n- Hâkimin istemesi halinde, durumunuzla ilgili \"sosyal inceleme raporu\" hazırlamak.\n- Hakkınızdaki tedbir kararlarının alınması, devamı, değiştirilmesi veya kaldırılmasına yönelik işlemleri yapmak ve takibini sağlamak.\n- Sizin için bir \"müdahale planı\" hazırlamak ve uygulanmasını sağlamak.\n- Şiddet uygulayan hakkındaki tedbir kararları için yönlendirmeler yapmak.\n- Kayıtlarınızı gizlilik ilkesine uygun olarak tutmak ve raporlamak.\n- Alo 183'e gelen başvurularla ilgili işlemleri yapmak.",
+        "topic": "Personel ve Görevleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Sosyal çalışmacının özel bir görevi var mıdır?",
+        "answer": "Evet, sosyal çalışmacı genel görevlere ek olarak, sorun ve ihtiyaçlarınızı tespit eder, mesleki uygulamaları gerçekleştirir ve eğer kurumda psikolog yoksa cinsel şiddet vakalarında ifade sırasında size refakat eder.",
+        "topic": "Personel ve Görevleri",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'deki psikoloğun görevleri nelerdir?",
+        "answer": "Psikoloğun görevleri şunlardır:\n- Psikolojik desteğe ihtiyaç duyan şiddet mağdurlarının ve çocuklarının değerlendirmelerini yapmak ve gerekli desteği sağlamak.\n- Gerekli durumlarda ilgili kurum ve kuruluşlardan psikolojik destek alınmasını sağlamak ve yönlendirme yapmak.\n- Psikiyatrik desteğe ihtiyaç duyanları ilgili sağlık kuruluşlarına yönlendirmek ve süreci takip etmek.\n- Cinsel şiddet mağdurlarının ifade verme (bilgisine başvurulması) sürecinde yanlarında bulunmak.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'deki rehber öğretmenin özellikle çocuklarla ilgili görevleri nelerdir?",
+        "answer": "Rehber öğretmen, şiddet mağduru kadının yanındaki çocukların sorunlarının çözümüne yönelik rehberlik ve danışmanlık yapar, gerektiğinde uygun kurumlara yönlendirir ve süreci takip eder.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'deki sosyoloğun görevi nedir?",
+        "answer": "Sosyolog, şiddet mağduru ve çocuklara yönelik verileri ve tedbir kararlarını analiz eder, raporlar hazırlar. Ayrıca ildeki şiddet durumunu tespit etmek için alan taramaları yapar ve şiddete neden olan sosyal problemlerle ilgili bilimsel veri toplar.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de bir hemşire veya sağlık görevlisi bulunur mu? Görevleri nelerdir?",
+        "answer": "Evet, bulunur. Görevleri şunlardır:\n- Acil sağlık ihtiyacı olanların ilgili sağlık kuruluşu ile iletişimini kurmak.\n- Bulaşıcı hastalıktan şüphelenirse kişiyi derhal sağlık kuruluşuna yönlendirmek.\n- Cinsel şiddet mağdurları için delillerin kaybolmaması adına tedbir almak ve gerekli hallerde onlara refakat etmek.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Kayıtlarım ve belgelerimle kim ilgilenir?",
+        "answer": "Veri hazırlama ve kontrol işletmeni/memur; sisteme girilmesi gereken bilgileri toplar, kontrol eder, veri girişini yapar ve yazışmaları dosyalayıp arşivler.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Alo 183'ü aradığımda veya ŞÖNİM'e ulaştığımda telefondaki kişinin görevi nedir?",
+        "answer": "Çağrı destek personeli, başvuruları ve ihbarları alır, çözüm için ilgili kurumlara yönlendirme yapar. Hayati tehlikesi olan veya cinsel şiddete uğrayanlar için kolluk birimleriyle irtibata geçerek mağdura ulaşılmasını sağlar.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de polis bulunur mu? Görevi nedir?",
+        "answer": "Evet, bir polis irtibat görevlisi bulunur. Görevi, şiddet olayı hakkında delil toplamak, kolluk ve ŞÖNİM arasındaki bilgi akışını sağlamak ve ŞÖNİM personeli ile iş birliği içinde çalışmaktır.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "İş bulma veya meslek edinme konusunda kimden yardım alabilirim?",
+        "answer": "İş ve meslek danışmanı, ihtiyaçlarınız doğrultusunda sizi mesleki eğitime yönlendirir, sonuçları takip eder ve iş bulma konusunda rehberlik yapar.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM binasının güvenliği nasıl sağlanır?",
+        "answer": "Güvenlik personeli, binaya giriş ve çıkışları kontrol eder, tehlikeli aletleri emanete alır, hırsızlık ve sabotaja karşı önlem alır ve şüpheli durumları idareye ve kolluk kuvvetlerine bildirir.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Gerekli durumlarda ulaşımımı kim sağlar?",
+        "answer": "Şoför, şiddet mağduru, çocukları ve çalışanların gerekli yerlere ulaşımını sağlar.",
+        "topic": "Personel ve Görev Detayları",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM'de kalırsam benim ve çocuklarımın yemek ihtiyacı karşılanır mı?",
+        "answer": "Evet, şiddet mağduru ve beraberindeki çocuklar için kişi ve öğün sayısı belirlenerek yemek ihtiyacı karşılanır. Ana öğün saatleri dışında başvuruda bulunanlar için kumanya ve çocukların ihtiyacına yönelik yiyecek temin edilir.",
+        "topic": "Çeşitli ve Son Hükümler",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "Çocuğumun mama, bebek bezi gibi acil ihtiyaçları karşılanır mı?",
+        "answer": "Evet, sağlık destek hizmetlerinde kullanılmak üzere tıbbi malzeme ile acil ihtiyaçları karşılamak amacıyla bebek bezi, biberon, mama ve benzeri malzemeler temin edilir.",
+        "topic": "Çeşitli ve Son Hükümler",
+        "source": "sonim_yonetmelik.txt"
+    },
+    {
+        "question": "ŞÖNİM, hizmetlerini sunarken hangi kurumlarla iş birliği yapar?",
+        "answer": "Hizmetler; Adalet Bakanlığı, İçişleri Bakanlığı, Millî Eğitim Bakanlığı, Sağlık Bakanlığı, Türkiye İş Kurumu (İŞKUR), Sosyal Güvenlik Kurumu (SGK), yerel yönetimler, üniversiteler, meslek kuruluşları ve sivil toplum kuruluşları gibi birçok kurumun iş birliği ve desteği ile yürütülür.",
+        "topic": "Çeşitli ve Son Hükümler",
+        "source": "sonim_yonetmelik.txt"
+    }
+]

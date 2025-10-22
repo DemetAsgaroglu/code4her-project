@@ -1,0 +1,82 @@
+[
+  [
+    "kades nedir",
+    "Görevi nedir? ## Soru: CEDAW nedir ve neden önemlidir? ## Soru: KADES'i kimler indirebilir ve kullanabilir? ## Soru: Cinsel şiddet nedir? ## Soru: Siber şiddet nedir?."
+  ],
+  [
+    "merhaba",
+    "No:1 Merkez. Aligama Sok. # Kaynak: ŞİDAS Projesi - Genel Konuşma Modülü # Konu: Selamlama ve Tanıtım ## Soru: Merhaba Cevap: Merhaba, size nasıl yardımcı olabilirim?."
+  ],
+  [
+    "şönim nedir",
+    "## Soru: ŞÖNİM'deki sosyoloğun görevi nedir? Görevi nedir? Soru: BATMAN ŞÖNİM adresi ve mahalle bilgisi nedir? Soru: BATMAN ŞÖNİM telefon numarası nedir? ## Soru: \"Şiddet Önleme ve İzleme Merkezi (ŞÖNİM)\" tam olarak nedir?."
+  ],
+  [
+    "şönim amacı nedir",
+    "Cevap: ŞÖNİM, Şiddet Önleme ve İzleme Merkezi'nin kısaltmasıdır. Varsa sağlık raporunuzun bir kopyası da ŞÖNİM'e verilir. Soru: AMASYA ŞÖNİM telefon numarası nedir? Çıkmazı Sok."
+  ],
+  [
+    "kades açılımı nedir",
+    "--- # Konu: KADES Uygulaması Pratik Bilgiler ## Soru: KADES uygulaması çalışmıyorsa ne yapmalıyım? --- # Konu: KADES Uygulamasının Aktivasyonu ve İşleyişi ## Soru: KADES uygulamasını nasıl aktif ederim? Cevap: Hayır, KADES uygulaması konumunuzu sürekli olarak takip etmez. ranışlarıdır. Cevap: KADES’in doğru şekilde çalışabilmesi için kimlik bilgilerinizin güncel olması önemlidir."
+  ],
+  [
+    "kades nedir",
+    "Görevi nedir? ## Soru: CEDAW nedir ve neden önemlidir? ## Soru: KADES'i kimler indirebilir ve kullanabilir? ## Soru: Cinsel şiddet nedir? ## Soru: Siber şiddet nedir?."
+  ],
+  [
+    "kades nasıl kullanılır",
+    "--- # Konu: KADES Uygulaması Pratik Bilgiler ## Soru: KADES uygulaması çalışmıyorsa ne yapmalıyım? Cevap: KADES’in doğru şekilde çalışabilmesi için kimlik bilgilerinizin güncel olması önemlidir. Cevap: Hayır, KADES uygulaması konumunuzu sürekli olarak takip etmez. --- # Konu: KADES Uygulamasının Aktivasyonu ve İşleyişi ## Soru: KADES uygulamasını nasıl aktif ederim? ranışlarıdır."
+  ],
+  [
+    "merhaba",
+    "No:1 Merkez."
+  ],
+  [
+    "kades nasıl kullanılır",
+    "KADES Uygulaması Pratik Bilgiler KADES uygulaması çalışmıyorsa ne yapmalıyım?."
+  ],
+  [
+    "şiddet nedir",
+    "Cinsel şiddet nedir?."
+  ],
+  [
+    "kades nasıl kullanılır",
+    "kades nasl kullanlr Context: KADES Uygulamas Pratik Bilgiler KADES uygulamas çalşmyorsa neyapmalym? Cevapla Türkçe olarak:"
+  ],
+  [
+    "şiddet nedir",
+    "Soru: undddet nedir Context: Cinsel andddet nedir? Cevapla Türkçe olarak:"
+  ],
+  [
+    "merhaba",
+    ": Merhaba: No:1 Merkez. Aligama Sok. # Kaynak: DAS Projesi - Genel Konuşma Modülü # Konu: Selamlama ve Tantm ## Soru: Merhaba Cevap: Merhaba, size nasl yardmc olabilirim?. Cevapla Türkçe olarak:"
+  ],
+  [
+    "kades nasıl kullanılır",
+    "şleyişi ## Soru: KADES uygulamas çalşabilmesi için kimlik bilgilerinizin güncel olmas önemlidir? Cevap: Hayr, KADES uygulamas konumunuzu sürekli olarak takip etmez."
+  ],
+  [
+    "merhaba",
+    "## Soru: merhaba Balam: No:1 Merkez. No:1 Merkez. Aligama Sok. Aligama Sok. # Kaynak: DAS Projesi - Genel Konuşma Modülü - Genel Konuşma Modülü - Genel Konuşma Modülü - Genel Konuşma Modülü - Genel Konuşma Modülü - Genel"
+  ],
+  [
+    "kades nasıl kullanılır",
+    "--- # Konu: KADES uygulamas konumunuzu sürekli olarak takip etmez? ranşlardr. Cevapla Türkçe olarak: KADES uygulamas konumunuzu sürekli olarak takip etmez."
+  ],
+  {
+    "soru": "merhaba",
+    "cevap": "<extra_id_0>. Soru: merhaba Cevap:"
+  },
+  {
+    "soru": "kades nedir",
+    "cevap": "<extra_id_0> Türkçe olarak cevap ver:"
+  },
+  {
+    "soru": "merhaba",
+    "cevap": "<extra_id_0>.  merhaba"
+  },
+  {
+    "soru": "kades nedir",
+    "cevap": "<extra_id_0>, Türkçe olarak cevap ver"
+  }
+]

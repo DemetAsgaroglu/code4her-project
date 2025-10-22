@@ -1,0 +1,58 @@
+# Kaynak: KADES Bilgilendirme Metni
+# Konu: KADES Uygulamasının Kullanımı ve Amacı
+
+## Soru: KADES uygulamasını nasıl kurup kullanabilirim?
+Cevap: KADES'i kullanmak için aşağıdaki adımları izleyebilirsiniz:
+- **Uygulamayı İndirin:** KADES uygulaması, App Store ve Google Play Store üzerinden ücretsiz olarak indirilebilir.
+- **Kimlik Bilgileri ile Kayıt Olun:** Uygulama, TC kimlik numarası ve telefon numarası ile kayıt olmayı gerektirir.
+- **Acil Durumda Yardım Butonuna Dokunun:** Kayıt işlemi tamamlandıktan sonra uygulama açıldığında ekranda "Acil Çağrı Butonu" yer alır. Bu butona basıldığında, sistem otomatik olarak kullanıcı konumunu güvenlik güçlerine iletir ve en yakın polis ekibi olay yerine gönderilir.
+- **Konum Servisini Açık Tutun:** Uygulamanın konumunuzu doğru bir şekilde iletebilmesi için telefonunuzun konum servislerinin (GPS) açık olması önemlidir.
+
+## Soru: Hangi durumlarda KADES uygulamasını kullanabilirim?
+Cevap: Kadına yönelik şiddetin veya herhangi bir tehdit durumunun var olduğu tüm acil durumlarda KADES'i kullanabilirsiniz. Kendinizi tehlikede hissettiğiniz herhangi bir durumda yardım talep edebilirsiniz. Başlıca durumlar şunlardır:
+- **Fiziksel Şiddet:** Aile içi veya diğer ortamlarda fiziksel şiddete maruz kalmanız durumunda.
+- **Tehdit ve Taciz:** Psikolojik olarak tehdit edilme, zorla bir yere götürülme ya da sözlü taciz gibi durumlarda.
+- **Takip Edilme Durumu:** Sizi takip eden bir kişi olduğunu hissetmeniz veya güvenliğinizden endişe duymanız durumunda.
+- **Acil Güvenlik İhtiyacı:** Herhangi bir tehdit altında olduğunuzu hissettiğiniz veya ani bir tehlike sezdiğiniz her durumda.
+
+---
+# Konu: KADES Uygulamasının Aktivasyonu ve İşleyişi
+
+## Soru: KADES uygulamasını nasıl aktif ederim?
+Cevap: KADES uygulamasını kullanabilmek için aşağıdaki adımları takip etmek gereklidir:
+1. **Uygulamayı İndirme:** KADES uygulaması, Google Play Store ve Apple App Store üzerinden ücretsiz olarak indirilebilir.
+2. **Kimlik Doğrulama:** Uygulama açıldıktan sonra, kullanıcıdan Türkiye Cumhuriyeti kimlik numarasını girmesi istenir.
+3. **Aktivasyon Kodu:** Kimlik doğrulandıktan sonra Emniyet Genel Müdürlüğü’nün sunucularından gelen aktivasyon kodu ile uygulama aktif hale getirilir.
+
+## Soru: KADES butonuna bastıktan sonra polis ne kadar sürede gelir?
+Cevap: İhbarların alınmasından itibaren güvenlik güçlerinin olay yerine ulaşma süresi, ortalama 4-5 dakikadır. Bu hızlı yanıt süresi, tehdit altındaki kadınlara hızlı bir güvenlik ağı sunar.
+
+---
+# Konu: KADES Uygulaması Pratik Bilgiler
+
+## Soru: KADES uygulaması çalışmıyorsa ne yapmalıyım?
+Cevap: KADES’in doğru şekilde çalışabilmesi için kimlik bilgilerinizin güncel olması önemlidir. Örneğin, evlenip soyadı değişikliği yaptıysanız, uygulamada yeni soy isminizi güncellemeniz gerekir. Eğer soyadı güncellenmezse veya kimlik bilgilerinde uyumsuzluk varsa, uygulama doğru çalışmayabilir.
+
+## Soru: KADES'i kimler indirebilir ve kullanabilir?
+Cevap: KADES uygulaması, Türkiye’de yaşayan ve tehdit altında olduğunu hisseden veya şiddet görme ihtimali olan tüm kadınlar için kullanıma sunulmuştur. Eşinden, aile üyelerinden veya herhangi bir kişiden şiddet gören ya da tehdit altında olan kadınlar bu uygulamayı kullanabilir. Uygulama, sadece kadın kullanıcılar için geliştirilmiştir.
+
+## Soru: KADES tuşuna basınca tam olarak ne olur?
+Cevap: Acil yardım butonuna basıldığında, sistem bunu bir acil ihbar olarak kaydeder ve durum en yakın güvenlik birimine iletilir. Bu sayede, güvenlik güçleri hızla harekete geçerek bulunduğunuz konuma yönlendirilir.
+
+## Soru: KADES'e yanlışlıkla bastım, ne yapmalıyım? İhbarı iptal edebilir miyim?
+Cevap: Evet, eğer KADES butonuna yanlışlıkla bastıysanız, uygulamada yer alan "HAYIR" seçeneğini seçerek ihbarı iptal edebilirsiniz. Yanlış bir ihbar yapıldığında, güvenlik güçlerini meşgul etmemek için en kısa sürede iptal işlemi yapılmalıdır.
+
+---
+# Konu: Kullanıcı Endişeleri ve Teknik Detaylar
+
+## Soru: KADES uygulaması, ben butona basmasam bile sürekli konumumu takip ediyor mu?
+Cevap: Hayır, KADES uygulaması konumunuzu sürekli olarak takip etmez. Konum bilginiz, sadece acil durum butonuna bastığınız anda 112 Acil Çağrı Merkezi ile paylaşılır. Bu, gizliliğinizin korunması için önemlidir.
+
+## Soru: İnternetim yoksa veya sinyalim çok azsa KADES yine de çalışır mı?
+Cevap: KADES uygulamasının ihbar gönderebilmesi için internet bağlantısına ihtiyacı vardır. Ancak, internetinizin olmadığı veya çok zayıf olduğu durumlarda, doğrudan 112'yi aramak her zaman en güvenli acil durum yöntemidir.
+
+## Soru: Yanlışlıkla basarsam ve zamanında iptal edemezsem ne olur? Başım belaya girer mi?
+Cevap: Hayır, başınız belaya girmez. Polis ekipleri ihbar üzerine bulunduğunuz konuma gelecektir. Durumun bir yanlışlık olduğunu sakince anlattığınızda anlayışla karşılayacaklardır. Amaç, gerçekten ihtiyacı olan birinin yardım çağrısını kaçırmamak olduğu için, yanlışlıkla da olsa her ihbar ciddiye alınır. Önemli olan, durumu ekiplere doğru bir şekilde açıklamaktır.
+
+## Soru: KADES uygulamasını kullanmak veya yardım çağırmak ücretli mi?
+Cevap: Hayır, KADES uygulamasını indirmek de, acil durum ihbarında bulunmak da tamamen ücretsizdir.
